@@ -49,7 +49,7 @@ with st.container():
         st.info("Este aplicativo foi desenvolvido pela **Seleção Natural**, abrindo espaço para biodiversidade.")
         st.markdown("[Acesse nosso site oficial](https://www.selecaonatural.net/)")
         st.write("---")
-        st.caption("Versão 1.2.0 | © 2026 Seleção Natural")
+        st.caption("Versão 1.3.0 | © 2026 Seleção Natural")
 
     # Memórias do aplicativo
     if 'tabela_dados' not in st.session_state:
@@ -60,7 +60,7 @@ with st.container():
     # ==============================================================================
     # 3. CORPO DO APLICATIVO
     # ==============================================================================
-    st.title("Verificador de Espécies - Módulo Fauna")
+    st.title("Verificador de Espécies - Fauna e Flora")
     st.markdown("Verificação do Grau de Ameaça de Extinção (MMA) com resolução taxonômica (GBIF).")
 
     aba1, aba2 = st.tabs(["📋 Copiar e Colar", "📁 Upload de Planilha"])
@@ -91,18 +91,33 @@ with st.container():
         
         # LÓGICA DE CONSULTA
         if st.button("Consultar Status e Sinônimos"):
-            caminho_mma = "fauna-ameacada-2021.csv"
+            caminho_fauna = "fauna-ameacada-2021.csv"
+            caminho_flora = "flora-ameacada-2021.csv"
             
-            if not os.path.exists(caminho_mma):
-                st.error(f"Arquivo '{caminho_mma}' não encontrado na pasta.")
+            if not os.path.exists(caminho_fauna) or not os.path.exists(caminho_flora):
+                st.error(f"Certifique-se de que os arquivos '{caminho_fauna}' e '{caminho_flora}' estão na mesma pasta do aplicativo.")
             else:
+                # 1. Carregar Fauna
                 try:
-                    df_mma = pd.read_csv(caminho_mma, sep=';', encoding='utf-8')
+                    df_fauna = pd.read_csv(caminho_fauna, sep=';', encoding='utf-8')
                 except UnicodeDecodeError:
-                    df_mma = pd.read_csv(caminho_mma, sep=';', encoding='latin1')
+                    df_fauna = pd.read_csv(caminho_fauna, sep=';', encoding='latin1')
                 
-                df_mma['Espécie ou Subespécie'] = df_mma['Espécie ou Subespécie'].astype(str).str.strip()
-                mma_dict = dict(zip(df_mma['Espécie ou Subespécie'].str.lower(), df_mma['Sugestão de Categoria 2021']))
+                # 2. Carregar Flora
+                try:
+                    df_flora = pd.read_csv(caminho_flora, sep=';', encoding='utf-8')
+                except UnicodeDecodeError:
+                    df_flora = pd.read_csv(caminho_flora, sep=';', encoding='latin1')
+                
+                # 3. Criar dicionários e juntá-los
+                df_fauna['Espécie ou Subespécie'] = df_fauna['Espécie ou Subespécie'].astype(str).str.strip()
+                dict_fauna = dict(zip(df_fauna['Espécie ou Subespécie'].str.lower(), df_fauna['Sugestão de Categoria 2021']))
+                
+                df_flora['Espécie (FB 2020)'] = df_flora['Espécie (FB 2020)'].astype(str).str.strip()
+                dict_flora = dict(zip(df_flora['Espécie (FB 2020)'].str.lower(), df_flora['Sugestão de Categoria 2021']))
+                
+                # Dicionário unificado (Fauna + Flora)
+                mma_dict = {**dict_fauna, **dict_flora}
                 
                 status_final = []
                 notas_taxon = []
@@ -197,11 +212,12 @@ with st.container():
             # Se o usuário JÁ colocou o e-mail, mostra o botão real de download
             else:
                 st.success("✅ Acesso liberado! Clique no botão abaixo para salvar seu arquivo.")
-                csv_export = df.to_csv(index=False).encode('utf-8')
+                # Usando utf-8-sig para garantir que o Excel abra os acentos perfeitamente!
+                csv_export = df.to_csv(index=False).encode('utf-8-sig')
                 st.download_button(
                     label="⬇️ Baixar Tabela Final (CSV)",
                     data=csv_export,
-                    file_name="analise_fauna_mma.csv",
+                    file_name="analise_especies_mma.csv",
                     mime="text/csv",
                 )
 
@@ -218,3 +234,6 @@ st.markdown(
     """, 
     unsafe_allow_html=True
 )
+        
+          
+      
