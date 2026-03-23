@@ -1,0 +1,1408 @@
+﻿#;Grupo taxonômico;Ordem;Família;Espécie ou Subespécie;Nome avaliação anterior;Categoria em 2014;Sugestão de Categoria 2021;EW;CR;EN,;VU;RE;EX;Mesma Categoria de Ameaça 2014;Aumentou a Categoria de Ameaça;Reduziu a Categoria de Ameaça;Entrou em Categoria de Ameaça;Saiu da Categoria de Ameaça;Mantida a Categoria 2014  por não ter reavaliação ou validação
+1;Invertebrados Marinhos;Actiniaria;Actiniidae;Condylactis gigantea;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+2;Invertebrados Terrestres;Amblypygi;Charinidae;Charinus acaraje;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+3;Invertebrados Terrestres;Amblypygi;Charinidae;Charinus asturius;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+4;Invertebrados Terrestres;Amblypygi;Charinidae;Charinus caatingae;;;Criticamente em Perigo (CR);;X;;;;;;;;X;;
+5;Invertebrados Terrestres;Amblypygi;Charinidae;Charinus eleonorae;;Criticamente em Perigo (CR);Em Perigo (EN);;;X;;;;;;X;;;
+6;Invertebrados Terrestres;Amblypygi;Charinidae;Charinus ferreus;;;Criticamente em Perigo (CR);;X;;;;;;;;X;;
+7;Invertebrados Terrestres;Amblypygi;Charinidae;Charinus potiguar;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+8;Invertebrados Terrestres;Amblypygi;Charinidae;Charinus spelaeus;;;Vulnerável (VU);;;;X;;;;;;X;;
+9;Invertebrados Terrestres;Amblypygi;Charinidae;Charinus taboa;;;Criticamente em Perigo (CR);;X;;;;;;;;X;;
+10;Invertebrados Terrestres;Amblypygi;Charinidae;Charinus troglobius;;Criticamente em Perigo (CR);Em Perigo (EN);;;X;;;;;;X;;;
+11;Invertebrados de Água Doce;Amphipoda;Artesiidae;Spelaeogammarus bahiensis;;;Vulnerável (VU);;;;X;;;;;;X;;
+12;Invertebrados de Água Doce;Amphipoda;Artesiidae;Spelaeogammarus sanctus;;;Criticamente em Perigo (CR);;X;;;;;;;;X;;
+13;Invertebrados de Água Doce;Amphipoda;Artesiidae;Spelaeogammarus santanensis;;;Criticamente em Perigo (CR);;X;;;;;;;;X;;
+14;Invertebrados de Água Doce;Amphipoda;Artesiidae;Spelaeogammarus spinilacertus;;;Em Perigo (EN);;;X;;;;;;;X;;
+15;Invertebrados de Água Doce;Amphipoda;Artesiidae;Spelaeogammarus titan;;;Criticamente em Perigo (CR);;X;;;;;;;;X;;
+16;Invertebrados de Água Doce ;Amphipoda;Artesiidae;Spelaeogammarus trajanoae;;;Em Perigo (EN);;;X;;;;;;;X;;
+17;Invertebrados de Água Doce;Amphipoda;Bogidiellidae;Megagidiella azul;;;Vulnerável (VU);;;;X;;;;;;X;;
+18;Invertebrados de Água Doce;Amphipoda;Dogielinotidae;Hyalella caeca;;Menos Preocupante (LC);Vulnerável (VU);;;;X;;;;;;X;;
+19;Invertebrados de Água Doce;Amphipoda;Hyalellidae;Hyalella epikarstica;;;Criticamente em Perigo (CR);;X;;;;;;;;X;;
+20;Invertebrados de Água Doce;Amphipoda;Hyalellidae;Hyalella formosa;;;Criticamente em Perigo (CR);;X;;;;;;;;X;;
+21;Invertebrados de Água Doce;Amphipoda;Hyalellidae;Hyalella imbya;;;Criticamente em Perigo (CR)(PEX);;X;;;;;;;;X;;
+22;Invertebrados de Água Doce;Amphipoda;Hyalellidae;Hyalella veredae;;;Criticamente em Perigo (CR);;X;;;;;;;;X;;
+23;Invertebrados de Água Doce;Amphipoda;Mesogammaridae;Potiberaba porakuara;;;Vulnerável (VU);;;;X;;;;;;X;;
+24;Invertebrados de Água Doce;Amphipoda;Sebidae;Seborgia potiguar;;;Criticamente em Perigo (CR);;X;;;;;;;;X;;
+25;Invertebrados Marinhos;Anthoathecata;Milleporidae;Millepora laboreli;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+26;Invertebrados Marinhos;Apodida;Synaptidae;Synaptula secreta;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+27;Invertebrados Terrestres;Araneae;Caponiidae;Carajas paraua;;;Em Perigo (EN);;;X;;;;;;;X;;
+28;Invertebrados Terrestres;Araneae;Caponiidae;Tisentnops onix;;;Criticamente em Perigo (CR);;X;;;;;;;;X;;
+29;Invertebrados Terrestres;Araneae;Corinnidae;Ianduba paubrasil;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+30;Invertebrados Terrestres;Araneae;Ctenidae;Celaetycheus mungunza;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+31;Invertebrados Terrestres;Araneae;Ctenidae;Isoctenus corymbus;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+32;Invertebrados Terrestres;Araneae;Dipluridae;Harmonicon cerberus;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+33;Invertebrados Terrestres;Araneae;Drymusidae;Drymusa spelunca;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+34;Invertebrados Terrestres;Araneae;Gnaphosidae;Brasilomma enigmatica;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+35;Invertebrados Terrestres;Araneae;Gnaphosidae;Tricongius ybyguara;Lygromma ybyguara;Criticamente em Perigo (CR);Vulnerável (VU);;;;X;;;;;X;;;
+36;Invertebrados Terrestres;Araneae;Ochyroceratidae;Ochyrocera ibitipoca;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+37;Invertebrados Terrestres;Araneae;Ochyroceratidae;Speocera eleonorae;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+38;Invertebrados Terrestres;Araneae;Pholcidae;Metagonia diamantina;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+39;Invertebrados Terrestres;Araneae;Pholcidae;Metagonia potiguar;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+40;Invertebrados Terrestres;Araneae;Salticidae;Matagaia chromatopus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+41;Invertebrados Terrestres;Araneae;Salticidae;Neonella noronha;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+42;Invertebrados Terrestres;Araneae;Segestriidae;Ariadna aurea;;;Vulnerável (VU);;;;X;;;;;;X;;
+43;Invertebrados Terrestres;Araneae;Sicariidae;Loxosceles troglobia;;;Vulnerável (VU);;;;X;;;;;;X;;
+44;Invertebrados Terrestres;Araneae;Theraphosidae;Dolichothele diamantinensis;Oligoxystre diamantinensis;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+45;Invertebrados Terrestres;Araneae;Theraphosidae;Pterinopelma sazimai;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+46;Invertebrados Terrestres;Araneae;Theraphosidae;Tmesiphantes hypogeus;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+47;Invertebrados Terrestres;Araneae;Theraphosidae;Typhochlaena curumim;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+48;Invertebrados Terrestres;Araneae;Theraphosidae;Typhochlaena seladonia;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+49;Invertebrados Terrestres;Araneae;Theraphosidae;Ybyrapora diversipes;Avicularia diversipes;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+50;Invertebrados Terrestres;Araneae;Theraphosidae;Ybyrapora gamba;Avicularia gamba;Criticamente Em Perigo (CR);Criticamente Em Perigo (CR);;X;;;;;X;;;;;X
+51;Invertebrados Terrestres;Blattodea;Blattellidae;Litoblatta camargoi;;;Em Perigo (EN);;;X;;;;;;;X;;
+52;Invertebrados Terrestres;Caenogastropoda;Ampullariidae;Pomacea sordida;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+53;Invertebrados Terrestres;Caenogastropoda;Hydrobiidae;Potamolithus karsticus;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+54;Invertebrados de Água Doce;Caenogastropoda;Hydrobiidae;Potamolithus troglobius;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+55;Invertebrados Marinhos;Camarodonta;Toxopneustidae;Lytechinus variegatus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+56;Invertebrados Marinhos;Cassiduloida;Cassidulidae;Cassidulus mitis;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+57;Invertebrados Terrestres;Coleoptera;Carabidae;Coarazuphium amazonicus;;;Criticamente em Perigo (CR);;X;;;;;;;;X;;
+58;Invertebrados Terrestres;Coleoptera;Carabidae;Coarazuphium bezerra;;Vulnerável (VU);Dados Insuficientes (DD);;;;;;;;;;;X;
+59;Invertebrados Terrestres;Coleoptera;Carabidae;Coarazuphium caatinga;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+60;Invertebrados Terrestres;Coleoptera;Carabidae;Coarazuphium cessaima;;Criticamente em Perigo (CR);Em Perigo (EN);;;X;;;;;;X;;;
+61;Invertebrados Terrestres;Coleoptera;Carabidae;Coarazuphium formoso;;Vulnerável (VU);Criticamente em Perigo (CR);;X;;;;;;X;;;;
+62;Invertebrados Terrestres;Coleoptera;Carabidae;Coarazuphium pains;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+63;Invertebrados Terrestres;Coleoptera;Carabidae;Coarazuphium ricardoi;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+64;Invertebrados Terrestres;Coleoptera;Carabidae;Coarazuphium spinifemur;;;Criticamente em Perigo (CR);;X;;;;;;;;X;;
+65;Invertebrados Terrestres;Coleoptera;Carabidae;Coarazuphium tapiaguassu;;Criticamente em Perigo (CR);Em Perigo (EN);;;X;;;;;;X;;;
+66;Invertebrados Terrestres;Coleoptera;Carabidae;Coarazuphium tessai;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+67;Invertebrados Terrestres;Coleoptera;Carabidae;Schizogenius ocellatus;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+68;Invertebrados Terrestres;Coleoptera;Cerambycidae;Hypocephalus armatus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+69;Invertebrados Terrestres;Coleoptera;Ciidae;Ceracis cassumbensis;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+70;Invertebrados de Água Doce;Coleoptera;Dytiscidae;Copelatus cessaima;;Criticamente em Perigo (CR);Em Perigo (EN);;;X;;;;;;X;;;
+71;Invertebrados Terrestres;Coleoptera;Lampyridae;Amydetes bellorum;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+72;Invertebrados Terrestres;Coleoptera;Lucanidae;Altitatiayus campoi;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+73;Invertebrados Terrestres;Coleoptera;Lucanidae;Altitatiayus dulceae;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+74;Invertebrados Terrestres;Coleoptera;Lucanidae;Altitatiayus godinhorum;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+75;Invertebrados Terrestres;Coleoptera;Lucanidae;Altitatiayus koikei;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+76;Invertebrados Terrestres;Coleoptera;Lucanidae;Altitatiayus rotundatus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+77;Invertebrados Terrestres;Coleoptera;Lucanidae;Altitatiayus ruficollis;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+78;Invertebrados Terrestres;Coleoptera;Lucanidae;Altitatiayus trifurcatus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+79;Invertebrados Terrestres;Coleoptera;Lycidae;Cartagonum apiuba;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+80;Invertebrados Terrestres;Coleoptera;Lycidae;Lycomorphon brasiliense;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+81;Invertebrados Terrestres;Coleoptera;Scarabaeidae;Ateuchus squalidus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+82;Invertebrados Terrestres;Coleoptera;Scarabaeidae;Canthon corpulentus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+83;Invertebrados Terrestres;Coleoptera;Scarabaeidae;Canthon quadripunctatus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+84;Invertebrados Terrestres;Coleoptera;Scarabaeidae;Dichotomius eucranioides;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+85;Invertebrados Terrestres;Coleoptera;Scarabaeidae;Dichotomius mysticus;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+86;Invertebrados Terrestres;Coleoptera;Scarabaeidae;Dichotomius schiffleri;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+87;Invertebrados Terrestres;Coleoptera;Scarabaeidae;Pedaridium hirsutum;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+88;Invertebrados Terrestres;Coleoptera;Staphylinidae;Metopiellus painensis;;;Em Perigo (EN);;;X;;;;;;;X;;
+89;Invertebrados Terrestres;Collembola;Arrhopalitidae;Arrhopalites amorimi;;Criticamente em Perigo (CR);Vulnerável (VU);;;;X;;;;;X;;;
+90;Invertebrados Terrestres;Collembola;Arrhopalitidae;Arrhopalites glabrofasciatus;;;Em Perigo (EN);;;X;;;;;;;X;;
+91;Invertebrados Terrestres;Collembola;Entomobryidae;Pseudosinella ambigua;;;Vulnerável (VU);;;;X;;;;;;X;;
+92;Invertebrados Terrestres;Collembola;Entomobryidae;Pseudosinella guanhaensis;;;Criticamente em Perigo (CR);;X;;;;;;;;X;;
+93;Invertebrados Terrestres;Collembola;Isotomidae;Archisotoma arariboia;;;Criticamente em Perigo (CR);;X;;;;;;;;X;;
+94;Invertebrados Terrestres;Collembola;Paronellidae;Troglobius brasiliensis;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+95;Invertebrados Terrestres;Collembola;Paronellidae;Troglobius ferroicus;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+96;Invertebrados Terrestres;Collembola;Paronellidae;Trogolaphysa aelleni;;Vulnerável (VU);Criticamente em Perigo (CR);;X;;;;;;X;;;;
+97;Invertebrados Terrestres;Collembola;Paronellidae;Trogolaphysa hauseri;;Vulnerável (VU);Dados Insuficientes (DD);;;;;;;;;;;X;
+98;Invertebrados Terrestres;Collembola;Sminthuridae;Pararrhopalites papaveroi;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+99;Invertebrados Terrestres;Collembola;Sminthuridae;Pararrhopalites sideroicus;;;Criticamente em Perigo (CR);;X;;;;;;;;X;;
+100;Invertebrados Terrestres;Collembola;Sminthuridae;Pararrhopalites ubiquum;;;Vulnerável (VU);;;;X;;;;;;X;;
+101;Invertebrados Terrestres;Collembola;Sminthuridae;Pararrhopalites wallacei;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+102;Invertebrados de Água Doce;Decapoda;Aeglidae;Aegla brevipalma;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+103;Invertebrados de Água Doce;Decapoda;Aeglidae;Aegla camargoi;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+104;Invertebrados de Água Doce;Decapoda;Aeglidae;Aegla cavernicola;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+105;Invertebrados de Água Doce;Decapoda;Aeglidae;Aegla charon;;;Criticamente em Perigo (CR);;X;;;;;;;;X;;
+106;Invertebrados de Água Doce;Decapoda;Aeglidae;Aegla franca;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+107;Invertebrados de Água Doce;Decapoda;Aeglidae;Aegla grisella;;Vulnerável (VU);Menos Preocupante (LC);;;;;;;;;;;X;
+108;Invertebrados de Água Doce;Decapoda;Aeglidae;Aegla inconspicua;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+109;Invertebrados de Água Doce;Decapoda;Aeglidae;Aegla inermis;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+110;Invertebrados de Água Doce;Decapoda;Aeglidae;Aegla itacolomiensis;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+111;Invertebrados de Água Doce;Decapoda;Aeglidae;Aegla lata;;Criticamente em Perigo (CR);Menos Preocupante (LC);;;;;;;;;;;X;
+112;Invertebrados de Água Doce;Decapoda;Aeglidae;Aegla leachi;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+113;Invertebrados de Água Doce;Decapoda;Aeglidae;Aegla leptochela;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+114;Invertebrados de Água Doce;Decapoda;Aeglidae;Aegla leptodactyla;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+115;Invertebrados de Água Doce;Decapoda;Aeglidae;Aegla ligulata;;Vulnerável (VU);Menos Preocupante (LC);;;;;;;;;;;X;
+116;Invertebrados de Água Doce;Decapoda;Aeglidae;Aegla manuinflata;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+117;Invertebrados de Água Doce;Decapoda;Aeglidae;Aegla microphthalma;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+118;Invertebrados de Água Doce;Decapoda;Aeglidae;Aegla oblata;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+119;Invertebrados de Água Doce;Decapoda;Aeglidae;Aegla obstipa;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+120;Invertebrados de Água Doce;Decapoda;Aeglidae;Aegla perobae;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+121;Invertebrados de Água Doce;Decapoda;Aeglidae;Aegla plana;;Em Perigo (EN);Menos Preocupante (LC);;;;;;;;;;;X;
+122;Invertebrados de Água Doce;Decapoda;Aeglidae;Aegla pomerana;;Em Perigo (EN);Menos Preocupante (LC);;;;;;;;;;;X;
+123;Invertebrados de Água Doce;Decapoda;Aeglidae;Aegla renana;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+124;Invertebrados de Água Doce;Decapoda;Aeglidae;Aegla rossiana;;Em Perigo (EN);Menos Preocupante (LC);;;;;;;;;;;X;
+125;Invertebrados de Água Doce;Decapoda;Aeglidae;Aegla spinipalma;;Vulnerável (VU);Dados Insuficientes (DD);;;;;;;;;;;X;
+126;Invertebrados de Água Doce;Decapoda;Aeglidae;Aegla spinosa;;Vulnerável (VU);Menos Preocupante (LC);;;;;;;;;;;X;
+127;Invertebrados de Água Doce;Decapoda;Aeglidae;Aegla strinatii;;Em Perigo (EN);Menos Preocupante (LC);;;;;;;;;;;X;
+128;Invertebrados de Água Doce;Decapoda;Aeglidae;Aegla violacea;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+129;Invertebrados Marinhos;Decapoda;Gecarcinidae;Cardisoma guanhumi;;Criticamente em Perigo (CR);Vulnerável (VU);;;;X;;;;;X;;;
+130;Invertebrados Marinhos;Decapoda;Gecarcinidae;Johngarthia lagostoma;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+131;Invertebrados Terrestres;Diplura;Campodeidae;Oncinocampa trajanoae;;;Criticamente em Perigo (CR);;X;;;;;;;;X;;
+132;Invertebrados Marinhos;Enteropneusta;Spengelidae;Willeya loya;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+133;Invertebrados Terrestres;Entomobryomorpha;Entomobryidae;Seira arenicola;;Dados Insuficientes (DD);Em Perigo (EN);;;X;;;;;;;X;;
+134;Invertebrados Terrestres;Entomobryomorpha;Entomobryidae;Seira mataraquensis;;Dados Insuficientes (DD);Em Perigo (EN);;;X;;;;;;;X;;
+135;Invertebrados Terrestres;Entomobryomorpha;Entomobryidae;Seira musarum;;Menos Preocupante (LC);Vulnerável (VU);;;;X;;;;;;X;;
+136;Invertebrados Terrestres;Entomobryomorpha;Entomobryidae;Seira pseudoannulata;;Dados Insuficientes (DD);Em Perigo (EN);;;X;;;;;;;X;;
+137;Invertebrados Terrestres;Entomobryomorpha;Isotomidae;Archisotoma catiae;;Menos Preocupante (LC);Criticamente em Perigo (CR);;X;;;;;;;;X;;
+138;Invertebrados Terrestres;Entomobryomorpha;Isotomidae;Arlea arenicola;;Menos Preocupante (LC);Criticamente em Perigo (CR);;X;;;;;;;;X;;
+139;Invertebrados Terrestres;Entomobryomorpha;Isotomidae;Arlea psammophila;;Menos Preocupante (LC);Criticamente em Perigo (CR);;X;;;;;;;;X;;
+140;Invertebrados Terrestres;Entomobryomorpha;Isotomidae;Isotomiella uai;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+141;Invertebrados Terrestres;Entomobryomorpha;Isotomidae;Isotomodes cariocus;;Menos Preocupante (LC);Criticamente em Perigo (CR);;X;;;;;;;;X;;
+142;Invertebrados Terrestres;Entomobryomorpha;Isotomidae;Isotomurus riparius;;Menos Preocupante (LC);Criticamente em Perigo (CR);;X;;;;;;;;X;;
+143;Invertebrados Terrestres;Entomobryomorpha;Isotomidae;Paracerura gandarela;;Dados Insuficientes (DD);Vulnerável (VU);;;;X;;;;;;X;;
+144;Invertebrados Terrestres;Entomobryomorpha;Isotomidae;Psammisotoma restingae;;Menos Preocupante (LC);Criticamente em Perigo (CR);;X;;;;;;;;X;;
+145;Invertebrados de Água Doce;Ephemeroptera;Baetidae;Adebrotus lugoi;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+146;Invertebrados de Água Doce;Ephemeroptera;Baetidae;Baetodes capixaba;;Vulnerável (VU);Menos Preocupante (LC);;;;;;;;;;;X;
+147;Invertebrados de Água Doce;Ephemeroptera;Baetidae;Baetodes iuaquita;;Vulnerável (VU);Menos Preocupante (LC);;;;;;;;;;;X;
+148;Invertebrados de Água Doce;Ephemeroptera;Baetidae;Camelobaetidius juparana;;Quase Ameaçada (NT);Vulnerável (VU);;;;X;;;;;;X;;
+149;Invertebrados de Água Doce;Ephemeroptera;Baetidae;Camelobaetidius maranhensis;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+150;Invertebrados de Água Doce;Ephemeroptera;Baetidae;Camelobaetidius spinosus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+151;Invertebrados de Água Doce;Ephemeroptera;Baetidae;Camelobaetidius yacutinga;;Vulnerável (VU);Menos Preocupante (LC);;;;;;;;;;;X;
+152;Invertebrados de Água Doce;Ephemeroptera;Leptophlebiidae;Hermanella amere;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+153;Invertebrados de Água Doce;Ephemeroptera;Leptophlebiidae;Hermanella mazama;;Em Perigo (EN);Menos Preocupante (LC);;;;;;;;;;;X;
+154;Invertebrados de Água Doce;Ephemeroptera;Leptophlebiidae;Hermanella nigra;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+155;Invertebrados de Água Doce;Ephemeroptera;Leptophlebiidae;Simothraulopsis eurybasis;;;Vulnerável (VU);;;;X;;;;;;X;;
+156;Invertebrados Marinhos;Eunicida;Eunicidae;Eunice sebastiani;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+157;Invertebrados Marinhos;Eunicida;Onuphidae;Diopatra cuprea;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+158;Invertebrados Terrestres;Euonychophora;Peripatidae;Epiperipatus adenocryptus;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+159;Invertebrados Terrestres;Euonychophora;Peripatidae;Epiperipatus diadenoproctus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+160;Invertebrados Terrestres;Euonychophora;Peripatidae;Epiperipatus ohausi;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+161;Invertebrados Terrestres;Euonychophora;Peripatidae;Epiperipatus paurognostus;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+162;Invertebrados Marinhos;Forcipulatida;Asteriidae;Coscinasterias tenuispina;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+163;Invertebrados Terrestres;Glomeridesmida;Glomerodesmidae;Glomeridesmus spelaeus;;Criticamente em Perigo (CR);Em Perigo (EN);;;X;;;;;;X;;;
+164;Invertebrados Terrestres;Gymnomorpha;Veronicellidae;Phyllocaulis renschi;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+165;Invertebrados Terrestres;Haplotaxida;Glossoscolecidae;Fimoscolex sporadochaetus;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+166;Invertebrados Terrestres;Hemiptera;Cixiidae;Ferricixius davidi;;;Criticamente em Perigo (CR);;X;;;;;;;;X;;
+167;Invertebrados Terrestres;Hemiptera;Kinnaridae;Iuiuia caeca;;;Vulnerável (VU);;;;X;;;;;;X;;
+168;Invertebrados Terrestres;Hemiptera;Kinnaridae;Kinnapotiguara troglobia;;;Vulnerável (VU);;;;X;;;;;;X;;
+169;Invertebrados Terrestres;Hymenoptera;Andrenidae;Arhysosage cactorum;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+170;Invertebrados Terrestres;Hymenoptera;Apidae;Melipona capixaba;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+171;Invertebrados Terrestres;Hymenoptera;Apidae;Melipona rufiventris;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+172;Invertebrados Terrestres;Hymenoptera;Apidae;Melipona scutellaris;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+173;Invertebrados Terrestres;Hymenoptera;Apidae;Partamona littoralis;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+174;Invertebrados Terrestres;Hymenoptera;Formicidae;Anochetus oriens;;Vulnerável (VU);Menos Preocupante (LC);;;;;;;;;;;X;
+175;Invertebrados Terrestres;Hymenoptera;Formicidae;Atta robusta;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+176;Invertebrados Terrestres;Hymenoptera;Formicidae;Brachymyrmex micromegas;;Em Perigo (EN);Vulnerável (VU);;;;X;;;;;X;;;
+177;Invertebrados Terrestres;Hymenoptera;Formicidae;Diaphoromyrma sofiae;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+178;Invertebrados Terrestres;Hymenoptera;Formicidae;Dinoponera lucida;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+179;Invertebrados Terrestres;Hymenoptera;Formicidae;Fulakora cleae;Stigmatomma cleae;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+180;Invertebrados Terrestres;Hymenoptera;Formicidae;Gnamptogenys wilsoni;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+181;Invertebrados Terrestres;Hymenoptera;Formicidae;Lachnomyrmex nordestinus;;Vulnerável (VU);Menos Preocupante (LC);;;;;;;;;;;X;
+182;Invertebrados Terrestres;Hymenoptera;Formicidae;Monomorium delabiei;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+183;Invertebrados Terrestres;Hymenoptera;Formicidae;Mycetagroicus urbanus;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+184;Invertebrados Terrestres;Hymenoptera;Formicidae;Mycetomoellerius atlanticus;Trachymyrmex atlanticus;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+185;Invertebrados Terrestres;Hymenoptera;Formicidae;Mycetophylax simplex;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+186;Invertebrados Terrestres;Hymenoptera;Formicidae;Rhopalothrix plaumanni;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+187;Invertebrados de Água Doce;Isopoda;Brasileirinidae;Brasileirinho cavaticus;;;Criticamente em Perigo (CR);;X;;;;;;;;X;;
+188;Invertebrados de Água Doce;Isopoda;Calabozoidae;Pongycarcinia xiphidiourus;;;Em Perigo (EN);;;X;;;;;;;X;;
+189;Invertebrados Terrestres;Isopoda;Pudeoniscidae;Iansaoniscus georginae;;;Criticamente em Perigo (CR);;X;;;;;;;;X;;
+190;Invertebrados Terrestres;Isopoda;Pudeoniscidae;Iansaoniscus iraquara;;;Criticamente em Perigo (CR);;X;;;;;;;;X;;
+191;Invertebrados Terrestres;Isopoda;Scleropactidae;Amazoniscus leistikowi;;;Criticamente em Perigo (CR);;X;;;;;;;;X;;
+192;Invertebrados Terrestres;Isopoda;Scleropactidae;Circoniscus buckupi;;;Criticamente em Perigo (CR);;X;;;;;;;;X;;
+193;Invertebrados Terrestres;Isopoda;Scleropactidae;Circoniscus carajasensis;;;Em Perigo (EN);;;X;;;;;;;X;;
+194;Invertebrados Terrestres;Isopoda;Styloniscidae;Iuiuniscus iuiuensis;;;Vulnerável (VU);;;;X;;;;;;X;;
+195;Invertebrados Terrestres;Isopoda;Styloniscidae;Spelunconiscus castroi;;;Criticamente em Perigo (CR);;X;;;;;;;;X;;
+196;Invertebrados Terrestres;Isopoda;Styloniscidae;Xangoniscus aganju;;;Em Perigo (EN);;;X;;;;;;;X;;
+197;Invertebrados Terrestres;Isopoda;Styloniscidae;Xangoniscus itacarambiensis;;;Criticamente em Perigo (CR);;X;;;;;;;;X;;
+198;Invertebrados Terrestres;Isopoda;Styloniscidae;Xangoniscus odara;;;Em Perigo (EN);;;X;;;;;;;X;;
+199;Invertebrados Terrestres;Lepidoptera;Crambidae;Parapoynx restingalis;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+200;Invertebrados Terrestres;Lepidoptera;Hesperiidae;Drephalys miersi;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+201;Invertebrados Terrestres;Lepidoptera;Hesperiidae;Drephalys mourei;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+202;Invertebrados Terrestres;Lepidoptera;Hesperiidae;Olafia roscius iphimedia;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+203;Invertebrados Terrestres;Lepidoptera;Hesperiidae;Parelbella polyzona;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+204;Invertebrados Terrestres;Lepidoptera;Hesperiidae;Pseudocroniades machaon seabrai;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+205;Invertebrados Terrestres;Lepidoptera;Hesperiidae;Turmosa camposa;Turmada camposa;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+206;Invertebrados Terrestres;Lepidoptera;Hesperiidae;Zonia zonia diabo;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+207;Invertebrados Terrestres;Lepidoptera;Lycaenidae;Arawacus aethesa;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+208;Invertebrados Terrestres;Lepidoptera;Lycaenidae;Magnastigma julia;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+209;Invertebrados Terrestres;Lepidoptera;Lycaenidae;Strymon ohausi;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+210;Invertebrados Terrestres;Lepidoptera;Nymphalidae;Actinote quadra;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+211;Invertebrados Terrestres;Lepidoptera;Nymphalidae;Actinote zikani;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+212;Invertebrados Terrestres;Lepidoptera;Nymphalidae;Adelpha atlantica;;;Em Perigo (EN);;;X;;;;;;;X;;
+213;Invertebrados Terrestres;Lepidoptera;Nymphalidae;Dasyophthalma geraensis;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+214;Invertebrados Terrestres;Lepidoptera;Nymphalidae;Dasyophthalma rusina delanira;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+215;Invertebrados Terrestres;Lepidoptera;Nymphalidae;Dasyophthalma vertebralis;;Criticamente em Perigo (CR)(PEX);Criticamente em Perigo (CR)(PEX);;X;;;;;X;;;;;X
+216;Invertebrados Terrestres;Lepidoptera;Nymphalidae;Doxocopa zalmunna;;Criticamente em Perigo (CR)(PEX);Criticamente em Perigo (CR)(PEX);;X;;;;;X;;;;;X
+217;Invertebrados Terrestres;Lepidoptera;Nymphalidae;Episcada vitrea;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+218;Invertebrados Terrestres;Lepidoptera;Nymphalidae;Eresia erysice erysice;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+219;Invertebrados Terrestres;Lepidoptera;Nymphalidae;Euptychia boulleti;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+220;Invertebrados Terrestres;Lepidoptera;Nymphalidae;Forsterinaria itatiaia;;;Vulnerável (VU);;;;X;;;;;;X;;
+221;Invertebrados Terrestres;Lepidoptera;Nymphalidae;Hamadryas velutina browni;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+222;Invertebrados Terrestres;Lepidoptera;Nymphalidae;Heliconius nattereri;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+223;Invertebrados Terrestres;Lepidoptera;Nymphalidae;Hyalyris fiammetta;;Criticamente em Perigo (CR)(PEX);Criticamente em Perigo (CR)(PEX);;X;;;;;X;;;;;X
+224;Invertebrados Terrestres;Lepidoptera;Nymphalidae;Hyalyris leptalina leptalina;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+225;Invertebrados Terrestres;Lepidoptera;Nymphalidae;Mcclungia cymo fallens;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+226;Invertebrados Terrestres;Lepidoptera;Nymphalidae;Melinaea mnasias thera;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+227;Invertebrados Terrestres;Lepidoptera;Nymphalidae;Morpho epistrophus nikolajewna;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+228;Invertebrados Terrestres;Lepidoptera;Nymphalidae;Morpho menelaus eberti;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+229;Invertebrados Terrestres;Lepidoptera;Nymphalidae;Napeogenes rhezia rhezia;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+230;Invertebrados Terrestres;Lepidoptera;Nymphalidae;Orobrassolis ornamentalis;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+231;Invertebrados Terrestres;Lepidoptera;Nymphalidae;Pampasatyrus glaucope boenninghauseni;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+232;Invertebrados Terrestres;Lepidoptera;Nymphalidae;Pampasatyrus glaucope eberti;;;Vulnerável (VU);;;;X;;;;;;X;;
+233;Invertebrados Terrestres;Lepidoptera;Nymphalidae;Pampasatyrus glaucope glaucope;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+234;Invertebrados Terrestres;Lepidoptera;Nymphalidae;Pampasatyrus gyrtone;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+235;Invertebrados Terrestres;Lepidoptera;Nymphalidae;Pampasatyrus reticulata gagarini;;;Em Perigo (EN);;;X;;;;;;;X;;
+236;Invertebrados Terrestres;Lepidoptera;Nymphalidae;Paulogramma hydarnis;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+237;Invertebrados Terrestres;Lepidoptera;Nymphalidae;Polygrapha suprema;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+238;Invertebrados Terrestres;Lepidoptera;Nymphalidae;Praepedaliodes sequeirae;;;Criticamente em Perigo (CR);;X;;;;;;;;X;;
+239;Invertebrados Terrestres;Lepidoptera;Nymphalidae;Prepona deiphile;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+240;Invertebrados Terrestres;Lepidoptera;Nymphalidae;Scada karschina delicata;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+241;Invertebrados Terrestres;Lepidoptera;Nymphalidae;Tithorea harmonia caissara;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+242;Invertebrados Terrestres;Lepidoptera;Nymphalidae;Yphthimoides iserhardi;;;Em Perigo (EN);;;X;;;;;;;X;;
+243;Invertebrados Terrestres;Lepidoptera;Papilionidae;Heraclides himeros baia;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+244;Invertebrados Terrestres;Lepidoptera;Papilionidae;Heraclides himeros himeros;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+245;Invertebrados Terrestres;Lepidoptera;Papilionidae;Mimoides lysithous harrisianus;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+246;Invertebrados Terrestres;Lepidoptera;Papilionidae;Mimoides lysithous sebastianus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+247;Invertebrados Terrestres;Lepidoptera;Papilionidae;Parides ascanius;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+248;Invertebrados Terrestres;Lepidoptera;Papilionidae;Parides bunichus chamissonia;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+249;Invertebrados Terrestres;Lepidoptera;Papilionidae;Parides burchellanus;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+250;Invertebrados Terrestres;Lepidoptera;Papilionidae;Parides klagesi;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+251;Invertebrados Terrestres;Lepidoptera;Papilionidae;Parides panthonus castilhoi;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+252;Invertebrados Terrestres;Lepidoptera;Papilionidae;Parides tros danunciae;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+253;Invertebrados Terrestres;Lepidoptera;Pieridae;Charonias theano;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+254;Invertebrados Terrestres;Lepidoptera;Pieridae;Cunizza hirlanda fulvinota;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+255;Invertebrados Terrestres;Lepidoptera;Pieridae;Cunizza hirlanda planasia;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+256;Invertebrados Terrestres;Lepidoptera;Pieridae;Glennia pylotis;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+257;Invertebrados Terrestres;Lepidoptera;Pieridae;Moschoneura pinthous methymna;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+258;Invertebrados Terrestres;Lepidoptera;Pieridae;Perrhybris pamela flava;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+259;Invertebrados Terrestres;Lepidoptera;Riodinidae;Joiceya praeclarus;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+260;Invertebrados Terrestres;Lepidoptera;Riodinidae;Panara ovifera;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+261;Invertebrados Terrestres;Lepidoptera;Riodinidae;Petrocerus catiena;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+262;Invertebrados Terrestres;Lepidoptera;Riodinidae;Rhetus belphegor;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+263;Invertebrados Terrestres;Lepidoptera;Riodinidae;Voltinia sanarita;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+264;Invertebrados Terrestres;Lepidoptera;Saturniidae;Dirphia monticola;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+265;Invertebrados Terrestres;Lepidoptera;Sphingidae;Aleuron prominens;;Vulnerável (VU);Menos Preocupante (LC);;;;;;;;;;;X;
+266;Invertebrados Terrestres;Lepidoptera;Sphingidae;Aleuron ypanemae;;Em Perigo (EN);Menos Preocupante (LC);;;;;;;;;;;X;
+267;Invertebrados Terrestres;Lepidoptera;Sphingidae;Nyceryx mielkei;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+268;Invertebrados de Água Doce;Littorinimorpha;Pomatiopsidae;Spiripockia punctata;;Em Perigo (EN);Criticamente em Perigo (CR);;X;;;;;;X;;;;
+269;Invertebrados Marinhos;Littorinimorpha;Strombidae;Eustrombus goliath;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+270;Invertebrados Marinhos;Littorinimorpha;Strombidae;Lobatus costatus;Aliger costatus;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+271;Invertebrados Marinhos;Littorinimorpha;Vermetidae;Petaloconchus myrakeenae;;Criticamente em Perigo (CR);Vulnerável (VU);;;;X;;;;;X;;;
+272;Invertebrados Marinhos;Neogastropoda;Olividae;Olivancillaria contortuplicata;;Criticamente em Perigo (CR);Dados Insuficientes (DD);;;;;;;;;;;X;
+273;Invertebrados Marinhos;Neogastropoda;Olividae;Olivancillaria teaguei;;Criticamente em Perigo (CR);Dados Insuficientes (DD);;;;;;;;;;;X;
+274;Invertebrados de Água Doce;Odonata;Aeshnidae;Castoraeschna januaria;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+275;Invertebrados de Água Doce;Odonata;Aeshnidae;Rhionaeschna eduardoi;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+276;Invertebrados de Água Doce;Odonata;Coenagrionidae;Homeoura lindneri;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+277;Invertebrados de Água Doce;Odonata;Coenagrionidae;Leptagrion acutum;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+278;Invertebrados de Água Doce;Odonata;Coenagrionidae;Leptagrion bocainense;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+279;Invertebrados de Água Doce;Odonata;Coenagrionidae;Leptagrion capixabae;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+280;Invertebrados de Água Doce;Odonata;Coenagrionidae;Leptagrion porrectum;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+281;Invertebrados de Água Doce;Odonata;Coenagrionidae;Leptagrion vriesianum;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+282;Invertebrados de Água Doce;Odonata;Gomphidae;Phyllocycla bartica;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+283;Invertebrados de Água Doce;Odonata;Libellulidae;Elasmothemis schubarti;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+284;Invertebrados de Água Doce;Odonata;Libellulidae;Macrothemis tessellata;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+285;Invertebrados de Água Doce;Odonata;Libellulidae;Micrathyria borgmeieri;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+286;Invertebrados de Água Doce;Odonata;Libellulidae;Micrathyria divergens;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+287;Invertebrados de Água Doce;Odonata;Megapodagrionidae;Heteragrion petiense;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+288;Invertebrados de Água Doce;Odonata;Pseudostigmatidae;Mecistogaster pronoti;;Criticamente em Perigo (CR)(PEX);Criticamente em Perigo (CR)(PEX);;X;;;;;X;;;;;X
+289;Invertebrados Terrestres;Opiliones;Cryptogeobiidae;Spinopilar moria;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+290;Invertebrados Terrestres;Opiliones;Escadabiidae;Spaeleoleptes spaeleus;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+291;Invertebrados Terrestres;Opiliones;Gerdesiidae;Gonycranaus pluto;;;Vulnerável (VU);;;;X;;;;;;X;;
+292;Invertebrados Terrestres;Opiliones;Gonyleptidae;Discocyrtus pedrosoi;;Menos Preocupante (LC);Vulnerável (VU);;;;X;;;;;;X;;
+293;Invertebrados Terrestres;Opiliones;Gonyleptidae;Eusarcus elinae;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+294;Invertebrados Terrestres;Opiliones;Gonyleptidae;Giupponia chagasi;;Criticamente em Perigo (CR);Em Perigo (EN);;;X;;;;;;X;;;
+295;Invertebrados Terrestres;Opiliones;Gonyleptidae;Iandumoema setimapocu;;Em Perigo (EN);Vulnerável (VU);;;;X;;;;;X;;;
+296;Invertebrados Terrestres;Opiliones;Gonyleptidae;Iandumoema smeagol;;;Em Perigo (EN);;;X;;;;;;;X;;
+297;Invertebrados Terrestres;Opiliones;Gonyleptidae;Iandumoema uai;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+298;Invertebrados Terrestres;Opiliones;Gonyleptidae;Pachylospeleus strinatii;;Em Perigo (EN);Criticamente em Perigo (CR);;X;;;;;;X;;;;
+299;Invertebrados Terrestres;Opiliones;Kimulidae;Relictopiolus galadriel;;;Criticamente em Perigo (CR);;X;;;;;;;;X;;
+300;Invertebrados Terrestres;Orthoptera;Phalangopsidae;Endecous apterus;;;Em Perigo (EN);;;X;;;;;;;X;;
+301;Invertebrados Terrestres;Orthoptera;Phalangopsidae;Endecous peruassuensis;;;Em Perigo (EN);;;X;;;;;;;X;;
+302;Invertebrados Marinhos;Ostreoida;Pectinidae;Euvola ziczac;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+303;Invertebrados Terrestres;Palpigradi;Eukoeneniidae;Eukoenenia cavatica;;;Criticamente em Perigo (CR);;X;;;;;;;;X;;
+304;Invertebrados Terrestres;Palpigradi;Eukoeneniidae;Eukoenenia eywa;;;Em Perigo (EN);;;X;;;;;;;X;;
+305;Invertebrados Terrestres;Palpigradi;Eukoeneniidae;Eukoenenia jequitinhonha;;;Criticamente em Perigo (CR);;X;;;;;;;;X;;
+306;Invertebrados Terrestres;Palpigradi;Eukoeneniidae;Eukoenenia maquinensis;;Criticamente em Perigo (CR);Vulnerável (VU);;;;X;;;;;X;;;
+307;Invertebrados Terrestres;Palpigradi;Eukoeneniidae;Eukoenenia navi;;;Criticamente em Perigo (CR);;X;;;;;;;;X;;
+308;Invertebrados Terrestres;Palpigradi;Eukoeneniidae;Eukoenenia neytiri;;;Em Perigo (EN);;;X;;;;;;;X;;
+309;Invertebrados Terrestres;Palpigradi;Eukoeneniidae;Eukoenenia potiguar;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+310;Invertebrados Terrestres;Palpigradi;Eukoeneniidae;Eukoenenia sagarana;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+311;Invertebrados Terrestres;Palpigradi;Eukoeneniidae;Eukoenenia spelunca;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+312;Invertebrados Terrestres;Palpigradi;Eukoeneniidae;Eukoenenia virgemdalapa;;Em Perigo (EN);Criticamente em Perigo (CR);;X;;;;;;X;;;;
+313;Invertebrados Terrestres;Palpigradi;Eukoeneniidae;Leptokoenenia pelada;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+314;Invertebrados Terrestres;Palpigradi;Eukoeneniidae;Leptokoenenia thalassophobica;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+315;Invertebrados Marinhos;Paxillosida;Astropectinidae;Astropecten articulatus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+316;Invertebrados Marinhos;Paxillosida;Astropectinidae;Astropecten brasiliensis;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+317;Invertebrados Marinhos;Paxillosida;Astropectinidae;Astropecten marginatus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+318;Invertebrados Marinhos;Paxillosida;Luidiidae;Luidia senegalensis;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+319;Invertebrados Terrestres;Poduromorpha;Brachystomellidae;Maricaella duna;;Menos Preocupante (LC);Criticamente em Perigo (CR);;X;;;;;;;;X;;
+320;Invertebrados Terrestres;Poduromorpha;Hypogastruridae;Acherontides eleonorae;;Em Perigo (EN);Vulnerável (VU);;;;X;;;;;X;;;
+321;Invertebrados Terrestres;Poduromorpha;Neanuridae;Aethiopella littoralis;;Menos Preocupante (LC);Criticamente em Perigo (CR);;X;;;;;;;;X;;
+322;Invertebrados Terrestres;Poduromorpha;Neanuridae;Arlesia intermedia;;Menos Preocupante (LC);Criticamente em Perigo (CR);;X;;;;;;;;X;;
+323;Invertebrados Terrestres;Poduromorpha;Neanuridae;Hyleanura mendoncae;;Dados Insuficientes (DD);Vulnerável (VU);;;;X;;;;;;X;;
+324;Invertebrados Terrestres;Poduromorpha;Neanuridae;Micranurida fluminensis;;Menos Preocupante (LC);Criticamente em Perigo (CR);;X;;;;;;;;X;;
+325;Invertebrados Terrestres;Poduromorpha;Onychiuridae;Agraphorura mariapetrae;;Menos Preocupante (LC);Criticamente em Perigo (CR);;X;;;;;;;;X;;
+326;Invertebrados Terrestres;Poduromorpha;Tullbergiidae;Mesaphorura maricaensis;;Menos Preocupante (LC);Criticamente em Perigo (CR);;X;;;;;;;;X;;
+327;Invertebrados Marinhos;Poecilosclerida;Latrunculiidae;Latrunculia janeirensis;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+328;Invertebrados Terrestres;Polydesmida;Chelodesmidae;Dioplosternus salvatrix;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+329;Invertebrados Terrestres;Polydesmida;Chelodesmidae;Leodesmus yporangae;;Criticamente em Perigo (CR);Em Perigo (EN);;;X;;;;;;X;;;
+330;Invertebrados Terrestres;Polydesmida;Chelodesmidae;Odontopeltis giganteus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+331;Invertebrados Terrestres;Polydesmida;Chelodesmidae;Sandalodesmus stramineus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+332;Invertebrados Terrestres;Polydesmida;Cryptodesmidae;Peridontodesmella alba;;Em Perigo (EN);Vulnerável (VU);;;;X;;;;;X;;;
+333;Invertebrados Terrestres;Polydesmida;Dobrodesmidae;Dobrodesmus mirabilis;;;Criticamente em Perigo (CR);;X;;;;;;;;X;;
+334;Invertebrados Terrestres;Polydesmida;Pyrgodesmidae;Yporangiella stygius;;Vulnerável (VU);Dados Insuficientes (DD);;;;;;;;;;;X;
+335;Invertebrados Terrestres;Pseudoscorpiones;Bochicidae;Spelaeobochica allodentatus;;Criticamente em Perigo (CR);Em Perigo (EN);;;X;;;;;;X;;;
+336;Invertebrados Terrestres;Pseudoscorpiones;Bochicidae;Spelaeobochica iuiu;;Criticamente em Perigo (CR);Em Perigo (EN);;;X;;;;;;X;;;
+337;Invertebrados Terrestres;Pseudoscorpiones;Bochicidae;Spelaeobochica muchmorei;;Em Perigo (EN);Criticamente em Perigo (CR);;X;;;;;;X;;;;
+338;Invertebrados Terrestres;Pseudoscorpiones;Chernetidae;Maxchernes iporangae;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+339;Invertebrados Terrestres;Pseudoscorpiones;Chernetidae;Spelaeochernes gracilipalpus;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+340;Invertebrados Terrestres;Pseudoscorpiones;Chthoniidae;Pseudochthonius biseriatus;;Criticamente em Perigo (CR);Em Perigo (EN);;;X;;;;;;X;;;
+341;Invertebrados Terrestres;Pseudoscorpiones;Ideoroncidae;Ideoroncus cavicola;;Vulnerável (VU);Em Perigo (EN);;;X;;;;;X;;;;
+342;Invertebrados Terrestres;Pseudoscorpiones;Olpiidae;Progarypus nigrimanus;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+343;Invertebrados Terrestres;Pulmonata;Bulimulidae;Thaumastus lundi;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+344;Invertebrados Terrestres;Pulmonata;Lymnaeidae;Lymnaea rupestris;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+345;Invertebrados Terrestres;Pulmonata;Odontostomidae;Macrodontes dautzenbergianus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+346;Invertebrados Terrestres;Pulmonata;Physidae;Physa marmorata;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+347;Invertebrados Terrestres;Pulmonata;Planorbidae;Plesiophysa dolichomastix;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+348;Invertebrados de Água Doce;Pulmonata;Streptaxidae;Hypselartemon alveus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+349;Invertebrados Terrestres;Pulmonata;Succineidae;Succinea lopesi;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+350;Invertebrados Terrestres;Schizomida;Hubbardiidae;Rowlandius ubajara;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+351;Invertebrados Marinhos;Scleractinia;Mussidae;Mussismilia braziliensis;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+352;Invertebrados Marinhos;Scleractinia;Mussidae;Mussismilia harttii;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+353;Invertebrados Terrestres;Scolopendromorpha;Cryptopidae;Cryptops iporangensis;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+354;Invertebrados Terrestres;Scolopendromorpha;Cryptopidae;Cryptops spelaeoraptor;;Vulnerável (VU);Criticamente em Perigo (CR);;X;;;;;;X;;;;
+355;Invertebrados Terrestres;Scolopendromorpha;Scolopendridae;Scolopendropsis duplicata;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+356;Invertebrados Terrestres;Scolopendromorpha;Scolopocryptopidae;Newportia potiguar;;;Vulnerável (VU);;;;X;;;;;;X;;
+357;Invertebrados Terrestres;Scolopendromorpha;Scolopocryptopidae;Newportia spelaea;;;Criticamente em Perigo (CR);;X;;;;;;;;X;;
+358;Invertebrados Terrestres;Scolopendromorpha;Scolopocryptopidae;Scolopocryptops troglocaudatus;;;Em Perigo (EN);;;X;;;;;;;X;;
+359;Invertebrados Terrestres;Scorpiones;Buthidae;Ananteris infuscata;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+360;Invertebrados Terrestres;Scorpiones;Buthidae;Troglorhopalurus lacrau;Rhopalurus lacrau;Em Perigo (EN);Dados Insuficientes (DD);;;;;;;;;;;X;
+361;Invertebrados Terrestres;Scorpiones;Buthidae;Troglorhopalurus translucidus;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+362;Invertebrados Terrestres;Scorpiones;Chactidae;Hadrurochactas araripe;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+363;Invertebrados Terrestres;Scorpiones;Chactidae;Hadrurochactas brejo;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+364;Invertebrados Terrestres;Spirostreptida;Pseudonannolenidae;Pseudonannolene lundi;;;Criticamente em Perigo (CR);;X;;;;;;;;X;;
+365;Invertebrados Terrestres;Spirostreptida;Spirostreptidae;Pseudonannolene ambuatinga;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+366;Invertebrados Terrestres;Spirostreptida;Spirostreptidae;Pseudonannolene gogo;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+367;Invertebrados Terrestres;Spirostreptida;Spirostreptidae;Pseudonannolene imbirensis;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+368;Invertebrados Terrestres;Spirostreptida;Spirostreptidae;Pseudonannolene spelaea;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+369;Invertebrados Terrestres;Spirostreptida;Spirostreptidae;Pseudonannolene tocaiensis;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+370;Invertebrados Terrestres;Spongillida;Metaniidae;Corvomeyenia epilithosa;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+371;Invertebrados de Água Doce;Spongillida;Spongillidae;Racekiela cavernicola;;Criticamente em Perigo (CR);Vulnerável (VU);;;;X;;;;;X;;;
+372;Invertebrados Terrestres;Stylommatophora;Bulimulidae;Tomigerus gibberulus;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+373;Invertebrados Terrestres;Stylommatophora;Megalobulimidae;Megalobulimus cardosoi;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+374;Invertebrados Terrestres;Stylommatophora;Strophocheilidae;Gonyostomus insularis;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+375;Invertebrados Marinhos;Suberitida;Halichondriidae;Halichondria cebimarensis;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+376;Invertebrados Marinhos;Suberitida;Halichondriidae;Halichondria tenebrica;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+377;Invertebrados Terrestres;Symphypleona;Arrhopalitidae;Arrhopalites alambariensis;;Criticamente em Perigo (CR);Vulnerável (VU);;;;X;;;;;X;;;
+378;Invertebrados Terrestres;Symphypleona;Arrhopalitidae;Arrhopalites botuveraensis;;Criticamente em Perigo (CR);Vulnerável (VU);;;;X;;;;;X;;;
+379;Invertebrados Terrestres;Symphypleona;Arrhopalitidae;Arrhopalites gnaspinii;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+380;Invertebrados Terrestres;Symphypleona;Arrhopalitidae;Arrhopalites heteroculatus;;Criticamente em Perigo (CR);Vulnerável (VU);;;;X;;;;;X;;;
+381;Invertebrados Terrestres;Symphypleona;Arrhopalitidae;Arrhopalites lawrencei;;Criticamente em Perigo (CR);Vulnerável (VU);;;;X;;;;;X;;;
+382;Invertebrados Terrestres;Symphypleona;Arrhopalitidae;Arrhopalites paranaensis;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+383;Invertebrados Marinhos;Terebratulida;Bouchardiidae;Bouchardia rosea;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+384;Invertebrados de Água Doce;Tricladida;Dimarcusidae;Hausera hauseri;;;Vulnerável (VU);;;;X;;;;;;X;;
+385;Invertebrados de Água Doce;Tricladida;Dugesiidae;Girardia arenicola;;;Criticamente em Perigo (CR);;X;;;;;;;;X;;
+386;Invertebrados de Água Doce;Tricladida;Dugesiidae;Girardia desiderensis;;;Criticamente em Perigo (CR);;X;;;;;;;;X;;
+387;Invertebrados de Água Doce;Tricladida;Dugesiidae;Girardia multidiverticulata;;;Criticamente em Perigo (CR);;X;;;;;;;;X;;
+388;Invertebrados de Água Doce;Tricladida;Dugesiidae;Girardia paucipuntacta;;;Criticamente em Perigo (CR);;X;;;;;;;;X;;
+389;Invertebrados de Água Doce;Tricladida;Uteriporidae;Sluysia triapertura;;;Criticamente em Perigo (CR);;X;;;;;;;;X;;
+390;Invertebrados Terrestres;Unionoida;Hyriidae;Diplodon koseritzi;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+391;Invertebrados Terrestres;Unionoida;Mycetopodidae;Mycetopoda legumen;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+392;Invertebrados Marinhos;Valvatida;Ophidiasteridae;Linckia guildingi;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+393;Invertebrados Marinhos;Valvatida;Oreasteridae;Oreaster reticulatus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+394;Invertebrados Terrestres;Zygentoma;Nicoletiidae;Cubacubana spelaea;;;Vulnerável (VU);;;;X;;;;;;X;;
+395;Invertebrados de Água Doce;Zygoptera;Coenagrionidae;Aceratobasis cornicauda;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+396;Invertebrados de Água Doce;Zygoptera;Coenagrionidae;Aceratobasis mourei;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+397;Invertebrados de Água Doce;Zygoptera;Coenagrionidae;Fluminagrion taxaense;;Criticamente em Perigo (CR)(PEX);Criticamente em Perigo (CR)(PEX);;X;;;;;X;;;;;X
+398;Peixes Continentais;Atheriniformes;Atherinopsidae;Odontesthes bicudo;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+399;Peixes Continentais;Batrachoidiformes;Batrachoididae;Potamobatrachus trispinosus;;Em Perigo (EN);Dados Insuficientes (DD);;;;;;;;;;;X;
+400;Peixes Marinhos;Carcharhiniformes;Carcharhinidae;Carcharhinus acronotus;;Quase Ameaçada (NT);Vulnerável (VU);;;;X;;;;;;X;;
+401;Peixes Marinhos;Carcharhiniformes;Carcharhinidae;Carcharhinus brevipinna;;Dados Insuficientes (DD);Vulnerável (VU);;;;X;;;;;;X;;
+402;Peixes Marinhos;Carcharhiniformes;Carcharhinidae;Carcharhinus falciformis;;Quase Ameaçada (NT);Criticamente em Perigo (CR);;X;;;;;;;;X;;
+403;Peixes Marinhos;Carcharhiniformes;Carcharhinidae;Carcharhinus galapagensis;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+404;Peixes Marinhos;Carcharhiniformes;Carcharhinidae;Carcharhinus isodon;;Regionalmente Extinta (RE);Dados Insuficientes (DD);;;;;;;;;;;X;
+405;Peixes Marinhos;Carcharhiniformes;Carcharhinidae;Carcharhinus leucas;;Quase Ameaçada (NT);Vulnerável (VU);;;;X;;;;;;X;;
+406;Peixes Marinhos;Carcharhiniformes;Carcharhinidae;Carcharhinus longimanus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+407;Peixes Marinhos;Carcharhiniformes;Carcharhinidae;Carcharhinus obscurus;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+408;Peixes Marinhos;Carcharhiniformes;Carcharhinidae;Carcharhinus perezi;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+409;Peixes Marinhos;Carcharhiniformes;Carcharhinidae;Carcharhinus plumbeus;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+410;Peixes Marinhos;Carcharhiniformes;Carcharhinidae;Carcharhinus porosus;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+411;Peixes Marinhos;Carcharhiniformes;Carcharhinidae;Carcharhinus signatus;;Vulnerável (VU);Em Perigo (EN);;;X;;;;;X;;;;
+412;Peixes Marinhos;Carcharhiniformes;Carcharhinidae;Isogomphodon oxyrhynchus;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+413;Peixes Marinhos;Carcharhiniformes;Carcharhinidae;Negaprion brevirostris;;Vulnerável (VU);Em Perigo (EN);;;X;;;;;X;;;;
+414;Peixes Marinhos;Carcharhiniformes;Carcharhinidae;Prionace glauca;;Quase Ameaçada (NT);Vulnerável (VU);;;;X;;;;;;X;;
+415;Peixes Marinhos;Carcharhiniformes;Scyliorhinidae;Schroederichthys bivius;;Regionalmente Extinta (RE);Menos Preocupante (LC);;;;;;;;;;;X;
+416;Peixes Marinhos;Carcharhiniformes;Sphyrnidae;Sphyrna lewini;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+417;Peixes Marinhos;Carcharhiniformes;Sphyrnidae;Sphyrna media;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+418;Peixes Marinhos;Carcharhiniformes;Sphyrnidae;Sphyrna mokarran;;Em Perigo (EN);Criticamente em Perigo (CR);;X;;;;;;X;;;;
+419;Peixes Marinhos;Carcharhiniformes;Sphyrnidae;Sphyrna tiburo;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+420;Peixes Marinhos;Carcharhiniformes;Sphyrnidae;Sphyrna tudes;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+421;Peixes Marinhos;Carcharhiniformes;Sphyrnidae;Sphyrna zygaena;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+422;Peixes Marinhos;Carcharhiniformes;Triakidae;Galeorhinus galeus;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+423;Peixes Marinhos;Carcharhiniformes;Triakidae;Mustelus canis;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+424;Peixes Marinhos;Carcharhiniformes;Triakidae;Mustelus fasciatus;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+425;Peixes Marinhos;Carcharhiniformes;Triakidae;Mustelus schmitti;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+426;Peixes Continentais;Characiformes;Anostomidae;Hypomasticus thayeri;;Em Perigo (EN);Vulnerável (VU);;;;X;;;;;X;;;
+427;Peixes Continentais;Characiformes;Anostomidae;Leporinus guttatus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+428;Peixes Continentais;Characiformes;Anostomidae;Leporinus pitingai;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+429;Peixes Continentais;Characiformes;Anostomidae;Sartor tucuruiense;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+430;Peixes Continentais;Characiformes;Characidae;Aphyocheirodon hemigrammus;;Vulnerável (VU);Menos Preocupante (LC);;;;;;;;;;;X;
+431;Peixes Continentais;Characiformes;Characidae;Astyanax eremus;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+432;Peixes Continentais;Characiformes;Characidae;Astyanax jordanensis;;Vulnerável (VU);Menos Preocupante (LC);;;;;;;;;;;X;
+433;Peixes Continentais;Characiformes;Characidae;Brycon devillei;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+434;Peixes Continentais;Characiformes;Characidae;Brycon gouldingi;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+435;Peixes Continentais;Characiformes;Characidae;Brycon insignis;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+436;Peixes Continentais;Characiformes;Characidae;Brycon nattereri;;Vulnerável (VU);Menos Preocupante (LC);;;;;;;;;;;X;
+437;Peixes Continentais;Characiformes;Characidae;Brycon opalinus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+438;Peixes Continentais;Characiformes;Characidae;Brycon orbignyanus;;Em Perigo (EN);Criticamente em Perigo (CR);;X;;;;;;X;;;;
+439;Peixes Continentais;Characiformes;Characidae;Brycon vermelha;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+440;Peixes Continentais;Characiformes;Characidae;Bryconamericus lambari;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+441;Peixes Continentais;Characiformes;Characidae;Coptobrycon bilineatus;;Vulnerável (VU);Menos Preocupante (LC);;;;;;;;;;;X;
+442;Peixes Continentais;Characiformes;Characidae;Creagrutus varii;;Vulnerável (VU);Menos Preocupante (LC);;;;;;;;;;;X;
+443;Peixes Continentais;Characiformes;Characidae;Diapoma pyrrhopteryx;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+444;Peixes Continentais;Characiformes;Characidae;Glandulocauda caerulea;;Em Perigo (EN);Quase Ameaçada (NT);;;;;;;;;;;X;
+445;Peixes Continentais;Characiformes;Characidae;Hasemania crenuchoides;;Vulnerável (VU);Em Perigo (EN);;;X;;;;;X;;;;
+446;Peixes Continentais;Characiformes;Characidae;Hasemania maxillaris;;Dados Insuficientes (DD);Criticamente em Perigo (CR)(PEX);;X;;;;;;;;X;;
+447;Peixes Continentais;Characiformes;Characidae;Hasemania melanura;;Dados Insuficientes (DD);Criticamente em Perigo (CR)(PEX);;X;;;;;;;;X;;
+448;Peixes Continentais;Characiformes;Characidae;Hasemania piatan;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+449;Peixes Continentais;Characiformes;Characidae;Hasemania uberaba;;;Em Perigo (EN);;;X;;;;;;;X;;
+450;Peixes Continentais;Characiformes;Characidae;Henochilus wheatlandii;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+451;Peixes Continentais;Characiformes;Characidae;Hollandichthys taramandahy;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+452;Peixes Continentais;Characiformes;Characidae;Hyphessobrycon coelestinus;;Em Perigo (EN);Quase Ameaçada (NT);;;;;;;;;;;X;
+453;Peixes Continentais;Characiformes;Characidae;Hyphessobrycon duragenys;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+454;Peixes Continentais;Characiformes;Characidae;Hyphessobrycon flammeus;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+455;Peixes Continentais;Characiformes;Characidae;Hyphessobrycon taurocephalus;;Dados Insuficientes (DD);Criticamente em Perigo (CR)(PEX);;X;;;;;;;;X;;
+456;Peixes Continentais;Characiformes;Characidae;Kolpotocheirodon figueiredoi;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+457;Peixes Continentais;Characiformes;Characidae;Kolpotocheirodon theloura;;Vulnerável (VU);Quase Ameaçada (NT);;;;;;;;;;;X;
+458;Peixes Continentais;Characiformes;Characidae;Lepidocharax diamantina;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+459;Peixes Continentais;Characiformes;Characidae;Lophiobrycon weitzmani;;Em Perigo (EN);Quase Ameaçada (NT);;;;;;;;;;;X;
+460;Peixes Continentais;Characiformes;Characidae;Mimagoniates lateralis;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+461;Peixes Continentais;Characiformes;Characidae;Mimagoniates sylvicola;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+462;Peixes Continentais;Characiformes;Characidae;Ossubtus xinguense;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+463;Peixes Continentais;Characiformes;Characidae;Psalidodon gymnogenys;Astyanax gymnogenys;Em Perigo (EN);Menos Preocupante (LC);;;;;;;;;;;X;
+464;Peixes Continentais;Characiformes;Characidae;Rachoviscus crassiceps;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+465;Peixes Continentais;Characiformes;Characidae;Rachoviscus graciliceps;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+466;Peixes Continentais;Characiformes;Characidae;Rhinopetitia potamorhachia;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+467;Peixes Continentais;Characiformes;Characidae;Spintherobolus ankoseion;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+468;Peixes Continentais;Characiformes;Characidae;Spintherobolus broccae;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+469;Peixes Continentais;Characiformes;Characidae;Spintherobolus leptoura;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+470;Peixes Continentais;Characiformes;Characidae;Spintherobolus papilliferus;;Criticamente em Perigo (CR);Em Perigo (EN);;;X;;;;;;X;;;
+471;Peixes Continentais;Characiformes;Characidae;Stygichthys typhlops;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+472;Peixes Continentais;Characiformes;Crenuchidae;Characidium grajahuensis;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+473;Peixes Continentais;Characiformes;Crenuchidae;Characidium heirmostigmata;;Em Perigo (EN);Menos Preocupante (LC);;;;;;;;;;;X;
+474;Peixes Continentais;Characiformes;Crenuchidae;Characidium oiticicai;;Vulnerável (VU);Quase Ameaçada (NT);;;;;;;;;;;X;
+475;Peixes Continentais;Characiformes;Crenuchidae;Characidium vestigipinne;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+476;Peixes Continentais;Characiformes;Crenuchidae;Melanocharacidium nigrum;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+477;Peixes Continentais;Characiformes;Cynodontidae;Roestes itupiranga;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+478;Peixes Continentais;Characiformes;Lebiasinidae;Lebiasina marilynae;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+479;Peixes Continentais;Characiformes;Lebiasinidae;Lebiasina melanoguttata;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+480;Peixes Continentais;Characiformes;Lebiasinidae;Lebiasina minuta;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+481;Peixes Continentais;Characiformes;Parodontidae;Apareiodon davisi;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+482;Peixes Continentais;Characiformes;Parodontidae;Apareiodon vladii;;Vulnerável (VU);Menos Preocupante (LC);;;;;;;;;;;X;
+483;Peixes Continentais;Characiformes;Prochilodontidae;Prochilodus britskii;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+484;Peixes Continentais;Characiformes;Prochilodontidae;Prochilodus vimboides;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+485;Peixes Continentais;Characiformes;Serrasalmidae;Mylesinus paucisquamatus;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+486;Peixes Continentais;Characiformes;Serrasalmidae;Myloplus tiete;Myleus tiete;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+487;Peixes Continentais;Cyprinodontiformes;Anablepidae;Jenynsia diphyes;;Em Perigo (EN);Quase Ameaçada (NT);;;;;;;;;;;X;
+488;Peixes Continentais;Cyprinodontiformes;Anablepidae;Jenynsia sanctaecatarinae;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+489;Peixes Continentais;Cyprinodontiformes;Poeciliidae;Cnesterodon carnegiei;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+490;Peixes Continentais;Cyprinodontiformes;Poeciliidae;Cnesterodon hypselurus;;Em Perigo (EN);Menos Preocupante (LC);;;;;;;;;;;X;
+491;Peixes Continentais;Cyprinodontiformes;Poeciliidae;Cnesterodon iguape;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+492;Peixes Continentais;Cyprinodontiformes;Poeciliidae;Cnesterodon omorgmatos;;Em Perigo (EN);Criticamente em Perigo (CR);;X;;;;;;X;;;;
+493;Peixes Continentais;Cyprinodontiformes;Poeciliidae;Pamphorichthys pertapeh;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+494;Peixes Continentais;Cyprinodontiformes;Poeciliidae;Phalloptychus eigenmanni;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+495;Peixes Continentais;Cyprinodontiformes;Poeciliidae;Phallotorynus fasciolatus;;Em Perigo (EN);Criticamente em Perigo (CR)(PEX);;X;;;;;;X;;;;
+496;Peixes Continentais;Cyprinodontiformes;Poeciliidae;Phallotorynus jucundus;;Em Perigo (EN);Quase Ameaçada (NT);;;;;;;;;;;X;
+497;Peixes Continentais;Cyprinodontiformes;Rivulidae;Anablepsoides cearensis;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+498;Peixes Continentais;Cyprinodontiformes;Rivulidae;Atlantirivulus lazzarotoi;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+499;Peixes Continentais;Cyprinodontiformes;Rivulidae;Atlantirivulus maricensis;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+500;Peixes Continentais;Cyprinodontiformes;Rivulidae;Atlantirivulus nudiventris;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+501;Peixes Continentais;Cyprinodontiformes;Rivulidae;Atlantirivulus simplicis;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+502;Peixes Continentais;Cyprinodontiformes;Rivulidae;Austrolebias adloffi;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+503;Peixes Continentais;Cyprinodontiformes;Rivulidae;Austrolebias alexandri;;Criticamente em Perigo (CR);Em Perigo (EN);;;X;;;;;;X;;;
+504;Peixes Continentais;Cyprinodontiformes;Rivulidae;Austrolebias arachan;;Criticamente em Perigo (CR);Vulnerável (VU);;;;X;;;;;X;;;
+505;Peixes Continentais;Cyprinodontiformes;Rivulidae;Austrolebias araucarianus;;;Vulnerável (VU);;;;X;;;;;;X;;
+506;Peixes Continentais;Cyprinodontiformes;Rivulidae;Austrolebias bagual;;;Criticamente em Perigo (CR);;X;;;;;;;;X;;
+507;Peixes Continentais;Cyprinodontiformes;Rivulidae;Austrolebias camaquensis;;;Em Perigo (EN);;;X;;;;;;;X;;
+508;Peixes Continentais;Cyprinodontiformes;Rivulidae;Austrolebias carvalhoi;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+509;Peixes Continentais;Cyprinodontiformes;Rivulidae;Austrolebias charrua;;Em Perigo (EN);Quase Ameaçada (NT);;;;;;;;;;;X;
+510;Peixes Continentais;Cyprinodontiformes;Rivulidae;Austrolebias cheradophilus;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+511;Peixes Continentais;Cyprinodontiformes;Rivulidae;Austrolebias cinereus;Austrolebias vazferreirai;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+512;Peixes Continentais;Cyprinodontiformes;Rivulidae;Austrolebias cyaneus;;Criticamente em Perigo (CR);Em Perigo (EN);;;X;;;;;;X;;;
+513;Peixes Continentais;Cyprinodontiformes;Rivulidae;Austrolebias ephemerus;;;Em Perigo (EN);;;X;;;;;;;X;;
+514;Peixes Continentais;Cyprinodontiformes;Rivulidae;Austrolebias ibicuiensis;;Criticamente em Perigo (CR);Em Perigo (EN);;;X;;;;;;X;;;
+515;Peixes Continentais;Cyprinodontiformes;Rivulidae;Austrolebias jaegari;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+516;Peixes Continentais;Cyprinodontiformes;Rivulidae;Austrolebias juanlangi;;Em Perigo (EN);Quase Ameaçada (NT);;;;;;;;;;;X;
+517;Peixes Continentais;Cyprinodontiformes;Rivulidae;Austrolebias litzi;;Criticamente em Perigo (CR);Vulnerável (VU);;;;X;;;;;X;;;
+518;Peixes Continentais;Cyprinodontiformes;Rivulidae;Austrolebias luteoflammulatus;;Criticamente em Perigo (CR);Quase Ameaçada (NT);;;;;;;;;;;X;
+519;Peixes Continentais;Cyprinodontiformes;Rivulidae;Austrolebias melanoorus;;Em Perigo (EN);Quase Ameaçada (NT);;;;;;;;;;;X;
+520;Peixes Continentais;Cyprinodontiformes;Rivulidae;Austrolebias minuano;;Em Perigo (EN);Quase Ameaçada (NT);;;;;;;;;;;X;
+521;Peixes Continentais;Cyprinodontiformes;Rivulidae;Austrolebias nachtigalli;;Em Perigo (EN);Vulnerável (VU);;;;X;;;;;X;;;
+522;Peixes Continentais;Cyprinodontiformes;Rivulidae;Austrolebias nigrofasciatus;;Vulnerável (VU);Em Perigo (EN);;;X;;;;;X;;;;
+523;Peixes Continentais;Cyprinodontiformes;Rivulidae;Austrolebias paucisquama;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+524;Peixes Continentais;Cyprinodontiformes;Rivulidae;Austrolebias pelotapes;;;Criticamente em Perigo (CR);;X;;;;;;;;X;;
+525;Peixes Continentais;Cyprinodontiformes;Rivulidae;Austrolebias periodicus;;Vulnerável (VU);Menos Preocupante (LC);;;;;;;;;;;X;
+526;Peixes Continentais;Cyprinodontiformes;Rivulidae;Austrolebias pongondo;;;Em Perigo (EN);;;X;;;;;;;X;;
+527;Peixes Continentais;Cyprinodontiformes;Rivulidae;Austrolebias prognathus;;Criticamente em Perigo (CR);Quase Ameaçada (NT);;;;;;;;;;;X;
+528;Peixes Continentais;Cyprinodontiformes;Rivulidae;Austrolebias quirogai;;;Criticamente em Perigo (CR);;X;;;;;;;;X;;
+529;Peixes Continentais;Cyprinodontiformes;Rivulidae;Austrolebias univentripinnis;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+530;Peixes Continentais;Cyprinodontiformes;Rivulidae;Austrolebias varzeae;;Vulnerável (VU);Criticamente em Perigo (CR);;X;;;;;;X;;;;
+531;Peixes Continentais;Cyprinodontiformes;Rivulidae;Austrolebias wolterstorffi;;Criticamente em Perigo (CR);Quase Ameaçada (NT);;;;;;;;;;;X;
+532;Peixes Continentais;Cyprinodontiformes;Rivulidae;Campellolebias brucei;;Em Perigo (EN);Criticamente em Perigo (CR);;X;;;;;;X;;;;
+533;Peixes Continentais;Cyprinodontiformes;Rivulidae;Campellolebias chrysolineatus;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+534;Peixes Continentais;Cyprinodontiformes;Rivulidae;Campellolebias dorsimaculatus;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+535;Peixes Continentais;Cyprinodontiformes;Rivulidae;Campellolebias intermedius;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+536;Peixes Continentais;Cyprinodontiformes;Rivulidae;Cynolebias akroa;;;Vulnerável (VU);;;;X;;;;;;X;;
+537;Peixes Continentais;Cyprinodontiformes;Rivulidae;Cynolebias elegans;;;Criticamente em Perigo (CR);;X;;;;;;;;X;;
+538;Peixes Continentais;Cyprinodontiformes;Rivulidae;Cynolebias gorutuba;;;Em Perigo (EN);;;X;;;;;;;X;;
+539;Peixes Continentais;Cyprinodontiformes;Rivulidae;Cynolebias griseus;;Criticamente em Perigo (CR);Em Perigo (EN);;;X;;;;;;X;;;
+540;Peixes Continentais;Cyprinodontiformes;Rivulidae;Cynolebias leptocephalus;;Criticamente em Perigo (CR);Em Perigo (EN);;;X;;;;;;X;;;
+541;Peixes Continentais;Cyprinodontiformes;Rivulidae;Cynolebias parnaibensis;;Dados Insuficientes (DD);Criticamente em Perigo (CR);;X;;;;;;;;X;;
+542;Peixes Continentais;Cyprinodontiformes;Rivulidae;Cynopoecilus feltrini;;;Vulnerável (VU);;;;X;;;;;;X;;
+543;Peixes Continentais;Cyprinodontiformes;Rivulidae;Cynopoecilus fulgens;;Vulnerável (VU);Quase Ameaçada (NT);;;;;;;;;;;X;
+544;Peixes Continentais;Cyprinodontiformes;Rivulidae;Cynopoecilus intimus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+545;Peixes Continentais;Cyprinodontiformes;Rivulidae;Cynopoecilus multipapillatus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+546;Peixes Continentais;Cyprinodontiformes;Rivulidae;Hypsolebias adornatus;;Vulnerável (VU);Criticamente em Perigo (CR);;X;;;;;;X;;;;
+547;Peixes Continentais;Cyprinodontiformes;Rivulidae;Hypsolebias alternatus;;Vulnerável (VU);Em Perigo (EN);;;X;;;;;X;;;;
+548;Peixes Continentais;Cyprinodontiformes;Rivulidae;Hypsolebias auratus;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+549;Peixes Continentais;Cyprinodontiformes;Rivulidae;Hypsolebias brunoi;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+550;Peixes Continentais;Cyprinodontiformes;Rivulidae;Hypsolebias carlettoi;;Criticamente em Perigo (CR);Em Perigo (EN);;;X;;;;;;X;;;
+551;Peixes Continentais;Cyprinodontiformes;Rivulidae;Hypsolebias delucai;;Dados Insuficientes (DD);Vulnerável (VU);;;;X;;;;;;X;;
+552;Peixes Continentais;Cyprinodontiformes;Rivulidae;Hypsolebias faouri;;;Vulnerável (VU);;;;X;;;;;;X;;
+553;Peixes Continentais;Cyprinodontiformes;Rivulidae;Hypsolebias fasciatus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+554;Peixes Continentais;Cyprinodontiformes;Rivulidae;Hypsolebias flammeus;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+555;Peixes Continentais;Cyprinodontiformes;Rivulidae;Hypsolebias flavicaudatus;;Criticamente em Perigo (CR);Em Perigo (EN);;;X;;;;;;X;;;
+556;Peixes Continentais;Cyprinodontiformes;Rivulidae;Hypsolebias fulminantis;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+557;Peixes Continentais;Cyprinodontiformes;Rivulidae;Hypsolebias gardneri;;;Em Perigo (EN);;;X;;;;;;;X;;
+558;Peixes Continentais;Cyprinodontiformes;Rivulidae;Hypsolebias ghisolfii;;Criticamente em Perigo (CR);Em Perigo (EN);;;X;;;;;;X;;;
+559;Peixes Continentais;Cyprinodontiformes;Rivulidae;Hypsolebias gibberatus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+560;Peixes Continentais;Cyprinodontiformes;Rivulidae;Hypsolebias gilbertobrasili;;Quase Ameaçada (NT);Criticamente em Perigo (CR);;X;;;;;;;;X;;
+561;Peixes Continentais;Cyprinodontiformes;Rivulidae;Hypsolebias guanambi;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+562;Peixes Continentais;Cyprinodontiformes;Rivulidae;Hypsolebias hamadryades;;;Criticamente em Perigo (CR);;X;;;;;;;;X;;
+563;Peixes Continentais;Cyprinodontiformes;Rivulidae;Hypsolebias harmonicus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+564;Peixes Continentais;Cyprinodontiformes;Rivulidae;Hypsolebias hellneri;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+565;Peixes Continentais;Cyprinodontiformes;Rivulidae;Hypsolebias igneus;;Criticamente em Perigo (CR);Em Perigo (EN);;;X;;;;;;X;;;
+566;Peixes Continentais;Cyprinodontiformes;Rivulidae;Hypsolebias janaubensis;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+567;Peixes Continentais;Cyprinodontiformes;Rivulidae;Hypsolebias longignatus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+568;Peixes Continentais;Cyprinodontiformes;Rivulidae;Hypsolebias lopesi;;Vulnerável (VU);Criticamente em Perigo (CR);;X;;;;;;X;;;;
+569;Peixes Continentais;Cyprinodontiformes;Rivulidae;Hypsolebias macaubensis;;Criticamente em Perigo (CR);Em Perigo (EN);;;X;;;;;;X;;;
+570;Peixes Continentais;Cyprinodontiformes;Rivulidae;Hypsolebias magnificus;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+571;Peixes Continentais;Cyprinodontiformes;Rivulidae;Hypsolebias marginatus;;Criticamente em Perigo (CR);Criticamente em Perigo (CR)(PEX);;X;;;;;;X;;;;
+572;Peixes Continentais;Cyprinodontiformes;Rivulidae;Hypsolebias mediopapillatus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+573;Peixes Continentais;Cyprinodontiformes;Rivulidae;Hypsolebias multiradiatus;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+574;Peixes Continentais;Cyprinodontiformes;Rivulidae;Hypsolebias nielseni;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+575;Peixes Continentais;Cyprinodontiformes;Rivulidae;Hypsolebias notatus;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+576;Peixes Continentais;Cyprinodontiformes;Rivulidae;Hypsolebias nudiorbitatus;;Dados Insuficientes (DD);Vulnerável (VU);;;;X;;;;;;X;;
+577;Peixes Continentais;Cyprinodontiformes;Rivulidae;Hypsolebias picturatus;;Vulnerável (VU);Em Perigo (EN);;;X;;;;;X;;;;
+578;Peixes Continentais;Cyprinodontiformes;Rivulidae;Hypsolebias radiseriatus;;Dados Insuficientes (DD);Em Perigo (EN);;;X;;;;;;;X;;
+579;Peixes Continentais;Cyprinodontiformes;Rivulidae;Hypsolebias rufus;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+580;Peixes Continentais;Cyprinodontiformes;Rivulidae;Hypsolebias shibattai;;;Vulnerável (VU);;;;X;;;;;;X;;
+581;Peixes Continentais;Cyprinodontiformes;Rivulidae;Hypsolebias similis;;Vulnerável (VU);Dados Insuficientes (DD);;;;;;;;;;;X;
+582;Peixes Continentais;Cyprinodontiformes;Rivulidae;Hypsolebias splendissimus;;;Vulnerável (VU);;;;X;;;;;;X;;
+583;Peixes Continentais;Cyprinodontiformes;Rivulidae;Hypsolebias stellatus;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+584;Peixes Continentais;Cyprinodontiformes;Rivulidae;Hypsolebias tocantinensis;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+585;Peixes Continentais;Cyprinodontiformes;Rivulidae;Hypsolebias trilineatus;;Vulnerável (VU);Criticamente em Perigo (CR);;X;;;;;;X;;;;
+586;Peixes Continentais;Cyprinodontiformes;Rivulidae;Hypsolebias virgulatus;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+587;Peixes Continentais;Cyprinodontiformes;Rivulidae;Kryptolebias brasiliensis;;Criticamente em Perigo (CR);Em Perigo (EN);;;X;;;;;;X;;;
+588;Peixes Continentais;Cyprinodontiformes;Rivulidae;Kryptolebias campelloi;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+589;Peixes Continentais;Cyprinodontiformes;Rivulidae;Kryptolebias gracilis;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+590;Peixes Continentais;Cyprinodontiformes;Rivulidae;Leptolebias marmoratus;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+591;Peixes Continentais;Cyprinodontiformes;Rivulidae;Leptopanchax citrinipinnis;Leptolebias citrinipinnis;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+592;Peixes Continentais;Cyprinodontiformes;Rivulidae;Leptopanchax itanhaensis;Leptolebias itanhaensis;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+593;Peixes Continentais;Cyprinodontiformes;Rivulidae;Leptopanchax opalescens;Leptolebias opalescens;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+594;Peixes Continentais;Cyprinodontiformes;Rivulidae;Leptopanchax splendens;Leptolebias splendens;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+595;Peixes Continentais;Cyprinodontiformes;Rivulidae;Maratecoara formosa;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+596;Peixes Continentais;Cyprinodontiformes;Rivulidae;Maratecoara splendida;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+597;Peixes Continentais;Cyprinodontiformes;Rivulidae;Melanorivulus crixas;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+598;Peixes Continentais;Cyprinodontiformes;Rivulidae;Melanorivulus illuminatus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+599;Peixes Continentais;Cyprinodontiformes;Rivulidae;Melanorivulus karaja;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+600;Peixes Continentais;Cyprinodontiformes;Rivulidae;Melanorivulus kayapo;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+601;Peixes Continentais;Cyprinodontiformes;Rivulidae;Melanorivulus kunzei;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+602;Peixes Continentais;Cyprinodontiformes;Rivulidae;Melanorivulus litteratus;;Vulnerável (VU);Menos Preocupante (LC);;;;;;;;;;;X;
+603;Peixes Continentais;Cyprinodontiformes;Rivulidae;Melanorivulus pindorama;;Vulnerável (VU);Dados Insuficientes (DD);;;;;;;;;;;X;
+604;Peixes Continentais;Cyprinodontiformes;Rivulidae;Melanorivulus pinima;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+605;Peixes Continentais;Cyprinodontiformes;Rivulidae;Melanorivulus planaltinus;;Vulnerável (VU);Dados Insuficientes (DD);;;;;;;;;;;X;
+606;Peixes Continentais;Cyprinodontiformes;Rivulidae;Melanorivulus rubromarginatus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+607;Peixes Continentais;Cyprinodontiformes;Rivulidae;Melanorivulus rutilicaudus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+608;Peixes Continentais;Cyprinodontiformes;Rivulidae;Melanorivulus salmonicaudus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+609;Peixes Continentais;Cyprinodontiformes;Rivulidae;Melanorivulus scalaris;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+610;Peixes Continentais;Cyprinodontiformes;Rivulidae;Melanorivulus ubirajarai;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+611;Peixes Continentais;Cyprinodontiformes;Rivulidae;Melanorivulus vittatus;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+612;Peixes Continentais;Cyprinodontiformes;Rivulidae;Moema piriana;;Criticamente em Perigo (CR);Criticamente em Perigo (CR)(PEX);;X;;;;;;X;;;;
+613;Peixes Continentais;Cyprinodontiformes;Rivulidae;Mucurilebias leitaoi;;Criticamente em Perigo (CR);Dados Insuficientes (DD);;;;;;;;;;;X;
+614;Peixes Continentais;Cyprinodontiformes;Rivulidae;Nematolebias catimbau;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+615;Peixes Continentais;Cyprinodontiformes;Rivulidae;Nematolebias papilliferus;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+616;Peixes Continentais;Cyprinodontiformes;Rivulidae;Nematolebias whitei;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+617;Peixes Continentais;Cyprinodontiformes;Rivulidae;Notholebias cruzi;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+618;Peixes Continentais;Cyprinodontiformes;Rivulidae;Notholebias fractifasciatus;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+619;Peixes Continentais;Cyprinodontiformes;Rivulidae;Notholebias minimus;;Criticamente em Perigo (CR);Em Perigo (EN);;;X;;;;;;X;;;
+620;Peixes Continentais;Cyprinodontiformes;Rivulidae;Notholebias vermiculatus;;Em Perigo (EN);Criticamente em Perigo (CR);;X;;;;;;X;;;;
+621;Peixes Continentais;Cyprinodontiformes;Rivulidae;Ophthalmolebias bokermanni;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+622;Peixes Continentais;Cyprinodontiformes;Rivulidae;Ophthalmolebias constanciae;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+623;Peixes Continentais;Cyprinodontiformes;Rivulidae;Ophthalmolebias ilheusensis;;Criticamente em Perigo (CR);Em Perigo (EN);;;X;;;;;;X;;;
+624;Peixes Continentais;Cyprinodontiformes;Rivulidae;Ophthalmolebias perpendicularis;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+625;Peixes Continentais;Cyprinodontiformes;Rivulidae;Ophthalmolebias rosaceus;;Vulnerável (VU);Criticamente em Perigo (CR);;X;;;;;;X;;;;
+626;Peixes Continentais;Cyprinodontiformes;Rivulidae;Ophthalmolebias suzarti;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+627;Peixes Continentais;Cyprinodontiformes;Rivulidae;Pituna brevirostrata;;Vulnerável (VU);Criticamente em Perigo (CR);;X;;;;;;X;;;;
+628;Peixes Continentais;Cyprinodontiformes;Rivulidae;Pituna xinguensis;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+629;Peixes Continentais;Cyprinodontiformes;Rivulidae;Plesiolebias altamira;;Criticamente em Perigo (CR);Menos Preocupante (LC);;;;;;;;;;;X;
+630;Peixes Continentais;Cyprinodontiformes;Rivulidae;Plesiolebias canabravensis;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+631;Peixes Continentais;Cyprinodontiformes;Rivulidae;Plesiolebias xavantei;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+632;Peixes Continentais;Cyprinodontiformes;Rivulidae;Simpsonichthys boitonei;;Vulnerável (VU);Criticamente em Perigo (CR);;X;;;;;;X;;;;
+633;Peixes Continentais;Cyprinodontiformes;Rivulidae;Simpsonichthys cholopteryx;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+634;Peixes Continentais;Cyprinodontiformes;Rivulidae;Simpsonichthys espinhacensis;;;Em Perigo (EN);;;X;;;;;;;X;;
+635;Peixes Continentais;Cyprinodontiformes;Rivulidae;Simpsonichthys nigromaculatus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+636;Peixes Continentais;Cyprinodontiformes;Rivulidae;Simpsonichthys parallelus;;Vulnerável (VU);Em Perigo (EN);;;X;;;;;X;;;;
+637;Peixes Continentais;Cyprinodontiformes;Rivulidae;Simpsonichthys punctulatus;;Vulnerável (VU);Criticamente em Perigo (CR);;X;;;;;;X;;;;
+638;Peixes Continentais;Cyprinodontiformes;Rivulidae;Simpsonichthys santanae;;Criticamente em Perigo (CR);Em Perigo (EN);;;X;;;;;;X;;;
+639;Peixes Continentais;Cyprinodontiformes;Rivulidae;Simpsonichthys zonatus;;Criticamente em Perigo (CR);Criticamente em Perigo (CR)(PEX);;X;;;;;;X;;;;
+640;Peixes Continentais;Cyprinodontiformes;Rivulidae;Spectrolebias reticulatus;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+641;Peixes Continentais;Cyprinodontiformes;Rivulidae;Trigonectes strigabundus;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+642;Peixes Continentais;Cyprinodontiformes;Rivulidae;Xenurolebias izecksohni;;Em Perigo (EN);Menos Preocupante (LC);;;;;;;;;;;X;
+643;Peixes Continentais;Cyprinodontiformes;Rivulidae;Xenurolebias myersi;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+644;Peixes Marinhos;Elopiformes;Megalopidae;Megalops atlanticus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+645;Peixes Continentais;Gymnotiformes;Apteronotidae;Apteronotus acidops;;Em Perigo (EN);Dados Insuficientes (DD);;;;;;;;;;;X;
+646;Peixes Continentais;Gymnotiformes;Apteronotidae;Apteronotus lindalvae;;Criticamente em Perigo (CR);Dados Insuficientes (DD);;;;;;;;;;;X;
+647;Peixes Continentais;Gymnotiformes;Apteronotidae;Megadontognathus kaitukaensis;;Vulnerável (VU);Quase Ameaçada (NT);;;;;;;;;;;X;
+648;Peixes Continentais;Gymnotiformes;Apteronotidae;Sternarchella curvioperculata;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+649;Peixes Continentais;Gymnotiformes;Apteronotidae;Sternarchogiton zuanoni;;Vulnerável (VU);Em Perigo (EN);;;X;;;;;X;;;;
+650;Peixes Continentais;Gymnotiformes;Apteronotidae;Sternarchorhynchus britskii;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+651;Peixes Continentais;Gymnotiformes;Apteronotidae;Sternarchorhynchus caboclo;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+652;Peixes Continentais;Gymnotiformes;Apteronotidae;Sternarchorhynchus higuchii;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+653;Peixes Continentais;Gymnotiformes;Apteronotidae;Sternarchorhynchus inpai;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+654;Peixes Continentais;Gymnotiformes;Apteronotidae;Sternarchorhynchus jaimei;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+655;Peixes Continentais;Gymnotiformes;Apteronotidae;Sternarchorhynchus kokraimoro;;Vulnerável (VU);Em Perigo (EN);;;X;;;;;X;;;;
+656;Peixes Continentais;Gymnotiformes;Apteronotidae;Sternarchorhynchus mareikeae;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+657;Peixes Continentais;Gymnotiformes;Apteronotidae;Sternarchorhynchus severii;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+658;Peixes Continentais;Gymnotiformes;Apteronotidae;Sternarchorhynchus villasboasi;;Vulnerável (VU);Em Perigo (EN);;;X;;;;;X;;;;
+659;Peixes Continentais;Gymnotiformes;Apteronotidae;Tembeassu marauna;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+660;Peixes Continentais;Gymnotiformes;Hypopomidae;Brachyhypopomus jureiae;;Em Perigo (EN);Quase Ameaçada (NT);;;;;;;;;;;X;
+661;Peixes Continentais;Gymnotiformes;Sternopygidae;Archolaemus ferreirai;;Menos Preocupante (LC);Vulnerável (VU);;;;X;;;;;;X;;
+662;Peixes Continentais;Gymnotiformes;Sternopygidae;Archolaemus santosi;;Quase Ameaçada (NT);Vulnerável (VU);;;;X;;;;;;X;;
+663;Peixes Continentais;Gymnotiformes;Sternopygidae;Eigenmannia vicentespelaea;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+664;Peixes Marinhos;Hexanchiformes;Hexanchidae;Notorynchus cepedianus;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+665;Peixes Marinhos;Lamniformes;Alopiidae;Alopias superciliosus;;Vulnerável (VU);Em Perigo (EN);;;X;;;;;X;;;;
+666;Peixes Marinhos;Lamniformes;Alopiidae;Alopias vulpinus;;Vulnerável (VU);Criticamente em Perigo (CR);;X;;;;;;X;;;;
+667;Peixes Marinhos;Lamniformes;Cetorhinidae;Cetorhinus maximus;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+668;Peixes Marinhos;Lamniformes;Lamnidae;Carcharodon carcharias;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+669;Peixes Marinhos;Lamniformes;Lamnidae;Isurus oxyrinchus;;Quase Ameaçada (NT);Criticamente em Perigo (CR);;X;;;;;;;;X;;
+670;Peixes Marinhos;Lamniformes;Odontaspididae;Carcharias taurus;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+671;Peixes Marinhos;Myxiniformes;Myxinidae;Myxine sotoi;;Vulnerável (VU);Menos Preocupante (LC);;;;;;;;;;;X;
+672;Peixes Marinhos;Ophidiiformes;Ophidiidae;Ophidion holbrookii;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+673;Peixes Marinhos;Ophidiiformes;Ophidiidae;Otophidium chickcharney;;Dados Insuficientes (DD);Criticamente em Perigo (CR)(PEX);;X;;;;;;;;X;;
+674;Peixes Marinhos;Orectolobiformes;Ginglymostomatidae;Ginglymostoma cirratum;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+675;Peixes Marinhos;Orectolobiformes;Rhincodontidae;Rhincodon typus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+676;Peixes Marinhos;Perciformes;Chaetodontidae;Prognathodes obliquus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+677;Peixes Continentais;Perciformes;Cichlidae;Crenicichla cyclostoma;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+678;Peixes Continentais;Perciformes;Cichlidae;Crenicichla empheres;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+679;Peixes Continentais;Perciformes;Cichlidae;Crenicichla hadrostigma;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+680;Peixes Continentais;Perciformes;Cichlidae;Crenicichla heckeli;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+681;Peixes Continentais;Perciformes;Cichlidae;Crenicichla jegui;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+682;Peixes Continentais;Perciformes;Cichlidae;Crenicichla jupiaensis;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+683;Peixes Continentais;Perciformes;Cichlidae;Crenicichla urosema;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+684;Peixes Continentais;Perciformes;Cichlidae;Gymnogeophagus setequedas;;Em Perigo (EN);Menos Preocupante (LC);;;;;;;;;;;X;
+685;Peixes Continentais;Perciformes;Cichlidae;Teleocichla centisquama;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+686;Peixes Continentais;Perciformes;Cichlidae;Teleocichla cinderella;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+687;Peixes Continentais;Perciformes;Cichlidae;Teleocichla prionogenys;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+688;Peixes Continentais;Perciformes;Cichlidae;Teleocichla wajapi;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+689;Peixes Marinhos;Perciformes;Epinephelidae;Epinephelus itajara;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+690;Peixes Marinhos;Perciformes;Epinephelidae;Epinephelus marginatus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+691;Peixes Marinhos;Perciformes;Epinephelidae;Epinephelus morio;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+692;Peixes Marinhos;Perciformes;Gobiidae;Elacatinus figaro;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+693;Peixes Marinhos;Perciformes;Istiophoridae;Kajikia albida;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+694;Peixes Marinhos;Perciformes;Istiophoridae;Makaira nigricans;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+695;Peixes Marinhos;Perciformes;Labridae;Halichoeres rubrovirens;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+696;Peixes Marinhos;Perciformes;Labrisomidae;Malacoctenus brunoi;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+697;Peixes Marinhos;Perciformes;Lutjanidae;Lutjanus cyanopterus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+698;Peixes Marinhos;Perciformes;Lutjanidae;Lutjanus purpureus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+699;Peixes Marinhos;Perciformes;Malacanthidae;Lopholatilus villarii;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+700;Peixes Marinhos;Perciformes;Microdesmidae;Cerdale fasciata;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+701;Peixes Marinhos;Perciformes;Polyprionidae;Polyprion americanus;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+702;Peixes Marinhos;Perciformes;Pomacentridae;Microspathodon chrysurus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+703;Peixes Marinhos;Perciformes;Pomacentridae;Stegastes rocasensis;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+704;Peixes Marinhos;Perciformes;Pomacentridae;Stegastes sanctipauli;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+705;Peixes Marinhos;Perciformes;Pomacentridae;Stegastes trindadensis;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+706;Peixes Marinhos;Perciformes;Scaridae;Scarus trispinosus;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+707;Peixes Marinhos;Perciformes;Scaridae;Scarus zelindae;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+708;Peixes Marinhos;Perciformes;Scaridae;Sparisoma axillare;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+709;Peixes Marinhos;Perciformes;Scaridae;Sparisoma frondosum;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+710;Peixes Marinhos;Perciformes;Scaridae;Sparisoma rocha;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+711;Peixes Marinhos;Perciformes;Sciaenidae;Pogonias cromis;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+712;Peixes Marinhos;Perciformes;Scombridae;Thunnus thynnus;;Criticamente em Perigo (CR);Em Perigo (EN);;;X;;;;;;X;;;
+713;Peixes Marinhos;Perciformes;Serranidae;Choranthias salmopunctatus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+714;Peixes Marinhos;Perciformes;Serranidae;Hyporthodus nigritus;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+715;Peixes Marinhos;Perciformes;Serranidae;Hyporthodus niveatus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+716;Peixes Marinhos;Perciformes;Serranidae;Mycteroperca bonaci;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+717;Peixes Marinhos;Perciformes;Serranidae;Mycteroperca interstitialis;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+718;Peixes Marinhos;Perciformes;Tripterygiidae;Enneanectes smithi;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+719;Peixes Marinhos;Pleuronectiformes;Achiridae;Achirus mucuri;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+720;Peixes Marinhos;Pristiformes;Pristidae;Pristis pectinata;;Criticamente em Perigo (CR);Criticamente em Perigo (CR)(PEX);;X;;;;;;X;;;;
+721;Peixes Marinhos;Pristiformes;Pristidae;Pristis pristis;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+722;Peixes Marinhos;Rajiformes;Dasyatidae;Bathytoshia centroura;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+723;Peixes Marinhos;Rajiformes;Dasyatidae;Fontitrygon colarensis;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+724;Peixes Marinhos;Rajiformes;Dasyatidae;Hypanus americanus;;Dados Insuficientes (DD);Vulnerável (VU);;;;X;;;;;;X;;
+725;Peixes Marinhos;Rajiformes;Dasyatidae;Hypanus marianae;;Dados Insuficientes (DD);Vulnerável (VU);;;;X;;;;;;X;;
+726;Peixes Marinhos;Rajiformes;Gymnuridae;Gymnura altavela;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+727;Peixes Marinhos;Rajiformes;Myliobatidae;Manta birostris;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+728;Peixes Marinhos;Rajiformes;Myliobatidae;Mobula hypostoma;;Vulnerável (VU);Dados Insuficientes (DD);;;;;;;;;;;X;
+729;Peixes Marinhos;Rajiformes;Myliobatidae;Mobula mobular;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+730;Peixes Marinhos;Rajiformes;Myliobatidae;Mobula rochebrunei;;Vulnerável (VU);[Sinonímia M. hypostoma];;;;;;;;;;;X;
+731;Peixes Marinhos;Rajiformes;Myliobatidae;Mobula tarapacana;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+732;Peixes Marinhos;Rajiformes;Myliobatidae;Mobula thurstoni;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+733;Peixes Marinhos;Rajiformes;Myliobatidae;Myliobatis freminvillei;Myliobatis freminvillii;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+734;Peixes Marinhos;Rajiformes;Myliobatidae;Myliobatis goodei;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+735;Peixes Marinhos;Rajiformes;Myliobatidae;Myliobatis ridens;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+736;Peixes Marinhos;Rajiformes;Myliobatidae;Rhinoptera brasiliensis;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+737;Peixes Continentais;Rajiformes;Potamotrygonidae;Paratrygon aiereba;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+738;Peixes Marinhos;Rajiformes;Rajidae;Atlantoraja castelnaui;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+739;Peixes Marinhos;Rajiformes;Rajidae;Atlantoraja cyclophora;;Quase Ameaçada (NT);Vulnerável (VU);;;;X;;;;;;X;;
+740;Peixes Marinhos;Rajiformes;Rajidae;Rioraja agassizii;;Em Perigo (EN);Vulnerável (VU);;;;X;;;;;X;;;
+741;Peixes Marinhos;Rajiformes;Rajidae;Sympterygia acuta;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+742;Peixes Marinhos;Rajiformes;Rajidae;Sympterygia bonapartii;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+743;Peixes Marinhos;Rajiformes;Rhinobatidae;Pseudobatos horkelii;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+744;Peixes Marinhos;Rajiformes;Rhinobatidae;Pseudobatos lentiginosus;;Vulnerável (VU);[Não é espécie brasileira];;;;;;;;;;;X;
+745;Peixes Marinhos;Rajiformes;Rhinobatidae;Pseudobatos percellens;Rhinobatos percellens;Dados Insuficientes (DD);Vulnerável (VU);;;;X;;;;;;X;;
+746;Peixes Marinhos;Rajiformes;Rhinobatidae;Zapteryx brevirostris;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+747;Peixes Marinhos;Rajiformes;Urolophidae;Urotrygon microphthalmum;;Dados Insuficientes (DD);Vulnerável (VU);;;;X;;;;;;X;;
+748;Peixes Marinhos;Scorpaeniformes;Scorpaenidae;Scorpaenodes insularis;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+749;Peixes Marinhos;Siluriformes;Ariidae;Genidens barbus;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+750;Peixes Marinhos;Siluriformes;Ariidae;Genidens planifrons;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+751;Peixes Continentais;Siluriformes;Ariidae;Paragenidens grandoculis;Potamarius grandoculis;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+752;Peixes Marinhos;Siluriformes;Ariidae;Sciades parkeri;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+753;Peixes Continentais;Siluriformes;Callichthyidae;Corydoras lacerdai;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+754;Peixes Continentais;Siluriformes;Callichthyidae;Scleromystax macropterus;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+755;Peixes Continentais;Siluriformes;Doradidae;Hassar shewellkeimi;;Vulnerável (VU);Dados Insuficientes (DD);;;;;;;;;;;X;
+756;Peixes Continentais;Siluriformes;Doradidae;Kalyptodoras bahiensis;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+757;Peixes Continentais;Siluriformes;Doradidae;Rhynchodoras xingui;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+758;Peixes Continentais;Siluriformes;Heptapteridae;Chasmocranus brachynemus;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+759;Peixes Continentais;Siluriformes;Heptapteridae;Heptapterus multiradiatus;;Criticamente em Perigo (CR)(PEX);Criticamente em Perigo (CR)(PEX);;X;;;;;X;;;;;
+760;Peixes Continentais;Siluriformes;Heptapteridae;Pimelodella kronei;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+761;Peixes Continentais;Siluriformes;Heptapteridae;Pimelodella spelaea;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+762;Peixes Continentais;Siluriformes;Heptapteridae;Rhamdia jequitinhonha;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+763;Peixes Continentais;Siluriformes;Heptapteridae;Rhamdiopsis krugi;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+764;Peixes Continentais;Siluriformes;Heptapteridae;Taunayia bifasciata;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+765;Peixes Continentais;Siluriformes;Loricariidae;Ancistomus snethlageae;Peckoltia snethlageae;Em Perigo (EN);Menos Preocupante (LC);;;;;;;;;;;X;
+766;Peixes Continentais;Siluriformes;Loricariidae;Ancistrus cryptophthalmus;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+767;Peixes Continentais;Siluriformes;Loricariidae;Ancistrus formoso;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+768;Peixes Continentais;Siluriformes;Loricariidae;Ancistrus minutus;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+769;Peixes Continentais;Siluriformes;Loricariidae;Baryancistrus longipinnis;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+770;Peixes Continentais;Siluriformes;Loricariidae;Baryancistrus niveatus;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+771;Peixes Continentais;Siluriformes;Loricariidae;Corumbataia britskii;;Vulnerável (VU);Menos Preocupante (LC);;;;;;;;;;;X;
+772;Peixes Continentais;Siluriformes;Loricariidae;Delturus parahybae;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+773;Peixes Continentais;Siluriformes;Loricariidae;Harttia depressa;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+774;Peixes Continentais;Siluriformes;Loricariidae;Harttia dissidens;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+775;Peixes Continentais;Siluriformes;Loricariidae;Harttia panara;;;Vulnerável (VU);;;;X;;;;;;X;;
+776;Peixes Continentais;Siluriformes;Loricariidae;Harttia villasboas;;;Vulnerável (VU);;;;X;;;;;;X;;
+777;Peixes Continentais;Siluriformes;Loricariidae;Hemiancistrus megalopteryx;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+778;Peixes Continentais;Siluriformes;Loricariidae;Hemipsilichthys gobio;;Em Perigo (EN);Quase Ameaçada (NT);;;;;;;;;;;X;
+779;Peixes Continentais;Siluriformes;Loricariidae;Hopliancistrus tricornis;;Em Perigo (EN);Menos Preocupante (LC);;;;;;;;;;;X;
+780;Peixes Continentais;Siluriformes;Loricariidae;Hypancistrus zebra;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+781;Peixes Continentais;Siluriformes;Loricariidae;Hypostomus subcarinatus;;Dados Insuficientes (DD);Criticamente em Perigo (CR);;X;;;;;;;;X;;
+782;Peixes Continentais;Siluriformes;Loricariidae;Isbrueckerichthys saxicola;;Criticamente em Perigo (CR);Em Perigo (EN);;;X;;;;;;X;;;
+783;Peixes Continentais;Siluriformes;Loricariidae;Lamontichthys avacanoeiro;;Em Perigo (EN);Dados Insuficientes (DD);;;;;;;;;;;X;
+784;Peixes Continentais;Siluriformes;Loricariidae;Lamontichthys parakana;;Criticamente em Perigo (CR)(PEX);Dados Insuficientes (DD);;;;;;;;;;;X;
+785;Peixes Continentais;Siluriformes;Loricariidae;Leporacanthicus joselimai;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+786;Peixes Continentais;Siluriformes;Loricariidae;Lithoxus lithoides;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+787;Peixes Continentais;Siluriformes;Loricariidae;Loricaria coximensis;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+788;Peixes Continentais;Siluriformes;Loricariidae;Microlepidogaster perforatus;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+789;Peixes Continentais;Siluriformes;Loricariidae;Neoplecostomus botucatu;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+790;Peixes Continentais;Siluriformes;Loricariidae;Neoplecostomus selenae;;Em Perigo (EN);Menos Preocupante (LC);;;;;;;;;;;X;
+791;Peixes Continentais;Siluriformes;Loricariidae;Otothyris juquiae;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+792;Peixes Continentais;Siluriformes;Loricariidae;Parancistrus nudiventris;;Vulnerável (VU);Em Perigo (EN);;;X;;;;;X;;;;
+793;Peixes Continentais;Siluriformes;Loricariidae;Pareiorhaphis mutuca;;Em Perigo (EN);Quase Ameaçada (NT);;;;;;;;;;;X;
+794;Peixes Continentais;Siluriformes;Loricariidae;Pareiorhaphis nasuta;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+795;Peixes Continentais;Siluriformes;Loricariidae;Pareiorhaphis scutula;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+796;Peixes Continentais;Siluriformes;Loricariidae;Parotocinclus spilurus;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+797;Peixes Continentais;Siluriformes;Loricariidae;Peckoltia compta;;Em Perigo (EN);Menos Preocupante (LC);;;;;;;;;;;X;
+798;Peixes Continentais;Siluriformes;Loricariidae;Plesioptopoma curvidens;;Quase Ameaçada (NT);Criticamente em Perigo (CR);;X;;;;;;;;X;;
+799;Peixes Continentais;Siluriformes;Loricariidae;Pogonopoma obscurum;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+800;Peixes Continentais;Siluriformes;Loricariidae;Pogonopoma parahybae;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+801;Peixes Continentais;Siluriformes;Loricariidae;Pseudotocinclus juquiae;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+802;Peixes Continentais;Siluriformes;Loricariidae;Pseudotocinclus tietensis;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+803;Peixes Continentais;Siluriformes;Loricariidae;Scobinancistrus aureatus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+804;Peixes Continentais;Siluriformes;Loricariidae;Scobinancistrus pariolispos;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+805;Peixes Continentais;Siluriformes;Pimelodidae;Aguarunichthys tocantinsensis;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+806;Peixes Continentais;Siluriformes;Pimelodidae;Bagropsis reinhardti;;Vulnerável (VU);Menos Preocupante (LC);;;;;;;;;;;X;
+807;Peixes Continentais;Siluriformes;Pimelodidae;Conorhynchos conirostris;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+808;Peixes Continentais;Siluriformes;Pimelodidae;Pimelodus halisodous;;Vulnerável (VU);Menos Preocupante (LC);;;;;;;;;;;X;
+809;Peixes Continentais;Siluriformes;Pimelodidae;Pimelodus joannis;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+810;Peixes Continentais;Siluriformes;Pimelodidae;Pimelodus stewartii;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+811;Peixes Continentais;Siluriformes;Pimelodidae;Pseudoplatystoma corruscans;;Quase Ameaçada (NT);Vulnerável (VU);;;;X;;;;;;X;;
+812;Peixes Continentais;Siluriformes;Pimelodidae;Steindachneridion amblyurum;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+813;Peixes Continentais;Siluriformes;Pimelodidae;Steindachneridion doceanum;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+814;Peixes Continentais;Siluriformes;Pimelodidae;Steindachneridion melanodermatum;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+815;Peixes Continentais;Siluriformes;Pimelodidae;Steindachneridion parahybae;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+816;Peixes Continentais;Siluriformes;Pimelodidae;Steindachneridion scriptum;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+817;Peixes Continentais;Siluriformes;Pseudopimelodidae;Lophiosilurus alexandri;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+818;Peixes Continentais;Siluriformes;Pseudopimelodidae;Microglanis maculatus;;Menos Preocupante (LC);Criticamente em Perigo (CR);;X;;;;;;;;X;;
+819;Peixes Continentais;Siluriformes;Pseudopimelodidae;Microglanis robustus;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+820;Peixes Continentais;Siluriformes;Trichomycteridae;Cambeva crassicaudata;Trichomycterus crassicaudatus;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+821;Peixes Continentais;Siluriformes;Trichomycteridae;Cambeva igobi;Trichomycterus igobi;Em Perigo (EN);Vulnerável (VU);;;;X;;;;;X;;;
+822;Peixes Continentais;Siluriformes;Trichomycteridae;Cambeva mboycy;Trichomycterus mboycy;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+823;Peixes Continentais;Siluriformes;Trichomycteridae;Cambeva paolence;Trichomycterus paolence;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+824;Peixes Continentais;Siluriformes;Trichomycteridae;Cambeva pascuali;;;Criticamente em Perigo (CR);;X;;;;;;;;X;;
+825;Peixes Continentais;Siluriformes;Trichomycteridae;Glaphyropoma spinosum;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+826;Peixes Continentais;Siluriformes;Trichomycteridae;Ituglanis bambui;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+827;Peixes Continentais;Siluriformes;Trichomycteridae;Ituglanis cahyensis;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+828;Peixes Continentais;Siluriformes;Trichomycteridae;Ituglanis epikarsticus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+829;Peixes Continentais;Siluriformes;Trichomycteridae;Ituglanis mambai;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+830;Peixes Continentais;Siluriformes;Trichomycteridae;Ituglanis passensis;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+831;Peixes Continentais;Siluriformes;Trichomycteridae;Ituglanis ramiroi;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+832;Peixes Continentais;Siluriformes;Trichomycteridae;Listrura camposi;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+833;Peixes Continentais;Siluriformes;Trichomycteridae;Listrura costai;;Criticamente em Perigo (CR);Dados Insuficientes (DD);;;;;;;;;;;X;
+834;Peixes Continentais;Siluriformes;Trichomycteridae;Listrura nematopteryx;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+835;Peixes Continentais;Siluriformes;Trichomycteridae;Listrura tetraradiata;;Criticamente em Perigo (CR);Dados Insuficientes (DD);;;;;;;;;;;X;
+836;Peixes Continentais;Siluriformes;Trichomycteridae;Microcambeva draco;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+837;Peixes Continentais;Siluriformes;Trichomycteridae;Trichogenes claviger;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+838;Peixes Continentais;Siluriformes;Trichomycteridae;Trichomycterus dali;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+839;Peixes Continentais;Siluriformes;Trichomycteridae;Trichomycterus itacarambiensis;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+840;Peixes Continentais;Siluriformes;Trichomycteridae;Trichomycterus novalimensis;;Em Perigo (EN);Dados Insuficientes (DD);;;;;;;;;;;X;
+841;Peixes Continentais;Siluriformes;Trichomycteridae;Trichomycterus papilliferus;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+842;Peixes Continentais;Siluriformes;Trichomycteridae;Trichomycterus paquequerense;;Em Perigo (EN);Menos Preocupante (LC);;;;;;;;;;;X;
+843;Peixes Continentais;Siluriformes;Trichomycteridae;Trichomycterus rubbioli;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+844;Peixes Continentais;Siluriformes;Trichomycteridae;Trichomycterus santaeritae;;Criticamente em Perigo (CR);Dados Insuficientes (DD);;;;;;;;;;;X;
+845;Peixes Continentais;Siluriformes;Trichomycteridae;Trichomycterus triguttatus;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+846;Peixes Continentais;Siluriformes;Trichomycteridae;Trichomycterus tropeiro;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+847;Peixes Marinhos;Squaliformes;Squalidae;Squalus acanthias;;Criticamente em Perigo (CR);Dados Insuficientes (DD);;;;;;;;;;;X;
+848;Peixes Marinhos;Squatiniformes;Squatinidae;Squatina argentina;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+849;Peixes Marinhos;Squatiniformes;Squatinidae;Squatina guggenheim;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+850;Peixes Marinhos;Squatiniformes;Squatinidae;Squatina occulta;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+851;Peixes Marinhos;Syngnathiformes;Syngnathidae;Hippocampus erectus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+852;Peixes Marinhos;Syngnathiformes;Syngnathidae;Hippocampus patagonicus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+853;Peixes Marinhos;Syngnathiformes;Syngnathidae;Hippocampus reidi;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+854;Peixes Marinhos;Syngnathiformes;Syngnathidae;Micrognathus erugatus;;Criticamente em Perigo (CR);Dados Insuficientes (DD);;;;;;;;;;;X;
+855;Peixes Marinhos;Torpediniformes;Narcinidae;Narcine brasiliensis;;Dados Insuficientes (DD);Vulnerável (VU);;;;X;;;;;;X;;
+856;Peixes Marinhos;Torpediniformes;Torpedinidae;Tetronarce puelcha;;Vulnerável (VU);Dados Insuficientes (DD);;;;;;;;;;;X;
+857;Anfíbios;Anura;Aromobatidae;Allobates brunneus;;Criticamente em Perigo (CR);Quase Ameaçada (NT);;;;;;;;;;;X;
+858;Anfíbios;Anura;Aromobatidae;Allobates goianus;;Em Perigo (EN);Quase Ameaçada (NT);;;;;;;;;;;X;
+859;Anfíbios;Anura;Aromobatidae;Allobates olfersioides;;Vulnerável (VU);Dados Insuficientes (DD);;;;;;;;;;;X;
+860;Anfíbios;Anura;Aromobatidae;Anomaloglossus apiau;;;Em Perigo (EN);;;X;;;;;;;X;;
+861;Anfíbios;Anura;Aromobatidae;Anomaloglossus tepequem;;;Criticamente em Perigo (CR)(PEX);;X;;;;;;;;X;;
+862;Anfíbios;Anura;Brachycephalidae;Brachycephalus mirissimus;;;Vulnerável (VU);;;;X;;;;;;X;;
+863;Anfíbios;Anura;Brachycephalidae;Brachycephalus pernix;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+864;Anfíbios;Anura;Brachycephalidae;Brachycephalus quiririensis;;;Em Perigo (EN);;;X;;;;;;;X;;
+865;Anfíbios;Anura;Brachycephalidae;Ischnocnema epipeda;;Dados Insuficientes (DD);Criticamente em Perigo (CR)(PEX);;X;;;;;;;;X;;
+866;Anfíbios;Anura;Brachycephalidae;Ischnocnema garciai;;;Criticamente em Perigo (CR);;X;;;;;;;;X;;
+867;Anfíbios;Anura;Brachycephalidae;Ischnocnema karst;;;Vulnerável (VU);;;;X;;;;;;X;;
+868;Anfíbios;Anura;Brachycephalidae;Ischnocnema manezinho;;Vulnerável (VU);Em Perigo (EN);;;X;;;;;X;;;;
+869;Anfíbios;Anura;Bufonidae;Melanophryniscus admirabilis;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+870;Anfíbios;Anura;Bufonidae;Melanophryniscus biancae;;;Em Perigo (EN);;;X;;;;;;;X;;
+871;Anfíbios;Anura;Bufonidae;Melanophryniscus cambaraensis;;Vulnerável (VU);Em Perigo (EN);;;X;;;;;X;;;;
+872;Anfíbios;Anura;Bufonidae;Melanophryniscus dorsalis;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+873;Anfíbios;Anura;Bufonidae;Melanophryniscus klappenbachi;;Menos Preocupante (LC);Vulnerável (VU);;;;X;;;;;;X;;
+874;Anfíbios;Anura;Bufonidae;Melanophryniscus macrogranulosus;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+875;Anfíbios;Anura;Bufonidae;Melanophryniscus montevidensis;;Quase Ameaçada (NT);Vulnerável (VU);;;;X;;;;;;X;;
+876;Anfíbios;Anura;Bufonidae;Melanophryniscus setiba;;Criticamente em Perigo (CR);Vulnerável (VU);;;;X;;;;;X;;;
+877;Anfíbios;Anura;Bufonidae;Rhinella casconi;;;Criticamente em Perigo (CR);;X;;;;;;;;X;;
+878;Anfíbios;Anura;Ceratophryidae;Ceratophrys ornata;;Quase Ameaçada (NT);Criticamente em Perigo (CR)(PEX);;X;;;;;;;;X;;
+879;Anfíbios;Anura;Craugastoridae;Euparkerella robusta;;Dados Insuficientes (DD);Criticamente em Perigo (CR);;X;;;;;;;;X;;
+880;Anfíbios;Anura;Cycloramphidae;Cycloramphus diringshofeni;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+881;Anfíbios;Anura;Cycloramphidae;Cycloramphus faustoi;;Criticamente em Perigo (CR);Vulnerável (VU);;;;X;;;;;X;;;
+882;Anfíbios;Anura;Cycloramphidae;Cycloramphus ohausi;;Em Perigo (EN);Dados Insuficientes (DD);;;;;;;;;;;X;
+883;Anfíbios;Anura;Cycloramphidae;Cycloramphus stejnegeri;;Dados Insuficientes (DD);Criticamente em Perigo (CR)(PEX);;X;;;;;;;;X;;
+884;Anfíbios;Anura;Cycloramphidae;Thoropa lutzi;;Dados Insuficientes (DD);Criticamente em Perigo (CR)(PEX);;X;;;;;;;;X;;
+885;Anfíbios;Anura;Cycloramphidae;Thoropa petropolitana;;Em Perigo (EN);Criticamente em Perigo (CR)(PEX);;X;;;;;;X;;;;
+886;Anfíbios;Anura;Cycloramphidae;Thoropa saxatilis;;Vulnerável (VU);Menos Preocupante (LC);;;;;;;;;;;X;
+887;Anfíbios;Anura;Eleutherodactylidae;Adelophryne maranguapensis;;Vulnerável (VU);Criticamente em Perigo (CR);;X;;;;;;X;;;;
+888;Anfíbios;Anura;Hylidae;Boana buriti;Hypsiboas buriti;Menos Preocupante (LC);Vulnerável (VU);;;;X;;;;;;X;;
+889;Anfíbios;Anura;Hylidae;Boana curupi;Hypsiboas curupi;Vulnerável (VU);Menos Preocupante (LC);;;;;;;;;;;X;
+890;Anfíbios;Anura;Hylidae;Boana cymbalum;Hypsiboas cymbalum;Criticamente em Perigo (CR);Extinta (EX);;;;;;X;;X;;;;
+891;Anfíbios;Anura;Hylidae;Boana semiguttata;Hypsiboas semiguttatus;Em Perigo (EN);Menos Preocupante (LC);;;;;;;;;;;X;
+892;Anfíbios;Anura;Hylidae;Bokermannohyla napolii;;;Vulnerável (VU);;;;X;;;;;;X;;
+893;Anfíbios;Anura;Hylidae;Bokermannohyla vulcaniae;;Criticamente em Perigo (CR);Em Perigo (EN);;;X;;;;;;X;;;
+894;Anfíbios;Anura;Hylidae;Nyctimantis pomba;Aparasphenodon pomba;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+895;Anfíbios;Anura;Hylidae;Phyllodytes gyrinaethes;;Criticamente em Perigo (CR);Quase Ameaçada (NT);;;;;;;;;;;X;
+896;Anfíbios;Anura;Hylidae;Scinax alcatraz;;Criticamente em Perigo (CR);Vulnerável (VU);;;;X;;;;;X;;;
+897;Anfíbios;Anura;Hylidae;Scinax duartei;;Vulnerável (VU);Menos Preocupante (LC);;;;;;;;;;;X;
+898;Anfíbios;Anura;Hylidae;Scinax faivovichi;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+899;Anfíbios;Anura;Hylidae;Scinax muriciensis;;Dados Insuficientes (DD);Criticamente em Perigo (CR);;X;;;;;;;;X;;
+900;Anfíbios;Anura;Hylidae;Scinax peixotoi;;Criticamente em Perigo (CR);Criticamente em Perigo (CR)(PEX);;X;;;;;;X;;;;
+901;Anfíbios;Anura;Hylidae;Scinax pinimus;Scinax pinima;Dados Insuficientes (DD);Vulnerável (VU);;;;X;;;;;;X;;
+902;Anfíbios;Anura;Hylidae;Sphaenorhynchus bromelicola;;Dados Insuficientes (DD);Em Perigo (EN);;;X;;;;;;;X;;
+903;Anfíbios;Anura;Hylidae;Sphaenorhynchus cammaeus;;;Criticamente em Perigo (CR);;X;;;;;;;;X;;
+904;Anfíbios;Anura;Hylidae;Sphaenorhynchus canga;;;Criticamente em Perigo (CR);;X;;;;;;;;X;;
+905;Anfíbios;Anura;Hylidae;Xenohyla truncata;;Em Perigo (EN);Vulnerável (VU);;;;X;;;;;X;;;
+906;Anfíbios;Anura;Hylodidae;Crossodactylus boulengeri;;;Criticamente em Perigo (CR)(PEX);;X;;;;;;;;X;;
+907;Anfíbios;Anura;Hylodidae;Crossodactylus dantei;;Em Perigo (EN);Criticamente em Perigo (CR);;X;;;;;;X;;;;
+908;Anfíbios;Anura;Hylodidae;Crossodactylus dispar;;Dados Insuficientes (DD);Criticamente em Perigo (CR)(PEX);;X;;;;;;;;X;;
+909;Anfíbios;Anura;Hylodidae;Crossodactylus franciscanus;;;Criticamente em Perigo (CR)(PEX);;X;;;;;;;;X;;
+910;Anfíbios;Anura;Hylodidae;Crossodactylus lutzorum;;Criticamente em Perigo (CR);Dados Insuficientes (DD);;;;;;;;;;;X;
+911;Anfíbios;Anura;Hylodidae;Hylodes glaber;;Dados Insuficientes (DD);Criticamente em Perigo (CR)(PEX);;X;;;;;;;;X;;
+912;Anfíbios;Anura;Hylodidae;Hylodes magalhaesi;;Dados Insuficientes (DD);Vulnerável (VU);;;;X;;;;;;X;;
+913;Anfíbios;Anura;Hylodidae;Hylodes mertensi;;Dados Insuficientes (DD);Criticamente em Perigo (CR);;X;;;;;;;;X;;
+914;Anfíbios;Anura;Hylodidae;Hylodes sazimai;;Menos Preocupante (LC);Em Perigo (EN);;;X;;;;;;;X;;
+915;Anfíbios;Anura;Leiuperidae;Physalaemus soaresi;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+916;Anfíbios;Anura;Leptodactylidae;Crossodactylodes itambe;;Dados Insuficientes (DD);Criticamente em Perigo (CR);;X;;;;;;;;X;;
+917;Anfíbios;Anura;Leptodactylidae;Crossodactylodes izecksohni;;Dados Insuficientes (DD);Em Perigo (EN);;;X;;;;;;;X;;
+918;Anfíbios;Anura;Leptodactylidae;Paratelmatobius lutzii;;Criticamente em Perigo (CR);Criticamente em Perigo (CR)(PEX);;X;;;;;;X;;;;
+919;Anfíbios;Anura;Leptodactylidae;Physalaemus caete;;Em Perigo (EN);Quase Ameaçada (NT);;;;;;;;;;;X;
+920;Anfíbios;Anura;Leptodactylidae;Physalaemus maximus;;Vulnerável (VU);Menos Preocupante (LC);;;;;;;;;;;X;
+921;Anfíbios;Anura;Microhylidae;Chiasmocleis alagoana;Chiasmocleis alagoanus;Em Perigo (EN);Vulnerável (VU);;;;X;;;;;X;;;
+922;Anfíbios;Anura;Odontophrynidae;Proceratophrys ararype;;;Criticamente em Perigo (CR);;X;;;;;;;;X;;
+923;Anfíbios;Anura;Odontophrynidae;Proceratophrys moratoi;;Em Perigo (EN);Menos Preocupante (LC);;;;;;;;;;;X;
+924;Anfíbios;Anura;Odontophrynidae;Proceratophrys palustris;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+925;Anfíbios;Anura;Odontophrynidae;Proceratophrys sanctaritae;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+926;Anfíbios;Anura;Phyllomedusidae;Hylomantis granulosa;Agalychnis granulosa;Vulnerável (VU);Menos Preocupante (LC);;;;;;;;;;;X;
+927;Anfíbios;Anura;Phyllomedusidae;Phrynomedusa fimbriata;;Extinta (EX);Extinta (EX);;;;;;X;X;;;;;
+928;Anfíbios;Anura;Phyllomedusidae;Phrynomedusa marginata;;Dados Insuficientes (DD);Criticamente em Perigo (CR)(PEX);;X;;;;;;;;X;;
+929;Anfíbios;Anura;Phyllomedusidae;Phrynomedusa vanzolinii;;Dados Insuficientes (DD);Criticamente em Perigo (CR)(PEX);;X;;;;;;;;X;;
+930;Anfíbios;Anura;Phyllomedusidae;Pithecopus rusticus;;;Criticamente em Perigo (CR);;X;;;;;;;;X;;
+931;Anfíbios;Anura;Strabomantidae;Holoaden bradei;;Criticamente em Perigo (CR);Criticamente em Perigo (CR)(PEX);;X;;;;;;X;;;;
+932;Anfíbios;Anura;Strabomantidae;Holoaden luederwaldti;;Em Perigo (EN);Quase Ameaçada (NT);;;;;;;;;;;X;
+933;Anfíbios;Caudata;Plethodontidae;Bolitoglossa paraensis;;Em Perigo (EN);Menos Preocupante (LC);;;;;;;;;;;X;
+934;Répteis;Squamata;Amphisbaenidae;Amphisbaena arda;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+935;Répteis;Squamata;Amphisbaenidae;Amphisbaena frontalis;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+936;Répteis;Squamata;Amphisbaenidae;Amphisbaena nigricauda;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+937;Répteis;Squamata;Amphisbaenidae;Amphisbaena supernumeraria;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+938;Répteis;Squamata;Amphisbaenidae;Amphisbaena uroxena;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+939;Répteis;Squamata;Amphisbaenidae;Leposternon kisteumacheri;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+940;Répteis;Squamata;Amphisbaenidae;Leposternon octostegum;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+941;Répteis;Squamata;Amphisbaenidae;Leposternon scutigerum;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+942;Répteis;Squamata;Boidae;Corallus cropanii;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+943;Répteis;Squamata;Dactyloidae;Dactyloa nasofrontalis;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+944;Répteis;Squamata;Dactyloidae;Dactyloa pseudotigrina;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+945;Répteis;Squamata;Dipsadidae;Apostolepis arenaria;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+946;Répteis;Squamata;Dipsadidae;Apostolepis gaboi;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+947;Répteis;Squamata;Dipsadidae;Apostolepis quirogai;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+948;Répteis;Squamata;Dipsadidae;Apostolepis serrana;;Em Perigo (EN);Dados Insuficientes (DD);;;;;;;;;;;X;
+949;Répteis;Squamata;Dipsadidae;Apostolepis striata;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+950;Répteis;Squamata;Dipsadidae;Atractus caete;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+951;Répteis;Squamata;Dipsadidae;Atractus hoogmoedi;;Em Perigo (EN);Dados Insuficientes (DD);;;;;;;;;;;X;
+952;Répteis;Squamata;Dipsadidae;Atractus ronnie;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+953;Répteis;Squamata;Dipsadidae;Atractus serranus;;Vulnerável (VU);Menos Preocupante (LC);;;;;;;;;;;X;
+954;Répteis;Squamata;Dipsadidae;Atractus thalesdelemai;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+955;Répteis;Squamata;Dipsadidae;Calamodontophis paucidens;;Em Perigo (EN);Menos Preocupante (LC);;;;;;;;;;;X;
+956;Répteis;Squamata;Dipsadidae;Calamodontophis ronaldoi;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+957;Répteis;Squamata;Dipsadidae;Ditaxodon taeniatus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+958;Répteis;Squamata;Dipsadidae;Echinanthera cephalomaculata;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+959;Répteis;Squamata;Dipsadidae;Hydrodynastes melanogigas;;Em Perigo (EN);Menos Preocupante (LC);;;;;;;;;;;X;
+960;Répteis;Squamata;Dipsadidae;Phalotris multipunctatus;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+961;Répteis;Squamata;Dipsadidae;Philodryas livida;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+962;Répteis;Squamata;Dipsadidae;Rodriguesophis chui;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+963;Répteis;Squamata;Dipsadidae;Rodriguesophis scriptorcibatus;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+964;Répteis;Squamata;Gymnophthalmidae;Bachia didactyla;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+965;Répteis;Squamata;Gymnophthalmidae;Bachia psamophila;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+966;Répteis;Squamata;Gymnophthalmidae;Calyptommatus leiolepis;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+967;Répteis;Squamata;Gymnophthalmidae;Calyptommatus nicterus;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+968;Répteis;Squamata;Gymnophthalmidae;Calyptommatus sinebrachiatus;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+969;Répteis;Squamata;Gymnophthalmidae;Colobodactylus dalcyanus;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+970;Répteis;Squamata;Gymnophthalmidae;Heterodactylus lundii;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+971;Répteis;Squamata;Gymnophthalmidae;Heterodactylus septentrionalis;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+972;Répteis;Squamata;Gymnophthalmidae;Leposoma annectans;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+973;Répteis;Squamata;Gymnophthalmidae;Leposoma baturitensis;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+974;Répteis;Squamata;Gymnophthalmidae;Leposoma nanodactylus;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+975;Répteis;Squamata;Gymnophthalmidae;Leposoma puk;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+976;Répteis;Squamata;Gymnophthalmidae;Placosoma cipoense;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+977;Répteis;Squamata;Gymnophthalmidae;Procellosaurinus tetradactylus;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+978;Répteis;Squamata;Leiosauridae;Enyalius erythroceneus;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+979;Répteis;Squamata;Liolaemidae;Liolaemus arambarensis;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+980;Répteis;Squamata;Liolaemidae;Liolaemus lutzae;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+981;Répteis;Squamata;Liolaemidae;Liolaemus occipitalis;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+982;Répteis;Squamata;Mabuyidae;Brasiliscincus caissara;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+983;Répteis;Squamata;Phyllodactylidae;Homonota uruguayensis;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+984;Répteis;Squamata;Sphaerodactylidae;Coleodactylus natalensis;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+985;Répteis;Squamata;Sphaerodactylidae;Gonatodes tapajonicus;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+986;Répteis;Squamata;Teiidae;Ameiva parecis;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+987;Répteis;Squamata;Teiidae;Ameivula nativo;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+988;Répteis;Squamata;Teiidae;Contomastix vacariensis;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+989;Répteis;Squamata;Teiidae;Glaucomastix abaetensis;Ameivula abaetensis;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+990;Répteis;Squamata;Teiidae;Glaucomastix littoralis;Ameivula littoralis;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+991;Répteis;Squamata;Teiidae;Kentropyx vanzoi;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+992;Répteis;Squamata;Tropidophiidae;Tropidophis grapiuna;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+993;Répteis;Squamata;Tropiduridae;Eurolophosaurus amathites;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+994;Répteis;Squamata;Tropiduridae;Stenocercus azureus;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+995;Répteis;Squamata;Tropiduridae;Stenocercus dumerilii;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+996;Répteis;Squamata;Tropiduridae;Tropidurus erythrocephalus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+997;Répteis;Squamata;Tropiduridae;Tropidurus hygomi;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+998;Répteis;Squamata;Tropiduridae;Tropidurus imbituba;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+999;Répteis;Squamata;Tropiduridae;Tropidurus psammonastes;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+1000;Répteis;Squamata;Typhlopidae;Amerotyphlops amoipira;;Em Perigo (EN);Menos Preocupante (LC);;;;;;;;;;;X;
+1001;Répteis;Squamata;Typhlopidae;Amerotyphlops paucisquamus;;Vulnerável (VU);Menos Preocupante (LC);;;;;;;;;;;X;
+1002;Répteis;Squamata;Typhlopidae;Amerotyphlops yonenagae;;Em Perigo (EN);Dados Insuficientes (DD);;;;;;;;;;;X;
+1003;Répteis;Squamata;Viperidae;Bothrops alcatraz;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+1004;Répteis;Squamata;Viperidae;Bothrops insularis;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+1005;Répteis;Squamata;Viperidae;Bothrops muriciensis;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+1006;Répteis;Squamata;Viperidae;Bothrops otavioi;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+1007;Répteis;Squamata;Viperidae;Bothrops pirajai;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+1008;Répteis;Testudines;Chelidae;Mesoclemmys hogei;;Criticamente em Perigo (CR);Vulnerável (VU);;;;X;;;;;X;;;
+1009;Répteis;Testudines;Cheloniidae;Caretta caretta;;Em Perigo (EN);Vulnerável (VU);;;;X;;;;;X;;;
+1010;Répteis;Testudines;Cheloniidae;Chelonia mydas;;Vulnerável (VU);Quase Ameaçada (NT);;;;;;;;;;;X;
+1011;Répteis;Testudines;Cheloniidae;Eretmochelys imbricata;;Criticamente em Perigo (CR);Em Perigo (EN);;;X;;;;;;X;;;
+1012;Répteis;Testudines;Cheloniidae;Lepidochelys olivacea;;Em Perigo (EN);Vulnerável (VU);;;;X;;;;;X;;;
+1013;Répteis;Testudines;Dermochelyidae;Dermochelys coriacea;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+1014;Aves;Accipitriformes;Accipitridae;Amadonastur lacernulatus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1015;Aves;Accipitriformes;Accipitridae;Circus cinereus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+1016;Aves;Accipitriformes;Accipitridae;Harpia harpyja;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+1017;Aves;Accipitriformes;Accipitridae;Leptodon forbesi;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+1018;Aves;Accipitriformes;Accipitridae;Morphnus guianensis;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+1019;Aves;Accipitriformes;Accipitridae;Urubitinga coronata;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+1020;Aves;Anseriformes;Anatidae;Mergus octosetaceus;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+1021;Aves;Apodiformes;Trochilidae;Augastes lumachella;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+1022;Aves;Apodiformes;Trochilidae;Campylopterus calcirupicola;;;Em Perigo (EN);;;X;;;;;;;X;;
+1023;Aves;Apodiformes;Trochilidae;Colibri delphinae greenewalti;;;Em Perigo (EN);;;X;;;;;;;X;;
+1024;Aves;Apodiformes;Trochilidae;Discosura langsdorffi langsdorffi;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+1025;Aves;Apodiformes;Trochilidae;Glaucis dohrnii;;Em Perigo (EN);Vulnerável (VU);;;;X;;;;;X;;;
+1026;Aves;Apodiformes;Trochilidae;Lophornis gouldii;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1027;Aves;Apodiformes;Trochilidae;Phaethornis aethopygus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+1028;Aves;Apodiformes;Trochilidae;Phaethornis bourcieri major;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1029;Aves;Apodiformes;Trochilidae;Phaethornis margarettae;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+1030;Aves;Apodiformes;Trochilidae;Phaethornis margarettae camargoi;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+1031;Aves;Apodiformes;Trochilidae;Thalurania watertonii;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+1032;Aves;Caprimulgiformes;Caprimulgidae;Hydropsalis candicans;;Vulnerável (VU);Em Perigo (EN);;;X;;;;;X;;;;
+1033;Aves;Caprimulgiformes;Caprimulgidae;Nyctiprogne vielliardi;Hydropsalis vielliardi;;Em Perigo (EN);;;X;;;;;;;X;;
+1034;Aves;Charadriiformes;Burhinidae;Burhinus bistriatus;;Menos Preocupante (LC);Vulnerável (VU);;;;X;;;;;;X;;
+1035;Aves;Charadriiformes;Charadriidae;Charadrius wilsonia;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1036;Aves;Charadriiformes;Scolopacidae;Calidris canutus;;Criticamente em Perigo (CR);Vulnerável (VU);;;;X;;;;;X;;;
+1037;Aves;Charadriiformes;Scolopacidae;Calidris pusilla;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+1038;Aves;Charadriiformes;Scolopacidae;Calidris subruficollis;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1039;Aves;Charadriiformes;Scolopacidae;Limnodromus griseus;;Criticamente em Perigo (CR);Em Perigo (EN);;;X;;;;;;X;;;
+1040;Aves;Charadriiformes;Scolopacidae;Numenius borealis;;Regionalmente Extinta (RE);Regionalmente Extinta (RE);;;;;X;;X;;;;;
+1041;Aves;Charadriiformes;Scolopacidae;Numenius hudsonicus;;Quase Ameaçada (NT);Vulnerável (VU);;;;X;;;;;;X;;
+1042;Aves;Charadriiformes;Sternidae;Sterna dougallii;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1043;Aves;Charadriiformes;Sternidae;Sterna hirundinacea;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1044;Aves;Charadriiformes;Sternidae;Thalasseus acuflavidus;;Menos Preocupante (LC);Vulnerável (VU);;;;X;;;;;;X;;
+1045;Aves;Charadriiformes;Sternidae;Thalasseus maximus;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+1046;Aves;Ciconiiformes;Procellariidae;Pterodroma madeira;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+1047;Aves;Columbiformes;Columbidae;Claravis geoffroyi;;Criticamente em Perigo (CR)(PEX);Criticamente em Perigo (CR)(PEX);;X;;;;;X;;;;;
+1048;Aves;Columbiformes;Columbidae;Columbina cyanopis;;Criticamente em Perigo (CR)(PEX);Criticamente em Perigo (CR);;X;;;;;;;X;;;
+1049;Aves;Coraciiformes;Momotidae;Momotus momota marcgraviana;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+1050;Aves;Cuculiformes;Cuculidae;Neomorphus geoffroyi;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+1051;Aves;Cuculiformes;Cuculidae;Neomorphus geoffroyi amazonicus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1052;Aves;Cuculiformes;Cuculidae;Neomorphus geoffroyi dulcis;;Criticamente em Perigo (CR);Em Perigo (EN);;;X;;;;;;X;;;
+1053;Aves;Cuculiformes;Cuculidae;Neomorphus geoffroyi geoffroyi;;Criticamente em Perigo (CR)(PEX);Criticamente em Perigo (CR)(PEX);;X;;;;;X;;;;;
+1054;Aves;Cuculiformes;Cuculidae;Neomorphus squamiger;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1055;Aves;Galbuliformes;Bucconidae;Malacoptila striata minor;;;Vulnerável (VU);;;;X;;;;;;X;;
+1056;Aves;Galbuliformes;Bucconidae;Monasa morphoeus morphoeus;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+1057;Aves;Galliformes;Cracidae;Aburria cujubi;;Quase Ameaçada (NT);Vulnerável (VU);;;;X;;;;;;X;;
+1058;Aves;Galliformes;Cracidae;Aburria jacutinga;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+1059;Aves;Galliformes;Cracidae;Crax blumenbachii;;Criticamente em Perigo (CR);Em Perigo (EN);;;X;;;;;;X;;;
+1060;Aves;Galliformes;Cracidae;Crax fasciolata pinima;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+1061;Aves;Galliformes;Cracidae;Crax globulosa;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+1062;Aves;Galliformes;Cracidae;Ortalis guttata remota;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+1063;Aves;Galliformes;Cracidae;Pauxi mitu;;Extinta na Natureza (EW);Extinta na Natureza (EW);X;;;;;;X;;;;;
+1064;Aves;Galliformes;Cracidae;Penelope jacucaca;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1065;Aves;Galliformes;Cracidae;Penelope ochrogaster;;Vulnerável (VU);Quase Ameaçada (NT);;;;;;;;;;;X;
+1066;Aves;Galliformes;Cracidae;Penelope pileata;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1067;Aves;Galliformes;Cracidae;Penelope superciliaris alagoensis;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+1068;Aves;Galliformes;Odontophoridae;Odontophorus capueira plumbeicollis;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+1069;Aves;Gruiformes;Psophiidae;Psophia dextralis;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1070;Aves;Gruiformes;Psophiidae;Psophia interjecta;;Vulnerável (VU);Em Perigo (EN);;;X;;;;;X;;;;
+1071;Aves;Gruiformes;Psophiidae;Psophia obscura;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+1072;Aves;Gruiformes;Rallidae;Laterallus xenopterus;;Dados Insuficientes (DD);Em Perigo (EN);;;X;;;;;;;X;;
+1073;Aves;Gruiformes;Rallidae;Porzana spiloptera;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+1074;Aves;Nyctibiiformes;Nyctibiidae;Nyctibius aethereus aethereus;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+1075;Aves;Nyctibiiformes;Nyctibiidae;Nyctibius leucopterus;Nyctibius leucopterus;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+1076;Aves;Passeriformes;Cardinalidae;Caryothraustes canadensis frontalis;;Em Perigo (EN);Vulnerável (VU);;;;X;;;;;X;;;
+1077;Aves;Passeriformes;Cardinalidae;Granatellus pelzelni paraenses;;;Vulnerável (VU);;;;X;;;;;;X;;
+1078;Aves;Passeriformes;Conopophagidae;Conopophaga cearae;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+1079;Aves;Passeriformes;Conopophagidae;Conopophaga lineata lineata;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1080;Aves;Passeriformes;Conopophagidae;Conopophaga melanops nigrifrons;;Vulnerável (VU);Quase Ameaçada (NT);;;;;;;;;;;X;
+1081;Aves;Passeriformes;Corvidae;Cyanocorax hafferi;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1082;Aves;Passeriformes;Cotingidae;Calyptura cristata;;Criticamente em Perigo (CR)(PEX);Criticamente em Perigo (CR)(PEX);;X;;;;;X;;;;;
+1083;Aves;Passeriformes;Cotingidae;Carpornis melanocephala;;Vulnerável (VU);Quase Ameaçada (NT);;;;;;;;;;;X;
+1084;Aves;Passeriformes;Cotingidae;Cotinga maculata;;Criticamente em Perigo (CR);Em Perigo (EN);;;X;;;;;;X;;;
+1085;Aves;Passeriformes;Cotingidae;Lipaugus conditus;Tijuca condita;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1086;Aves;Passeriformes;Cotingidae;Procnias albus wallacei;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1087;Aves;Passeriformes;Cotingidae;Xipholena atropurpurea;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1088;Aves;Passeriformes;Cotingidae;Xipholena lamellipennis;;Menos Preocupante (LC);Vulnerável (VU);;;;X;;;;;;X;;
+1089;Aves;Passeriformes;Dendrocolaptidae;Campylorhamphus cardosoi;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1090;Aves;Passeriformes;Dendrocolaptidae;Campylorhamphus multostriatus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1091;Aves;Passeriformes;Dendrocolaptidae;Campylorhamphus trochilirostris trochilirostris;;Em Perigo (EN);Vulnerável (VU);;;;X;;;;;X;;;
+1092;Aves;Passeriformes;Dendrocolaptidae;Dendrexetastes rufigula paraensis;;Em Perigo (EN);Vulnerável (VU);;;;X;;;;;X;;;
+1093;Aves;Passeriformes;Dendrocolaptidae;Dendrocincla merula badia;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1094;Aves;Passeriformes;Dendrocolaptidae;Dendrocincla taunayi;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+1095;Aves;Passeriformes;Dendrocolaptidae;Dendrocolaptes medius;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1096;Aves;Passeriformes;Dendrocolaptidae;Dendrocolaptes picumnus transfasciatus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1097;Aves;Passeriformes;Dendrocolaptidae;Dendrocolaptes retentus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1098;Aves;Passeriformes;Dendrocolaptidae;Hylexetastes brigidai;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1099;Aves;Passeriformes;Dendrocolaptidae;Hylexetastes uniformis;;Menos Preocupante (LC);Vulnerável (VU);;;;X;;;;;;X;;
+1100;Aves;Passeriformes;Dendrocolaptidae;Lepidocolaptes wagleri;;Em Perigo (EN);Menos Preocupante (LC);;;;;;;;;;;X;
+1101;Aves;Passeriformes;Dendrocolaptidae;Xiphocolaptes carajaensis;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1102;Aves;Passeriformes;Dendrocolaptidae;Xiphorhynchus atlanticus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+1103;Aves;Passeriformes;Dendrocolaptidae;Xiphorhynchus guttatoides gracilirostris;Xiphorhynchus guttatus gracilirostris;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+1104;Aves;Passeriformes;Formicariidae;Chamaeza nobilis fulvipectus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1105;Aves;Passeriformes;Fringillidae;Spinus yarrellii;Sporagra yarrellii;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1106;Aves;Passeriformes;Furnariidae;Acrobatornis fonsecai;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1107;Aves;Passeriformes;Furnariidae;Anabazenops dorsalis;;Menos Preocupante (LC);Vulnerável (VU);;;;X;;;;;;X;;
+1108;Aves;Passeriformes;Furnariidae;Asthenes hudsoni;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+1109;Aves;Passeriformes;Furnariidae;Asthenes luizae;;Quase Ameaçada (NT);Em Perigo (EN);;;X;;;;;;;X;;
+1110;Aves;Passeriformes;Furnariidae;Automolus lammi;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+1111;Aves;Passeriformes;Furnariidae;Cichlocolaptes mazarbarnetti;;Extinta (EX);Extinta (EX);;;;;;X;X;;;;;
+1112;Aves;Passeriformes;Furnariidae;Cinclodes espinhacensis;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+1113;Aves;Passeriformes;Furnariidae;Coryphistera alaudina;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+1114;Aves;Passeriformes;Furnariidae;Cranioleuca muelleri;;Vulnerável (VU);Quase Ameaçada (NT);;;;;;;;;;;X;
+1115;Aves;Passeriformes;Furnariidae;Leptasthenura platensis;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+1116;Aves;Passeriformes;Furnariidae;Philydor novaesi ;;Extinta (EX);Extinta (EX);;;;;;X;X;;;;;X
+1117;Aves;Passeriformes;Furnariidae;Pseudoseisura lophotes;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+1118;Aves;Passeriformes;Furnariidae;Synallaxis infuscata;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+1119;Aves;Passeriformes;Furnariidae;Synallaxis kollari;;Em Perigo (EN);Vulnerável (VU);;;;X;;;;;X;;;
+1120;Aves;Passeriformes;Furnariidae;Syndactyla ucayalae;;Dados Insuficientes (DD);Vulnerável (VU);;;;X;;;;;;X;;
+1121;Aves;Passeriformes;Furnariidae;Thripophaga macroura;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1122;Aves;Passeriformes;Furnariidae;Xiphocolaptes falcirostris;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1123;Aves;Passeriformes;Grallariidae;Grallaria varia distincta;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1124;Aves;Passeriformes;Grallariidae;Grallaria varia intercedens;;Vulnerável (VU);Em Perigo (EN);;;X;;;;;X;;;;
+1125;Aves;Passeriformes;Grallariidae;Hylopezus paraensis;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1126;Aves;Passeriformes;Grallariidae;Hylopezus whittakeri;;Menos Preocupante (LC);Vulnerável (VU);;;;X;;;;;;X;;
+1127;Aves;Passeriformes;Icteridae;Anumara forbesi;Curaeus forbesi;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1128;Aves;Passeriformes;Icteridae;Cacicus koepckeae;;Dados Insuficientes (DD);Vulnerável (VU);;;;X;;;;;;X;;
+1129;Aves;Passeriformes;Icteridae;Sturnella defilippii ;;Regionalmente Extinta (RE);Regionalmente Extinta (RE);;;;;X;;X;;;;;X
+1130;Aves;Passeriformes;Icteridae;Xanthopsar flavus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+1131;Aves;Passeriformes;Motacillidae;Anthus nattereri;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+1132;Aves;Passeriformes;Oxyruncidae;Oxyruncus cristatus tocantinsi;;;Vulnerável (VU);;;;X;;;;;;X;;
+1133;Aves;Passeriformes;Passerellidae;Arremonops conirostris;;Vulnerável (VU);Em Perigo (EN);;;X;;;;;X;;;;
+1134;Aves;Passeriformes;Pipridae;Antilophia bokermanni;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+1135;Aves;Passeriformes;Pipridae;Lepidothrix iris;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+1136;Aves;Passeriformes;Pipridae;Lepidothrix iris iris;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+1137;Aves;Passeriformes;Pipridae;Lepidothrix vilasboasi;;Vulnerável (VU);Em Perigo (EN);;;X;;;;;X;;;;
+1138;Aves;Passeriformes;Pipridae;Neopelma aurifrons;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+1139;Aves;Passeriformes;Pipritidae;Piprites chloris grisescens;;Vulnerável (VU);Menos Preocupante (LC);;;;;;;;;;;X;
+1140;Aves;Passeriformes;Platyrinchidae;Platyrinchus leucoryphus;;Quase Ameaçada (NT);Vulnerável (VU);;;;X;;;;;;X;;
+1141;Aves;Passeriformes;Rhinocryptidae;Eleoscytalopus psychopompus;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+1142;Aves;Passeriformes;Rhinocryptidae;Merulaxis stresemanni;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+1143;Aves;Passeriformes;Rhinocryptidae;Scytalopus diamantinensis;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+1144;Aves;Passeriformes;Rhinocryptidae;Scytalopus gonzagai;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+1145;Aves;Passeriformes;Rhinocryptidae;Scytalopus iraiensis;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+1146;Aves;Passeriformes;Rhinocryptidae;Scytalopus novacapitalis;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+1147;Aves;Passeriformes;Rhynchocyclidae;Cnipodectes superrufus;;Menos Preocupante (LC);Vulnerável (VU);;;;X;;;;;;X;;
+1148;Aves;Passeriformes;Rhynchocyclidae;Hemitriccus furcatus;;Vulnerável (VU);Menos Preocupante (LC);;;;;;;;;;;X;
+1149;Aves;Passeriformes;Rhynchocyclidae;Hemitriccus griseipectus naumburgae;;Vulnerável (VU);Menos Preocupante (LC);;;;;;;;;;;X;
+1150;Aves;Passeriformes;Rhynchocyclidae;Hemitriccus kaempferi;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1151;Aves;Passeriformes;Rhynchocyclidae;Hemitriccus mirandae;;Vulnerável (VU);Em Perigo (EN);;;X;;;;;X;;;;
+1152;Aves;Passeriformes;Rhynchocyclidae;Phylloscartes beckeri;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+1153;Aves;Passeriformes;Rhynchocyclidae;Phylloscartes ceciliae;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+1154;Aves;Passeriformes;Rhynchocyclidae;Phylloscartes roquettei;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+1155;Aves;Passeriformes;Rhynchocyclidae;Poecilotriccus albifacies;;Menos Preocupante (LC);Vulnerável (VU);;;;X;;;;;;X;;
+1156;Aves;Passeriformes;Scleruridae;Geositta poeciloptera;;Em Perigo (EN);Vulnerável (VU);;;;X;;;;;X;;;
+1157;Aves;Passeriformes;Scleruridae;Sclerurus caudacutus caligineus;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+1158;Aves;Passeriformes;Scleruridae;Sclerurus caudacutus umbretta;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+1159;Aves;Passeriformes;Scleruridae;Sclerurus cearensis;;Vulnerável (VU);Em Perigo (EN);;;X;;;;;X;;;;
+1160;Aves;Passeriformes;Scleruridae;Sclerurus macconnelli bahiae;;Vulnerável (VU);Em Perigo (EN);;;X;;;;;X;;;;
+1161;Aves;Passeriformes;Thamnophilidae;Cercomacra ferdinandi;;Vulnerável (VU);Quase Ameaçada (NT);;;;;;;;;;;X;
+1162;Aves;Passeriformes;Thamnophilidae;Clytoctantes atrogularis;;Dados Insuficientes (DD);Vulnerável (VU);;;;X;;;;;;X;;
+1163;Aves;Passeriformes;Thamnophilidae;Dysithamnus plumbeus;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+1164;Aves;Passeriformes;Thamnophilidae;Epinecrophylla dentei;;Menos Preocupante (LC);Vulnerável (VU);;;;X;;;;;;X;;
+1165;Aves;Passeriformes;Thamnophilidae;Formicivora acutirostris;Stymphalornis acutirostris;Em Perigo (EN);Vulnerável (VU);;;;X;;;;;X;;;
+1166;Aves;Passeriformes;Thamnophilidae;Formicivora erythronotos;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+1167;Aves;Passeriformes;Thamnophilidae;Formicivora grantsaui;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+1168;Aves;Passeriformes;Thamnophilidae;Formicivora littoralis;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+1169;Aves;Passeriformes;Thamnophilidae;Formicivora paludicola;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+1170;Aves;Passeriformes;Thamnophilidae;Herpsilochmus pileatus;;Vulnerável (VU);Quase Ameaçada (NT);;;;;;;;;;;X;
+1171;Aves;Passeriformes;Thamnophilidae;Hypocnemis hypoxantha ochraceiventris;;;Vulnerável (VU);;;;X;;;;;;X;;
+1172;Aves;Passeriformes;Thamnophilidae;Hypocnemis ochrogyna;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1173;Aves;Passeriformes;Thamnophilidae;Hypocnemis striata;;Menos Preocupante (LC);Vulnerável (VU);;;;X;;;;;;X;;
+1174;Aves;Passeriformes;Thamnophilidae;Myrmoderus ruficauda;Myrmoderus ruficaudus;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+1175;Aves;Passeriformes;Thamnophilidae;Myrmotherula fluminensis;;Criticamente em Perigo (CR)(PEX);Criticamente em Perigo (CR)(PEX);;X;;;;;X;;;;;
+1176;Aves;Passeriformes;Thamnophilidae;Myrmotherula klagesi;;Vulnerável (VU);Menos Preocupante (LC);;;;;;;;;;;X;
+1177;Aves;Passeriformes;Thamnophilidae;Myrmotherula minor;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+1178;Aves;Passeriformes;Thamnophilidae;Myrmotherula oreni;;Menos Preocupante (LC);Vulnerável (VU);;;;X;;;;;;X;;
+1179;Aves;Passeriformes;Thamnophilidae;Myrmotherula snowi;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+1180;Aves;Passeriformes;Thamnophilidae;Myrmotherula urosticta;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1181;Aves;Passeriformes;Thamnophilidae;Phlegopsis borbae;;Menos Preocupante (LC);Vulnerável (VU);;;;X;;;;;;X;;
+1182;Aves;Passeriformes;Thamnophilidae;Phlegopsis nigromaculata confinis;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1183;Aves;Passeriformes;Thamnophilidae;Phlegopsis nigromaculata paraensis;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+1184;Aves;Passeriformes;Thamnophilidae;Pyriglena atra;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+1185;Aves;Passeriformes;Thamnophilidae;Pyriglena pernambucensis;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1186;Aves;Passeriformes;Thamnophilidae;Rhegmatorhina gymnops;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1187;Aves;Passeriformes;Thamnophilidae;Rhegmatorhina hoffmannsi;;Menos Preocupante (LC);Vulnerável (VU);;;;X;;;;;;X;;
+1188;Aves;Passeriformes;Thamnophilidae;Rhopornis ardesiacus;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+1189;Aves;Passeriformes;Thamnophilidae;Terenura sicki;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+1190;Aves;Passeriformes;Thamnophilidae;Thamnomanes caesius caesius;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+1191;Aves;Passeriformes;Thamnophilidae;Thamnophilus aethiops distans;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+1192;Aves;Passeriformes;Thamnophilidae;Thamnophilus caerulescens cearensis;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1193;Aves;Passeriformes;Thamnophilidae;Thamnophilus caerulescens pernambucensis;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1194;Aves;Passeriformes;Thamnophilidae;Thamnophilus nigrocinereus huberi;;;Vulnerável (VU);;;;X;;;;;;X;;
+1195;Aves;Passeriformes;Thamnophilidae;Thamnophilus nigrocinereus tschudii;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+1196;Aves;Passeriformes;Thraupidae;Conothraupis mesoleuca;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+1197;Aves;Passeriformes;Thraupidae;Coryphaspiza melanotis;;Em Perigo (EN);Vulnerável (VU);;;;X;;;;;X;;;
+1198;Aves;Passeriformes;Thraupidae;Gubernatrix cristata;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+1199;Aves;Passeriformes;Thraupidae;Nemosia rourei;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+1200;Aves;Passeriformes;Thraupidae;Sporophila beltoni;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+1201;Aves;Passeriformes;Thraupidae;Sporophila falcirostris;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1202;Aves;Passeriformes;Thraupidae;Sporophila frontalis;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1203;Aves;Passeriformes;Thraupidae;Sporophila hypoxantha;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+1204;Aves;Passeriformes;Thraupidae;Sporophila maximiliani;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+1205;Aves;Passeriformes;Thraupidae;Sporophila melanogaster;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+1206;Aves;Passeriformes;Thraupidae;Sporophila nigrorufa;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1207;Aves;Passeriformes;Thraupidae;Sporophila palustris;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+1208;Aves;Passeriformes;Thraupidae;Sporophila ruficollis;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+1209;Aves;Passeriformes;Thraupidae;Tangara cyanocephala cearensis;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1210;Aves;Passeriformes;Thraupidae;Tangara fastuosa;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1211;Aves;Passeriformes;Thraupidae;Tangara peruviana;;Vulnerável (VU);Quase Ameaçada (NT);;;;;;;;;;;X;
+1212;Aves;Passeriformes;Thraupidae;Tangara velia signata;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1213;Aves;Passeriformes;Tityridae;Iodopleura pipra;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+1214;Aves;Passeriformes;Tityridae;Iodopleura pipra leucopygia;;Criticamente em Perigo (CR);Em Perigo (EN);;;X;;;;;;X;;;
+1215;Aves;Passeriformes;Tityridae;Iodopleura pipra pipra;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+1216;Aves;Passeriformes;Tityridae;Laniisoma elegans;;Quase Ameaçada (NT);Em Perigo (EN);;;X;;;;;;;X;;
+1217;Aves;Passeriformes;Tityridae;Onychorhynchus swainsoni;;Quase Ameaçada (NT);Vulnerável (VU);;;;X;;;;;;X;;
+1218;Aves;Passeriformes;Tityridae;Schiffornis turdina intermedia;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+1219;Aves;Passeriformes;Troglodytidae;Cyphorhinus griseolateralis;;;Vulnerável (VU);;;;X;;;;;;X;;
+1220;Aves;Passeriformes;Turdidae;Cichlopsis leucogenys;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+1221;Aves;Passeriformes;Tyrannidae;Alectrurus tricolor;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1222;Aves;Passeriformes;Tyrannidae;Attila spadiceus uropygiatus;;Vulnerável (VU);Em Perigo (EN);;;X;;;;;X;;;;
+1223;Aves;Passeriformes;Tyrannidae;Contopus nigrescens;;Menos Preocupante (LC);Vulnerável (VU);;;;X;;;;;;X;;
+1224;Aves;Passeriformes;Tyrannidae;Elaenia ridleyana;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1225;Aves;Passeriformes;Tyrannidae;Knipolegus franciscanus;;Quase Ameaçada (NT);Vulnerável (VU);;;;X;;;;;;X;;
+1226;Aves;Passeriformes;Tyrannidae;Phyllomyias reiseri;;Dados Insuficientes (DD);Em Perigo (EN);;;X;;;;;;;X;;
+1227;Aves;Passeriformes;Tyrannidae;Platyrinchus mystaceus niveigularis;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+1228;Aves;Passeriformes;Tyrannidae;Serpophaga hypoleuca pallida;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1229;Aves;Passeriformes;Tyrannidae;Stigmatura napensis napensis;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1230;Aves;Passeriformes;Tyrannidae;Xolmis dominicanus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+1231;Aves;Passeriformes;Vireonidae;Tunchiornis ochraceiceps rubrifrons;Hylophilus ochraceiceps rubrifrons;Vulnerável (VU);Menos Preocupante (LC);;;;;;;;;;;X;
+1232;Aves;Passeriformes;Vireonidae;Vireo gracilirostris;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1233;Aves;Passeriformes;Xenopidae;Xenops minutus alagoanus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1234;Aves;Pelecaniformes;Ardeidae;Tigrisoma fasciatum;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+1235;Aves;Phaethontiformes;Phaethontidae;Phaethon aethereus;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+1236;Aves;Phaethontiformes;Phaethontidae;Phaethon lepturus;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+1237;Aves;Piciformes;Picidae;Celeus flavus subflavus;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+1238;Aves;Piciformes;Picidae;Celeus galeatus;Dryocopus galeatus;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+1239;Aves;Piciformes;Picidae;Celeus obrieni;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1240;Aves;Piciformes;Picidae;Celeus torquatus pieteroyensi;;Em Perigo (EN);Vulnerável (VU);;;;X;;;;;X;;;
+1241;Aves;Piciformes;Picidae;Celeus torquatus tinnunculus;;Vulnerável (VU);Em Perigo (EN);;;X;;;;;X;;;;
+1242;Aves;Piciformes;Picidae;Piculus paraensis;;Em Perigo (EN);Vulnerável (VU);;;;X;;;;;X;;;
+1243;Aves;Piciformes;Picidae;Piculus polyzonus;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+1244;Aves;Piciformes;Picidae;Picumnus varzeae;;Em Perigo (EN);Dados Insuficientes (DD);;;;;;;;;;;X;
+1245;Aves;Piciformes;Ramphastidae;Capito dayi;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1246;Aves;Piciformes;Ramphastidae;Pteroglossus bitorquatus bitorquatus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1247;Aves;Piciformes;Ramphastidae;Selenidera gouldii baturitensis;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+1248;Aves;Procellariiformes;Diomedeidae;Diomedea dabbenena;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+1249;Aves;Procellariiformes;Diomedeidae;Diomedea epomophora;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1250;Aves;Procellariiformes;Diomedeidae;Diomedea exulans;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+1251;Aves;Procellariiformes;Diomedeidae;Diomedea sanfordi;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+1252;Aves;Procellariiformes;Diomedeidae;Thalassarche chlororhynchos;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+1253;Aves;Procellariiformes;Procellariidae;Procellaria aequinoctialis;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1254;Aves;Procellariiformes;Procellariidae;Procellaria conspicillata;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+1255;Aves;Procellariiformes;Procellariidae;Pterodroma arminjoniana;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+1256;Aves;Procellariiformes;Procellariidae;Pterodroma deserta;;Criticamente em Perigo (CR);Vulnerável (VU);;;;X;;;;;X;;;
+1257;Aves;Procellariiformes;Procellariidae;Pterodroma incerta;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+1258;Aves;Procellariiformes;Procellariidae;Puffinus lherminieri;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+1259;Aves;Psittaciformes;Psittacidae;Amazona pretrei;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+1260;Aves;Psittaciformes;Psittacidae;Amazona rhodocorytha;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+1261;Aves;Psittaciformes;Psittacidae;Amazona vinacea;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+1262;Aves;Psittaciformes;Psittacidae;Anodorhynchus glaucus;;Regionalmente Extinta (RE);Regionalmente Extinta (RE);;;;;X;;X;;;;;
+1263;Aves;Psittaciformes;Psittacidae;Anodorhynchus leari;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+1264;Aves;Psittaciformes;Psittacidae;Aratinga solstitialis;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+1265;Aves;Psittaciformes;Psittacidae;Cyanopsitta spixii;;Criticamente em Perigo (CR)(PEX);Criticamente em Perigo (CR);;X;;;;;;;X;;;
+1266;Aves;Psittaciformes;Psittacidae;Guaruba guarouba;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1267;Aves;Psittaciformes;Psittacidae;Pionus reichenowi;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1268;Aves;Psittaciformes;Psittacidae;Pyrilia vulturina;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1269;Aves;Psittaciformes;Psittacidae;Pyrrhura amazonum;;Menos Preocupante (LC);Vulnerável (VU);;;;X;;;;;;X;;
+1270;Aves;Psittaciformes;Psittacidae;Pyrrhura anerythra;;Quase Ameaçada (NT);Vulnerável (VU);;;;X;;;;;;X;;
+1271;Aves;Psittaciformes;Psittacidae;Pyrrhura coerulescens;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1272;Aves;Psittaciformes;Psittacidae;Pyrrhura cruentata;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1273;Aves;Psittaciformes;Psittacidae;Pyrrhura griseipectus;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+1274;Aves;Psittaciformes;Psittacidae;Pyrrhura lepida;;Vulnerável (VU);[Não é mais táxon válido];;;;;;;;;;;X;
+1275;Aves;Psittaciformes;Psittacidae;Pyrrhura leucotis;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1276;Aves;Psittaciformes;Psittacidae;Pyrrhura molinae;;Quase Ameaçada (NT);Vulnerável (VU);;;;X;;;;;;X;;
+1277;Aves;Psittaciformes;Psittacidae;Pyrrhura perlata;;Menos Preocupante (LC);Vulnerável (VU);;;;X;;;;;;X;;
+1278;Aves;Psittaciformes;Psittacidae;Pyrrhura pfrimeri;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+1279;Aves;Psittaciformes;Psittacidae;Pyrrhura snethlageae;;Menos Preocupante (LC);Vulnerável (VU);;;;X;;;;;;X;;
+1280;Aves;Psittaciformes;Psittacidae;Touit melanonotus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1281;Aves;Psittaciformes;Psittacidae;Touit surdus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1282;Aves;Strigiformes;Strigidae;Glaucidium mooreorum;;Extinta (EX);Extinta (EX);;;;;;X;X;;;;;X
+1283;Aves;Strigiformes;Strigidae;Pulsatrix perspicillata pulsatrix;;Vulnerável (VU);Criticamente em Perigo (CR);;X;;;;;;X;;;;
+1284;Aves;Strigiformes;Strigidae;Strix huhula albomarginata;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+1285;Aves;Suliformes;Fregatidae;Fregata minor;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+1286;Aves;Suliformes;Fregatidae;Fregata trinitatis;Fregata ariel;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+1287;Aves;Suliformes;Sulidae;Sula sula;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+1288;Aves;Tinamiformes;Tinamidae;Crypturellus noctivagus noctivagus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+1289;Aves;Tinamiformes;Tinamidae;Crypturellus noctivagus zabele;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1290;Aves;Tinamiformes;Tinamidae;Nothura minor;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+1291;Aves;Tinamiformes;Tinamidae;Taoniscus nanus;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+1292;Aves;Tinamiformes;Tinamidae;Tinamus tao;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1293;Aves;Trogoniformes;Trogonidae;Trogon collaris eytoni;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+1294;Mamíferos;Artiodactyla;Cervidae;Blastocerus dichotomus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1295;Mamíferos;Artiodactyla;Cervidae;Mazama bororo;;Vulnerável (VU);Quase Ameaçada (NT);;;;;;;;;;;X;
+1296;Mamíferos;Artiodactyla;Cervidae;Mazama nana;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1297;Mamíferos;Artiodactyla;Cervidae;Ozotoceros bezoarticus bezoarticus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1298;Mamíferos;Artiodactyla;Cervidae;Ozotoceros bezoarticus leucogaster;;Vulnerável (VU);Subespécie que sai da Lista;;;;;;;;;;;X;
+1299;Mamíferos;Artiodactyla;Tayassuidae;Tayassu pecari;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1300;Mamíferos;Carnivora;Canidae;Atelocynus microtis;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+1301;Mamíferos;Carnivora;Canidae;Chrysocyon brachyurus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+1302;Mamíferos;Carnivora;Canidae;Lycalopex vetulus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+1303;Mamíferos;Carnivora;Canidae;Speothos venaticus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+1304;Mamíferos;Carnivora;Felidae;Herpailurus yagouaroundi;Puma yagouaroundi;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+1305;Mamíferos;Carnivora;Felidae;Leopardus colocolo;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+1306;Mamíferos;Carnivora;Felidae;Leopardus geoffroyi;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+1307;Mamíferos;Carnivora;Felidae;Leopardus guttulus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+1308;Mamíferos;Carnivora;Felidae;Leopardus tigrinus;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+1309;Mamíferos;Carnivora;Felidae;Leopardus wiedii;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+1310;Mamíferos;Carnivora;Felidae;Panthera onca;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+1311;Mamíferos;Carnivora;Felidae;Puma concolor;;Vulnerável (VU);Quase Ameaçada (NT);;;;;;;;;;;X;
+1312;Mamíferos;Carnivora;Mustelidae;Pteronura brasiliensis;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+1313;Mamíferos;Chiroptera;Furipteridae;Furipterus horrens;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1314;Mamíferos;Chiroptera;Natalidae;Natalus macrourus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1315;Mamíferos;Chiroptera;Phyllostomidae;Glyphonycteris behnii;;Vulnerável (VU);Dados Insuficientes (DD);;;;;;;;;;;X;
+1316;Mamíferos;Chiroptera;Phyllostomidae;Lonchophylla bokermanni;;Quase Ameaçada (NT);Vulnerável (VU);;;;X;;;;;;X;;
+1317;Mamíferos;Chiroptera;Phyllostomidae;Lonchophylla dekeyseri;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+1318;Mamíferos;Chiroptera;Phyllostomidae;Lonchorhina aurita;;Vulnerável (VU);Quase Ameaçada (NT);;;;;;;;;;;X;
+1319;Mamíferos;Chiroptera;Phyllostomidae;Xeronycteris vieirai;;Vulnerável (VU);Dados Insuficientes (DD);;;;;;;;;;;X;
+1320;Mamíferos;Chiroptera;Vespertilionidae;Eptesicus taddeii;;Vulnerável (VU);Menos Preocupante (LC);;;;;;;;;;;X;
+1321;Mamíferos;Cingulata;Dasypodidae;Priodontes maximus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+1322;Mamíferos;Cingulata;Dasypodidae;Tolypeutes tricinctus;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+1323;Mamíferos;Didelphimorphia;Didelphidae;Caluromysiops irrupta;;Criticamente em Perigo (CR);Menos Preocupante (LC);;;;;;;;;;;X;
+1324;Mamíferos;Didelphimorphia;Didelphidae;Marmosops paulensis;;Vulnerável (VU);Menos Preocupante (LC);;;;;;;;;;;X;
+1325;Mamíferos;Didelphimorphia;Didelphidae;Thylamys macrurus;;Em Perigo (EN);Menos Preocupante (LC);;;;;;;;;;;X;
+1326;Mamíferos;Didelphimorphia;Didelphidae;Thylamys velutinus;;Vulnerável (VU);Menos Preocupante (LC);;;;;;;;;;;X;
+1327;Mamíferos;Perissodactyla;Tapiridae;Tapirus terrestris;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1328;Mamíferos;Pilosa;Bradypodidae;Bradypus torquatus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+1329;Mamíferos;Pilosa;Myrmecophagidae;Myrmecophaga tridactyla;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+1330;Mamíferos;Primates;Atelidae;Alouatta belzebul;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+1331;Mamíferos;Primates;Atelidae;Alouatta discolor;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+1332;Mamíferos;Primates;Atelidae;Alouatta guariba clamitans;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+1333;Mamíferos;Primates;Atelidae;Alouatta guariba guariba;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+1334;Mamíferos;Primates;Atelidae;Alouatta ululata;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+1335;Mamíferos;Primates;Atelidae;Ateles belzebuth;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+1336;Mamíferos;Primates;Atelidae;Ateles chamek;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+1337;Mamíferos;Primates;Atelidae;Ateles marginatus;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+1338;Mamíferos;Primates;Atelidae;Brachyteles arachnoides;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+1339;Mamíferos;Primates;Atelidae;Brachyteles hypoxanthus;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+1340;Mamíferos;Primates;Atelidae;Lagothrix lagothricha cana;Lagothrix cana cana;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+1341;Mamíferos;Primates;Atelidae;Lagothrix lagothricha lagothricha;Lagothrix lagothricha;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+1342;Mamíferos;Primates;Atelidae;Lagothrix lagothricha poeppigii;Lagothrix poeppigii;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+1343;Mamíferos;Primates;Callitrichidae;Callithrix aurita;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+1344;Mamíferos;Primates;Callitrichidae;Callithrix flaviceps;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+1345;Mamíferos;Primates;Callitrichidae;Leontopithecus caissara;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+1346;Mamíferos;Primates;Callitrichidae;Leontopithecus chrysomelas;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+1347;Mamíferos;Primates;Callitrichidae;Leontopithecus chrysopygus;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+1348;Mamíferos;Primates;Callitrichidae;Leontopithecus rosalia;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+1349;Mamíferos;Primates;Callitrichidae;Mico rondoni;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+1350;Mamíferos;Primates;Callitrichidae;Saguinus bicolor;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+1351;Mamíferos;Primates;Callitrichidae;Saguinus niger;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+1352;Mamíferos;Primates;Cebidae;Cebus kaapori;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+1353;Mamíferos;Primates;Cebidae;Saimiri vanzolinii;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+1354;Mamíferos;Primates;Cebidae;Sapajus cay;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+1355;Mamíferos;Primates;Cebidae;Sapajus flavius;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+1356;Mamíferos;Primates;Cebidae;Sapajus robustus;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+1357;Mamíferos;Primates;Cebidae;Sapajus xanthosternos;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+1358;Mamíferos;Primates;Pitheciidae;Cacajao hosomi;Cacajao hosomi;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+1359;Mamíferos;Primates;Pitheciidae;Callicebus barbarabrownae;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+1360;Mamíferos;Primates;Pitheciidae;Callicebus coimbrai;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+1361;Mamíferos;Primates;Pitheciidae;Callicebus melanochir;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+1362;Mamíferos;Primates;Pitheciidae;Callicebus personatus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+1363;Mamíferos;Primates;Pitheciidae;Chiropotes satanas;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+1364;Mamíferos;Primates;Pitheciidae;Chiropotes utahickae;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+1365;Mamíferos;Rodentia;Caviidae;Cavia intermedia;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+1366;Mamíferos;Rodentia;Caviidae;Kerodon acrobata;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+1367;Mamíferos;Rodentia;Caviidae;Kerodon rupestris;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+1368;Mamíferos;Rodentia;Cricetidae;Akodon mystax;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+1369;Mamíferos;Rodentia;Cricetidae;Cerradomys goytaca;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+1370;Mamíferos;Rodentia;Cricetidae;Euryoryzomys lamia;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+1371;Mamíferos;Rodentia;Cricetidae;Gyldenstolpia planaltensis;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+1372;Mamíferos;Rodentia;Cricetidae;Juscelinomys candango;;Criticamente em Perigo (CR)(PEX);Criticamente em Perigo (CR)(PEX);;X;;;;;X;;;;;X
+1373;Mamíferos;Rodentia;Cricetidae;Microakodontomys transitorius;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+1374;Mamíferos;Rodentia;Cricetidae;Noronhomys vespuccii;;Extinta (EX);Extinta (EX);;;;;;X;X;;;;;X
+1375;Mamíferos;Rodentia;Cricetidae;Oligoryzomys rupestris;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+1376;Mamíferos;Rodentia;Cricetidae;Rhipidomys cariri;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+1377;Mamíferos;Rodentia;Cricetidae;Rhipidomys tribei;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+1378;Mamíferos;Rodentia;Cricetidae;Thalpomys cerradensis;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+1379;Mamíferos;Rodentia;Cricetidae;Thalpomys lasiotis;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+1380;Mamíferos;Rodentia;Cricetidae;Wilfredomys oenax;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+1381;Mamíferos;Rodentia;Ctenomyidae;Ctenomys bicolor;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+1382;Mamíferos;Rodentia;Ctenomyidae;Ctenomys flamarioni;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+1383;Mamíferos;Rodentia;Ctenomyidae;Ctenomys lami;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+1384;Mamíferos;Rodentia;Ctenomyidae;Ctenomys minutus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+1385;Mamíferos;Rodentia;Echimyidae;Callistomys pictus;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+1386;Mamíferos;Rodentia;Echimyidae;Phyllomys brasiliensis;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+1387;Mamíferos;Rodentia;Echimyidae;Phyllomys lundi;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+1388;Mamíferos;Rodentia;Echimyidae;Phyllomys thomasi;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+1389;Mamíferos;Rodentia;Echimyidae;Phyllomys unicolor;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;X
+1390;Mamíferos;Rodentia;Echimyidae;Trinomys eliasi;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+1391;Mamíferos;Rodentia;Echimyidae;Trinomys mirapitanga;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+1392;Mamíferos;Rodentia;Echimyidae;Trinomys moojeni;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+1393;Mamíferos;Rodentia;Echimyidae;Trinomys yonenagae;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+1394;Mamíferos;Rodentia;Erethizontidae;Chaetomys subspinosus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;X
+1395;Mamíferos;Rodentia;Erethizontidae;Coendou speratus;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;X
+1396;Mamíferos Aquáticos;Cetacea;Balaenidae;Eubalaena australis;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+1397;Mamíferos Aquáticos;Cetacea;Balaenopteridae;Balaenoptera borealis;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+1398;Mamíferos Aquáticos;Cetacea;Balaenopteridae;Balaenoptera musculus;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+1399;Mamíferos Aquáticos;Cetacea;Balaenopteridae;Balaenoptera physalus;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+1400;Mamíferos Aquáticos;Cetacea;Delphinidae;Sotalia guianensis;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1401;Mamíferos Aquáticos;Cetacea;Delphinidae;Tursiops gephyreus;;não avaliada 2014 ;Em Perigo (EN);;;X;;;;;;;X;;
+1402;Mamíferos Aquáticos;Cetacea;Iniidae;Inia araguaiaensis;;;Vulnerável (VU);;;;X;;;;;;X;;
+1403;Mamíferos Aquáticos;Cetacea;Iniidae;Inia geoffrensis;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
+1404;Mamíferos Aquáticos;Cetacea;Physeteridae;Physeter macrocephalus;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1405;Mamíferos Aquáticos;Cetacea;Pontoporiidae;Pontoporia blainvillei;;Criticamente em Perigo (CR);Criticamente em Perigo (CR);;X;;;;;X;;;;;
+1406;Mamíferos Aquáticos;Sirenia;Trichechidae;Trichechus inunguis;;Vulnerável (VU);Vulnerável (VU);;;;X;;;X;;;;;
+1407;Mamíferos Aquáticos;Sirenia;Trichechidae;Trichechus manatus;;Em Perigo (EN);Em Perigo (EN);;;X;;;;X;;;;;
