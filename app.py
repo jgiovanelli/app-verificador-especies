@@ -112,9 +112,10 @@ with st.container():
                 # 3. Criar dicionários e juntá-los
                 df_fauna['Espécie ou Subespécie'] = df_fauna['Espécie ou Subespécie'].astype(str).str.strip()
                 dict_fauna = dict(zip(df_fauna['Espécie ou Subespécie'].str.lower(), df_fauna['Sugestão de Categoria 2021']))
-                
-                df_flora['Espécie (FB 2020)'] = df_flora['Espécie (FB 2020)'].astype(str).str.strip()
-                dict_flora = dict(zip(df_flora['Espécie (FB 2020)'].str.lower(), df_flora['Sugestão de Categoria 2021']))
+
+                # Tratamento da Flora: Separa as palavras pelo espaço e pega apenas as duas primeiras (Gênero e Espécie), ignorando o autor
+                df_flora['Espécie Limpa'] = df_flora['Espécie (FB 2020)'].astype(str).str.strip().apply(lambda x: ' '.join(x.split()[:2]))
+                dict_flora = dict(zip(df_flora['Espécie Limpa'].str.lower(), df_flora['Sugestão de Categoria 2021']))
                 
                 # Dicionário unificado (Fauna + Flora)
                 mma_dict = {**dict_fauna, **dict_flora}
