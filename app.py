@@ -44,7 +44,15 @@ with st.container():
     # 2. BARRA LATERAL E MEMÓRIA
     # ==============================================================================
     with st.sidebar:
-        st.markdown("### Seleção Natural")
+        # --- NOVIDADE: Adicionando o Logotipo Bold no topo ---
+        try:
+            # st.image lê o arquivo que você já subiu na mesma pasta do script
+            st.image("SN - Logotipo Bold-03.png", use_container_width=True)
+        except Exception as e:
+            # Caso a imagem não seja encontrada, mostra o texto normal como backup
+            st.markdown("### Seleção Natural")
+        
+        # O resto do conteúdo da sidebar continua igual
         st.markdown("### Sobre o Desenvolvedor")
         st.info("Este aplicativo foi desenvolvido pela **Seleção Natural**, abrindo espaço para biodiversidade.")
         st.markdown("[Acesse nosso site oficial](https://www.selecaonatural.net/)")
