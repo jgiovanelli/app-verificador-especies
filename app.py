@@ -158,7 +158,7 @@ with st.container():
 st.markdown(
     """
     <div class="footer">
-        Desenvolvido por <a href="https://www.selecaonatural.com.br/" target="_blank" style="color: #1a73e8; font-weight: bold; text-decoration: none;">Seleção Natural</a>
+        Desenvolvido por <a href="https://www.selecaonatural.net/" target="_blank" style="color: #1a73e8; font-weight: bold; text-decoration: none;">Seleção Natural</a>
     </div>
     """, 
     unsafe_allow_html=True
