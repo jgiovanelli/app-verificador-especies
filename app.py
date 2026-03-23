@@ -6,13 +6,14 @@ import time
 
 # 1. CONFIGURAÇÃO DA PÁGINA (Clean / Estilo Google)
 st.set_page_config(
-    page_title="Verificador de Espécies", 
+    page_title="Verificador de Espécies | Seleção Natural", 
     page_icon="🔍",
     layout="centered"
 )
 
-# 2. IDENTIDADE VISUAL MINIMALISTA (Google Material Design)
-estilo_google = """
+# 2. IDENTIDADE VISUAL E ESTILIZAÇÃO
+# (Adicionada a estilização para o rodapé e sidebar com logo)
+estilo_customizado = """
 <style>
     /* Azul clássico do Google para os botões */
     .stButton>button { 
@@ -28,9 +29,51 @@ estilo_google = """
         background-color: #1557b0; 
         box-shadow: 0 1px 2px 0 rgba(60,64,67,0.3), 0 1px 3px 1px rgba(60,64,67,0.15); 
     }
+    
+    /* Centralizar o logo na sidebar */
+    [data-testid="stSidebar"] div.stImage {
+        display: flex;
+        justify-content: center;
+        padding-top: 20px;
+    }
+    
+    /* Estilo para o rodapé */
+    .footer {
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        background-color: #f8f9fa;
+        color: #5f6368;
+        text-align: center;
+        padding: 10px;
+        font-size: 12px;
+        border-top: 1px solid #e0e0e0;
+        z-index: 100;
+    }
 </style>
 """
-st.markdown(estilo_google, unsafe_allow_html=True)
+st.markdown(estilo_customizado, unsafe_allow_html=True)
+
+# Link para o arquivo de logo (usando a imagem fornecida)
+url_logo = "image_0.png" # Caminho local para a imagem fornecida. Certifique-se de que a imagem esteja na mesma pasta do script.
+
+# 3. BARRA LATERAL - IDENTIDADE DA EMPRESA E LOGO
+with st.sidebar:
+    # Exibir o Logo da Seleção Natural
+    if os.path.exists(url_logo):
+        st.image(url_logo, width=180) # Ajuste a largura conforme necessário
+    else:
+        # Fallback caso a imagem não seja encontrada
+        st.error(f"Logo 'image_0.png' não encontrado na pasta.")
+        st.markdown("### Seleção Natural")
+
+    st.markdown("### Sobre o Desenvolvedor")
+    st.info("Este aplicativo foi desenvolvido pela **Seleção Natural**, abrindo espaço para biodiversidade.")
+    
+    st.markdown("[Acesse nosso site](https://www.selecaonatural.net/)") # Link para a empresa
+    st.write("---")
+    st.caption("Versão 1.0.0 | © 2026 Seleção Natural")
 
 # Título principal
 st.title("🔍 Verificador de Espécies")
@@ -133,3 +176,28 @@ if st.session_state['tabela_dados'] is not None:
             st.session_state['tabela_dados'] = df
             st.success("Análise finalizada!")
             st.rerun()
+
+# Espaço extra para o rodapé
+st.write(" " * 5)
+st.write("---")
+
+# Rodapé customizado com o logo e link
+if os.path.exists(url_logo):
+    st.markdown(
+        f"""
+        <div class="footer">
+            <img src="{url_logo}" alt="Logo Seleção Natural" width="100" style="vertical-align: middle; margin-right: 10px;">
+            Desenvolvido por <a href="https://www.selecaonatural.com.br/" target="_blank" style="color: #1a73e8; font-weight: bold;">Seleção Natural</a>
+        </div>
+        """, 
+        unsafe_allow_html=True
+    )
+else:
+     st.markdown(
+        """
+        <div class="footer">
+            Desenvolvido por <a href="https://www.selecaonatural.com.br/" target="_blank" style="color: #1a73e8; font-weight: bold;">Seleção Natural</a>
+        </div>
+        """, 
+        unsafe_allow_html=True
+    )
