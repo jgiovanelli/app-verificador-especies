@@ -6,21 +6,6 @@ import time
 import base64
 
 # ==============================================================================
-# 1. FUNÇÃO LIMPA PARA LER A IMAGEM NOS BASTIDORES (Para o rodapé HTML)
-# ==============================================================================
-def obter_base64_da_imagem(caminho_imagem):
-    """Lê a imagem local na hora e converte para uso em tags HTML."""
-    try:
-        with open(caminho_imagem, "rb") as f:
-            return base64.b64encode(f.read()).decode()
-    except FileNotFoundError:
-        return None
-
-# Nome do seu arquivo de imagem
-caminho_logo = "image_0.png"
-logo_base64 = obter_base64_da_imagem(caminho_logo)
-
-# ==============================================================================
 # 2. CONFIGURAÇÃO DA PÁGINA E ESTILOS
 # ==============================================================================
 st.set_page_config(
