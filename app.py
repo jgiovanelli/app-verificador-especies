@@ -69,7 +69,7 @@ with st.container():
     # 3. CORPO DO APLICATIVO
     # ==============================================================================
     st.title("Verificador de Espécies - Fauna e Flora")
-    st.markdown("Verificação do Grau de Ameaça de Extinção (MMA) com resolução taxonômica (GBIF).")
+    st.markdown("Verificação do Grau de Ameaça de Extinção (MMA) com resolução taxonômica (GBIF) versão 1.0.")
 
     aba1, aba2 = st.tabs(["📋 Copiar e Colar", "📁 Upload de Planilha"])
 
