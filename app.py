@@ -191,14 +191,17 @@ with st.container():
                     email_lead = st.text_input("Seu E-mail Profissional")
                     
                     # --- NOVIDADE: Adequação LGPD ---
+                    # --- NOVIDADE: Adequação LGPD ---
                     st.markdown("""
                         <small style='color: #5f6368;'>
                         Ao informar seus dados, você concorda em receber comunicações da Seleção Natural. 
-                        Seus dados estão seguros e você pode se descadastrar a qualquer momento.
+                        Seus dados estão seguros e você pode solicitar o descadastramento a qualquer momento 
+                        enviando um e-mail para <b>contato@selecaonatural.net</b>.
                         </small>
                     """, unsafe_allow_html=True)
                     
                     aceite_lgpd = st.checkbox("Li e concordo com a Política de Privacidade.")
+                    # --------------------------------
                     # --------------------------------
                     
                     btn_liberar = st.form_submit_button("Liberar Download da Tabela")
