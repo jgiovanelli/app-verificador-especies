@@ -3,10 +3,9 @@ import pandas as pd
 import os
 import requests
 import time
-import base64
 
 # ==============================================================================
-# 2. CONFIGURAÇÃO DA PÁGINA E ESTILOS
+# 1. CONFIGURAÇÃO DA PÁGINA E ESTILOS
 # ==============================================================================
 st.set_page_config(
     page_title="Verificador de Espécies | Seleção Natural", 
@@ -24,8 +23,6 @@ estilo_customizado = """
     .stButton>button:hover { 
         background-color: #1557b0; box-shadow: 0 1px 2px 0 rgba(60,64,67,0.3), 0 1px 3px 1px rgba(60,64,67,0.15); 
     }
-    /* Centralizar o logo na sidebar */
-    [data-testid="stSidebar"] div.stImage { display: flex; justify-content: center; padding-top: 20px; }
     
     /* Estilo para o rodapé fixo */
     .footer {
@@ -44,16 +41,10 @@ with st.container():
     st.markdown('<div class="main-content">', unsafe_allow_html=True)
 
     # ==============================================================================
-    # 3. BARRA LATERAL
+    # 2. BARRA LATERAL
     # ==============================================================================
     with st.sidebar:
-        # Usa o arquivo local DIRETAMENTE pelo Streamlit
-        if os.path.exists(caminho_logo):
-            st.image(caminho_logo, width=180)
-        else:
-            st.markdown("### Seleção Natural")
-            st.warning(f"Arquivo '{caminho_logo}' não encontrado.")
-
+        st.markdown("### Seleção Natural")
         st.markdown("### Sobre o Desenvolvedor")
         st.info("Este aplicativo foi desenvolvido pela **Seleção Natural**, especialista em soluções ambientais e tecnológicas.")
         st.markdown("[Acesse nosso site oficial](https://www.selecaonatural.com.br/)")
@@ -61,7 +52,7 @@ with st.container():
         st.caption("Versão 1.0.1 | © 2024 Seleção Natural")
 
     # ==============================================================================
-    # 4. CORPO DO APLICATIVO
+    # 3. CORPO DO APLICATIVO
     # ==============================================================================
     st.title("🔍 Verificador de Espécies")
     st.markdown("Verificação do Grau de Ameaça de Extinção (MMA) com resolução taxonômica (GBIF).")
@@ -162,24 +153,13 @@ with st.container():
     st.markdown('</div>', unsafe_allow_html=True)
 
 # ==============================================================================
-# 5. RODAPÉ HTML
+# 4. RODAPÉ HTML (Sem Imagem)
 # ==============================================================================
-if logo_base64:
-    st.markdown(
-        f"""
-        <div class="footer">
-            <img src="data:image/png;base64,{logo_base64}" alt="Logo Seleção Natural" width="80" style="vertical-align: middle; margin-right: 15px;">
-            <span>Desenvolvido por <a href="https://www.selecaonatural.com.br/" target="_blank" style="color: #1a73e8; font-weight: bold; text-decoration: none;">Seleção Natural</a></span>
-        </div>
-        """, 
-        unsafe_allow_html=True
-    )
-else:
-     st.markdown(
-        """
-        <div class="footer">
-            Desenvolvido por <a href="https://www.selecaonatural.com.br/" target="_blank" style="color: #1a73e8; font-weight: bold; text-decoration: none;">Seleção Natural</a>
-        </div>
-        """, 
-        unsafe_allow_html=True
-    )
+st.markdown(
+    """
+    <div class="footer">
+        Desenvolvido por <a href="https://www.selecaonatural.com.br/" target="_blank" style="color: #1a73e8; font-weight: bold; text-decoration: none;">Seleção Natural</a>
+    </div>
+    """, 
+    unsafe_allow_html=True
+)
