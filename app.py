@@ -49,7 +49,7 @@ with st.container():
         st.info("Este aplicativo foi desenvolvido pela **Seleção Natural**, abrindo espaço para biodiversidade.")
         st.markdown("[Acesse nosso site oficial](https://www.selecaonatural.net/)")
         st.write("---")
-        st.caption("Versão 1.0.1 | © 2026 Seleção Natural")
+        st.caption("Versão 1.1.0 | © 2026 Seleção Natural")
 
     # ==============================================================================
     # 3. CORPO DO APLICATIVO
@@ -84,6 +84,9 @@ with st.container():
         nome_coluna_especie = df.columns[0]
         st.dataframe(df, use_container_width=True)
         
+        # ==========================================================================
+        # 3.1 BOTÃO E LÓGICA DE CONSULTA (MMA + GBIF)
+        # ==========================================================================
         if st.button("Consultar Status e Sinônimos"):
             caminho_mma = "fauna-ameacada-2021.csv"
             
@@ -150,10 +153,44 @@ with st.container():
                 st.success("Análise finalizada!")
                 st.rerun()
 
+        # ==========================================================================
+        # 3.2 DASHBOARD E BOTÃO DE DOWNLOAD (Aparece apenas após a análise)
+        # ==========================================================================
+        if "Status MMA (Portaria 148)" in df.columns:
+            st.write("---")
+            st.write("### 📊 Resumo da Análise")
+            
+            # Divide a tela em duas colunas para o Dashboard
+            col1, col2 = st.columns([1, 2])
+            
+            with col1:
+                st.write("**Contagem de Status:**")
+                contagem = df["Status MMA (Portaria 148)"].value_counts()
+                st.dataframe(contagem)
+                
+            with col2:
+                st.write("**Gráfico de Ameaças:**")
+                # Gráfico de barras automático nativo do Streamlit
+                st.bar_chart(contagem)
+            
+            st.write("### 📥 Exportar Resultados")
+            st.info("Faça o download da tabela completa para anexar ao seu relatório ou laudo técnico.")
+            
+            # Converte a tabela para CSV
+            csv = df.to_csv(index=False).encode('utf-8')
+            
+            # Botão mágico de download
+            st.download_button(
+                label="⬇️ Baixar Tabela Final (CSV)",
+                data=csv,
+                file_name="analise_fauna_mma.csv",
+                mime="text/csv",
+            )
+
     st.markdown('</div>', unsafe_allow_html=True)
 
 # ==============================================================================
-# 4. RODAPÉ HTML (Sem Imagem)
+# 4. RODAPÉ HTML
 # ==============================================================================
 st.markdown(
     """
