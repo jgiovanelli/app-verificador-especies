@@ -54,7 +54,7 @@ with st.container():
     # ==============================================================================
     # 3. CORPO DO APLICATIVO
     # ==============================================================================
-    st.title("🔍 Verificador de Espécies")
+    st.title("🔍 Verificador de Espécies - Módulo Fauna")
     st.markdown("Verificação do Grau de Ameaça de Extinção (MMA) com resolução taxonômica (GBIF).")
 
     if 'tabela_dados' not in st.session_state:
