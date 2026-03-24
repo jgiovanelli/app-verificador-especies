@@ -57,7 +57,7 @@ with st.container():
         st.info("Este aplicativo foi desenvolvido pela **Seleção Natural**, abrindo espaço para biodiversidade.")
         st.markdown("[Acesse nosso site oficial](https://www.selecaonatural.net/)")
         st.write("---")
-        st.caption("Versão 1.0.0 | © 2026 Seleção Natural")
+        st.caption("Versão 1.0 | © 2026 Seleção Natural")
 
     # Memórias do aplicativo
     if 'tabela_dados' not in st.session_state:
