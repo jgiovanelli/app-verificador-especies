@@ -57,7 +57,7 @@ with st.container():
         st.info("Este aplicativo foi desenvolvido pela **Seleção Natural**, abrindo espaço para biodiversidade.")
         st.markdown("[Acesse nosso site oficial](https://www.selecaonatural.net/)")
         st.write("---")
-        st.caption("Versão 1.3.0 | © 2026 Seleção Natural")
+        st.caption("Versão 1.0.0 | © 2026 Seleção Natural")
 
     # Memórias do aplicativo
     if 'tabela_dados' not in st.session_state:
@@ -69,7 +69,7 @@ with st.container():
     # 3. CORPO DO APLICATIVO
     # ==============================================================================
     st.title("Verificador de Espécies - Fauna e Flora")
-    st.markdown("Verificação do Grau de Ameaça de Extinção (MMA) com resolução taxonômica (GBIF) versão 1.0.")
+    st.markdown("Verificação do Grau de Ameaça de Extinção (MMA) com resolução taxonômica (GBIF).")
 
     aba1, aba2 = st.tabs(["📋 Copiar e Colar", "📁 Upload de Planilha"])
 
