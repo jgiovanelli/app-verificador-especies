@@ -43,27 +43,38 @@ with st.container():
     # ==============================================================================
     # 2. BARRA LATERAL E MEMÓRIA
     # ==============================================================================
+   
     with st.sidebar:
-        # --- NOVIDADE: Adicionando o Logotipo Bold no topo ---
+        # Logo da Seleção Natural
         try:
-            # st.image lê o arquivo que você já subiu na mesma pasta do script
             st.image("SN - Logotipo Bold-03.png", use_container_width=True)
-        except Exception as e:
-            # Caso a imagem não seja encontrada, mostra o texto normal como backup
+        except Exception:
             st.markdown("### Seleção Natural")
         
-        # O resto do conteúdo da sidebar continua igual
         st.markdown("### Sobre o Desenvolvedor")
         st.info("Este aplicativo foi desenvolvido pela **Seleção Natural**, abrindo espaço para biodiversidade.")
         st.markdown("[Acesse nosso site oficial](https://www.selecaonatural.net/)")
+        
+        # --- OPÇÃO B: ÁREA DO ADMINISTRADOR (Invisível para usuários comuns) ---
         st.write("---")
-        st.caption("Versão 1.0 | © 2026 Seleção Natural")
-
-    # Memórias do aplicativo
-    if 'tabela_dados' not in st.session_state:
-        st.session_state['tabela_dados'] = None
-    if 'email_cadastrado_download' not in st.session_state:
-        st.session_state['email_cadastrado_download'] = False
+        with st.expander("🔐 Área Restrita"):
+            senha_admin = st.text_input("Senha Admin", type="password")
+            # DICA: Troque 'selecao2026' pela senha que você quiser
+            if senha_admin == "selecao2026":
+                # Tenta ler o arquivo local se ele existir
+                if os.path.exists("leads_capturados.csv"):
+                    with open("leads_capturados.csv", "rb") as f:
+                        st.download_button(
+                            label="📥 Baixar Backup de Leads (CSV)",
+                            data=f,
+                            file_name="leads_backup.csv",
+                            mime="text/csv"
+                        )
+                else:
+                    st.warning("Nenhum lead salvo localmente ainda.")
+        
+        st.write("---")
+        st.caption("Versão 1.5.0 | © 2026 Seleção Natural")
 
     # ==============================================================================
     # 3. CORPO DO APLICATIVO
@@ -250,15 +261,6 @@ with st.container():
 
     st.markdown('</div>', unsafe_allow_html=True)
 
-with st.sidebar:
-    st.write("---")
-    senha_admin = st.text_input("Acesso Admin", type="password")
-    if senha_admin == "suasenha123": # Escolha uma senha
-        if os.path.exists("leads_capturados.csv"):
-            with open("leads_capturados.csv", "rb") as f:
-                st.download_button("📥 Baixar Lista de Leads", f, "leads_extraidos.csv", "text/csv")
-        else:
-            st.warning("Nenhum lead capturado ainda.")
 
 # ==============================================================================
 # 4. RODAPÉ HTML
