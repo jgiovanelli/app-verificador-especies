@@ -44,34 +44,42 @@ with st.container():
     # 2. BARRA LATERAL E MEMÓRIA
     # ==============================================================================
     with st.sidebar:
-        # Logo da Seleção Natural
+        # --- LOGOTIPO ---
         try:
             st.image("SN - Logotipo Bold-03.png", use_container_width=True)
         except Exception:
             st.markdown("### Seleção Natural")
         
-        st.markdown("### Sobre o Desenvolvedor")
-        st.info("Este aplicativo foi desenvolvido pela **Seleção Natural**, abrindo espaço para biodiversidade.")
-        st.markdown("[Acesse nosso site oficial](https://www.selecaonatural.net/)")
-        
-        # --- OPÇÃO B: ÁREA DO ADMINISTRADOR (Invisível para usuários comuns) ---
         st.write("---")
+
+        # --- NOVIDADE: CHAMADA PARA A PLATAFORMA ---
+        st.markdown("### 🌱 Nossa Plataforma")
+        st.write("Conheça nossa solução completa para gestão de biodiversidade.")
+        
+        # Criando um botão de destaque que abre o link
+        st.link_button("🌐 Acessar Seleção Natural", "https://www.selecaonatural.net/", use_container_width=True)
+        
+        st.write("---")
+
+        # --- SOBRE O DESENVOLVEDOR ---
+        st.markdown("### Sobre nós")
+        st.info("Este aplicativo foi desenvolvido pela **Seleção Natural**.")
+        
+        # --- ÁREA RESTRITA (OPÇÃO B) ---
         with st.expander("🔐 Área Restrita"):
-            senha_admin = st.text_input("Senha Admin", type="password")
-            # DICA: Troque 'selecao2026' pela senha que você quiser
+            senha_admin = st.text_input("Senha Admin", type="password", key="admin_pass")
             if senha_admin == "selecao2026":
-                # Tenta ler o arquivo local se ele existir
                 if os.path.exists("leads_capturados.csv"):
                     with open("leads_capturados.csv", "rb") as f:
                         st.download_button(
-                            label="📥 Baixar Backup de Leads (CSV)",
+                            label="📥 Baixar Backup de Leads",
                             data=f,
                             file_name="leads_backup.csv",
                             mime="text/csv"
                         )
                 else:
-                    st.warning("Nenhum lead salvo localmente ainda.")
-        
+                    st.warning("Sem backup local.")
+
         st.write("---")
         st.caption("Versão 1.0 | © 2026 Seleção Natural")
 
