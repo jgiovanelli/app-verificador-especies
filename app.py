@@ -57,7 +57,7 @@ with st.container():
         st.write("Conheça nossa solução completa para gestão de biodiversidade.")
         
         # Criando um botão de destaque que abre o link
-        st.link_button("🌐 Acessar Plataforma Seleção Natural", "https://plataforma.selecaonatural.net/auth/sign-in/", use_container_width=True)
+        st.link_button("🌐 Plataforma Seleção Natural", "https://plataforma.selecaonatural.net/auth/sign-in/", use_container_width=True)
         
         st.write("---")
 
