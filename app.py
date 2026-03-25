@@ -53,7 +53,7 @@ with st.container():
         st.write("---")
 
         # --- NOVIDADE: CHAMADA PARA A PLATAFORMA ---
-        st.markdown("### 🌱 Nossa Plataforma")
+        st.markdown("### Nossa Plataforma")
         st.write("Conheça nossa solução completa para gestão de biodiversidade.")
         
         # Criando um botão de destaque que abre o link
