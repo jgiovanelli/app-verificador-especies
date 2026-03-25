@@ -1,4 +1,3 @@
-from streamlit_gsheets import GSheetsConnection
 import streamlit as st
 import pandas as pd
 import os
@@ -221,31 +220,21 @@ with st.container():
                         elif not aceite_lgpd:
                             st.error("⚠️ Você precisa concordar com a Política de Privacidade para continuar.")
                         else:
-                            # --- CONEXÃO COM GOOGLE SHEETS ---
-                            try:
-                                conn = st.connection("gsheets", type=GSheetsConnection)
-                                # Lê os dados atuais da planilha
-                                df_leads_existentes = conn.read(spreadsheet=st.secrets["public_gsheets_url"])
-                                
-                                # Cria o novo lead
-                                novo_lead = pd.DataFrame([{
-                                    "Data": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
-                                    "Nome": nome_lead,
-                                    "Email": email_lead,
-                                    "Origem": "Download Tabela",
-                                    "Aceite_LGPD": "Sim"
-                                }])
-                                
-                                # Junta o novo lead com os antigos e atualiza a planilha
-                                df_final = pd.concat([df_leads_existentes, novo_lead], ignore_index=True)
-                                conn.update(spreadsheet=st.secrets["public_gsheets_url"], data=df_final)
-                                
-                                st.session_state['email_cadastrado_download'] = True
-                                st.success("Acesso liberado! Seus dados foram salvos com sucesso.")
-                                time.sleep(1)
-                                st.rerun()
-                            except Exception as e:
-                                st.error(f"Erro ao salvar na planilha: {e}")
+                            # Salva o contato em um arquivo CSV na sua pasta
+                            arquivo_leads = "leads_capturados.csv"
+                            cabecalho = not os.path.exists(arquivo_leads)
+                            
+                            with open(arquivo_leads, 'a', newline='', encoding='utf-8') as f:
+                                writer = csv.writer(f)
+                                if cabecalho:
+                                    # Adicionei uma coluna para registrar que a pessoa deu o aceite (importante para auditoria)
+                                    writer.writerow(['Data', 'Nome', 'Email', 'Origem', 'Aceite_LGPD'])
+                                writer.writerow([datetime.now().strftime("%Y-%m-%d %H:%M:%S"), nome_lead, email_lead, 'Download Tabela', 'Sim'])
+                            
+                            st.session_state['email_cadastrado_download'] = True
+                            st.success("Acesso liberado! Recarregando a página...")
+                            time.sleep(1)
+                            st.rerun()
             
             # Se o usuário JÁ colocou o e-mail, mostra o botão real de download
             else:
