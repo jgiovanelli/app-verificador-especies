@@ -250,6 +250,16 @@ with st.container():
 
     st.markdown('</div>', unsafe_allow_html=True)
 
+with st.sidebar:
+    st.write("---")
+    senha_admin = st.text_input("Acesso Admin", type="password")
+    if senha_admin == "suasenha123": # Escolha uma senha
+        if os.path.exists("leads_capturados.csv"):
+            with open("leads_capturados.csv", "rb") as f:
+                st.download_button("📥 Baixar Lista de Leads", f, "leads_extraidos.csv", "text/csv")
+        else:
+            st.warning("Nenhum lead capturado ainda.")
+
 # ==============================================================================
 # 4. RODAPÉ HTML
 # ==============================================================================
