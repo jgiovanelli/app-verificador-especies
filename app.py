@@ -48,7 +48,7 @@ with st.container():
         # --- LOGOTIPO ---
         try:
             # Cole o link exato que você copiou do GitHub entre as aspas abaixo:
-            url_logo = "https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/SN.png"
+            url_logo = "https://github.com/jgiovanelli/app-verificador-especies/blob/main/SN.png"
             st.image(url_logo, use_container_width=True)
         except Exception:
             st.markdown("### Seleção Natural")
