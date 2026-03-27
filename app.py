@@ -43,13 +43,11 @@ with st.container():
     # ==============================================================================
     # 2. BARRA LATERAL E MEMÓRIA
     # ==============================================================================
-
-with st.sidebar:
-    
+    with st.sidebar:
+        
         # --- LOGOTIPO ---
         try:
             st.image("SN.png", use_container_width=True)
-            
         except Exception:
             st.markdown("### Seleção Natural")
 
@@ -221,71 +219,6 @@ with st.sidebar:
                 st.info("💡 **Para baixar a tabela completa (CSV), cadastre-se abaixo:**")
                 with st.form("form_captura_leads"):
                     nome_lead = st.text_input("Seu Nome")
-                    email_lead = st.text_input("Seu E-mail Profissional")
-                    
-                    # --- NOVIDADE: Adequação LGPD ---
-                    # --- NOVIDADE: Adequação LGPD ---
-                    st.markdown("""
-                        <small style='color: #5f6368;'>
-                        Ao informar seus dados, você concorda em receber comunicações da Seleção Natural. 
-                        Seus dados estão seguros e você pode solicitar o descadastramento a qualquer momento 
-                        enviando um e-mail para <b>contato@selecaonatural.net</b>.
-                        </small>
-                    """, unsafe_allow_html=True)
-                    
-                    aceite_lgpd = st.checkbox("Li e concordo com a Política de Privacidade.")
-                    # --------------------------------
-                    # --------------------------------
-                    
-                    btn_liberar = st.form_submit_button("Liberar Download da Tabela")
-                    
-                    if btn_liberar:
-                        if not nome_lead or not email_lead:
-                            st.error("⚠️ Preencha nome e e-mail para liberar o download.")
-                        elif not aceite_lgpd:
-                            st.error("⚠️ Você precisa concordar com a Política de Privacidade para continuar.")
-                        else:
-                            # Salva o contato em um arquivo CSV na sua pasta
-                            arquivo_leads = "leads_capturados.csv"
-                            cabecalho = not os.path.exists(arquivo_leads)
-                            
-                            with open(arquivo_leads, 'a', newline='', encoding='utf-8') as f:
-                                writer = csv.writer(f)
-                                if cabecalho:
-                                    # Adicionei uma coluna para registrar que a pessoa deu o aceite (importante para auditoria)
-                                    writer.writerow(['Data', 'Nome', 'Email', 'Origem', 'Aceite_LGPD'])
-                                writer.writerow([datetime.now().strftime("%Y-%m-%d %H:%M:%S"), nome_lead, email_lead, 'Download Tabela', 'Sim'])
-                            
-                            st.session_state['email_cadastrado_download'] = True
-                            st.success("Acesso liberado! Recarregando a página...")
-                            time.sleep(1)
-                            st.rerun()
-            
-            # Se o usuário JÁ colocou o e-mail, mostra o botão real de download
-            else:
-                st.success("✅ Acesso liberado! Clique no botão abaixo para salvar seu arquivo.")
-                # Usando utf-8-sig para garantir que o Excel abra os acentos perfeitamente!
-                csv_export = df.to_csv(index=False).encode('utf-8-sig')
-                st.download_button(
-                    label="⬇️ Baixar Tabela Final (CSV)",
-                    data=csv_export,
-                    file_name="analise_especies_mma.csv",
-                    mime="text/csv",
-                )
-
-    st.markdown('</div>', unsafe_allow_html=True)
-
-# ==============================================================================
-# 4. RODAPÉ HTML
-# ==============================================================================
-st.markdown(
-    """
-    <div class="footer">
-        Desenvolvido por <a href="https://www.selecaonatural.net/" target="_blank" style="color: #1a73e8; font-weight: bold; text-decoration: none;">Seleção Natural</a>
-    </div>
-    """, 
-    unsafe_allow_html=True
-)
-        
-          
-      
+   
+           
+              
