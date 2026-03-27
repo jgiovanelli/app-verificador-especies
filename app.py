@@ -43,10 +43,10 @@ with st.container():
     # ==============================================================================
     # 2. BARRA LATERAL E MEMÓRIA
     # ==============================================================================
+
     with st.sidebar:
-            # --- LOGOTIPO ---
-            st.image("SN.png", use_container_width=True)
-            st.write("---")
+        # --- LOGOTIPO ---
+        st.image("SN.png", use_container_width=True)
         
         st.write("---")
 
