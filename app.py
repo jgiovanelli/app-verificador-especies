@@ -46,7 +46,7 @@ with st.container():
     with st.sidebar:
         # --- LOGOTIPO ---
         try:
-            st.image("SN - Logotipo Bold-03.png", use_container_width=True)
+            st.image("SN.png", use_container_width=True)
         except Exception:
             st.markdown("### Seleção Natural")
         
