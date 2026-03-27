@@ -1,4 +1,4 @@
-fastapi
-uvicorn
-python-multipart
-google-cloud-aiplatform
+streamlit
+pandas
+requests
+python-dateutil
