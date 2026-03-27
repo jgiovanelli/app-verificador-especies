@@ -1,3 +1,4 @@
-streamlit
-pandas
-
+fastapi
+uvicorn
+python-multipart
+google-cloud-aiplatform
