@@ -44,11 +44,14 @@ with st.container():
     # 2. BARRA LATERAL E MEMÓRIA
     # ==============================================================================
 
-    with st.sidebar:
+with st.sidebar:
+    
         # --- LOGOTIPO ---
-        st.image("SN.png", use_container_width=True)
-        
-        st.write("---")
+        try:
+            st.image("SN.png", use_container_width=True)
+            
+        except Exception:
+            st.markdown("### Seleção Natural")
 
         # --- NOVIDADE: CHAMADA PARA A PLATAFORMA ---
         st.markdown("### Nossa Plataforma")
