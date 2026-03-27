@@ -44,11 +44,9 @@ with st.container():
     # 2. BARRA LATERAL E MEMÓRIA
     # ==============================================================================
     with st.sidebar:
-        # --- LOGOTIPO ---
-        try:
+            # --- LOGOTIPO ---
             st.image("SN.png", use_container_width=True)
-        except Exception:
-            st.markdown("### Seleção Natural")
+            st.write("---")
         
         st.write("---")
 
