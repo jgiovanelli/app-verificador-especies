@@ -44,17 +44,20 @@ main_container = st.container()
 # 2. BARRA LATERAL (SIDEBAR)
 # ==============================================================================
 import os
+import streamlit as st
 
 with st.sidebar:
-   # --- LOGOTIPO ---
+    # --- LOGOTIPO ---
     try:
-        # Trocamos 'use_container_width' por 'use_column_width'
+        # Usando o nome do arquivo local e o parâmetro compatível
         st.image("SN.png", use_column_width=True)
     except Exception:
+        # Caso o arquivo não seja encontrado, mostra o texto
         st.markdown("### Seleção Natural")
 
     st.write("---")
     
+      
     # --- NOVIDADE: CHAMADA PARA A PLATAFORMA ---
     st.markdown("### Nossa Plataforma")
     st.write("Conheça nossa solução completa para gestão de biodiversidade.")
