@@ -47,11 +47,11 @@ with st.container():
         
         # --- LOGOTIPO ---
         try:
-            # Cole o link exato que você copiou do GitHub entre as aspas abaixo:
-            url_logo = "https://github.com/jgiovanelli/app-verificador-especies/blob/main/SN.png?raw=true"
-            st.image(url_logo, use_container_width=True)
-        except Exception:
-            st.markdown("### Seleção Natural")
+    st.image(url_logo, use_container_width=True)
+    
+    except Exception as e:
+    st.error(f"Erro ao carregar a imagem: {e}")
+    st.markdown("### Seleção Natural")
 
         # --- NOVIDADE: CHAMADA PARA A PLATAFORMA ---
         st.markdown("### Nossa Plataforma")
