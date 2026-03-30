@@ -44,14 +44,13 @@ with st.container():
     # 2. BARRA LATERAL E MEMÓRIA
     # ==============================================================================
     with st.sidebar:
-        
-        # --- LOGOTIPO ---
-        try:
-    st.image(url_logo, use_container_width=True)
-    
-    except Exception as e:
-    st.error(f"Erro ao carregar a imagem: {e}")
-    st.markdown("### Seleção Natural")
+    # --- LOGOTIPO ---
+    try:
+        # Link direto para o arquivo bruto (raw)
+        url_logo = "https://raw.githubusercontent.com/jgiovanelli/app-verificador-especies/main/SN.png"
+        st.image(url_logo, use_container_width=True)
+    except Exception:
+        st.markdown("### Seleção Natural")
 
         # --- NOVIDADE: CHAMADA PARA A PLATAFORMA ---
         st.markdown("### Nossa Plataforma")
