@@ -44,13 +44,14 @@ with st.container():
     # 2. BARRA LATERAL E MEMÓRIA
     # ==============================================================================
     with st.sidebar:
-    try:
-        # Tenta carregar como arquivo local primeiro
-        st.image("SN.png", use_container_width=True)
-    except Exception:
-        # Se falhar (ex: rodando localmente sem o arquivo), tenta a URL
-        url_logo = "https://raw.githubusercontent.com/jgiovanelli/app-verificador-especies/main/SN.png"
-        st.image(url_logo, use_container_width=True)
+        
+        # --- LOGOTIPO ---
+        try:
+            # Cole o link exato que você copiou do GitHub entre as aspas abaixo:
+            url_logo = "https://github.com/jgiovanelli/app-verificador-especies/blob/main/SN.png?raw=true"
+            st.image(url_logo, use_container_width=True)
+        except Exception:
+            st.markdown("### Seleção Natural")
 
         # --- NOVIDADE: CHAMADA PARA A PLATAFORMA ---
         st.markdown("### Nossa Plataforma")
