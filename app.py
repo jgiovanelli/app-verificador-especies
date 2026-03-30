@@ -46,13 +46,12 @@ main_container = st.container()
 import os
 
 with st.sidebar:
-    # --- DIAGNÓSTICO DO LOGOTIPO ---
-    if os.path.exists("SN.png"):
-        st.image("SN.png", use_container_width=True)
-    else:
-        # Se entrar aqui, o arquivo NÃO ESTÁ na pasta que o Streamlit pensa que está
-        st.error("Arquivo SN.png não encontrado na pasta raiz!")
-        st.write("Arquivos detectados:", os.listdir("."))
+   # --- LOGOTIPO ---
+    try:
+        # Trocamos 'use_container_width' por 'use_column_width'
+        st.image("SN.png", use_column_width=True)
+    except Exception:
+        st.markdown("### Seleção Natural")
 
     st.write("---")
     
