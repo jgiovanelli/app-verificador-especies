@@ -43,27 +43,32 @@ with st.container():
     # ==============================================================================
     # 2. BARRA LATERAL E MEMÓRIA
     # ==============================================================================
-    with st.sidebar:
+with st.sidebar:
     # --- LOGOTIPO ---
     try:
-        # Link direto para o arquivo bruto (raw)
+        # Link direto (Raw) para evitar problemas de carregamento
         url_logo = "https://raw.githubusercontent.com/jgiovanelli/app-verificador-especies/main/SN.png"
         st.image(url_logo, use_container_width=True)
     except Exception:
+        # Só executa isso se o link da imagem falhar
         st.markdown("### Seleção Natural")
 
-        # --- NOVIDADE: CHAMADA PARA A PLATAFORMA ---
-        st.markdown("### Nossa Plataforma")
-        st.write("Conheça nossa solução completa para gestão de biodiversidade.")
-        
-        # Criando um botão de destaque que abre o link
-        st.link_button("🌐 Plataforma Seleção Natural", "https://plataforma.selecaonatural.net/auth/sign-in/", use_container_width=True)
-        
-        st.write("---")
+    # --- TUDO ABAIXO AGORA ESTÁ FORA DO EXCEPT (VAI APARECER SEMPRE) ---
+    
+    st.write("---") # Uma linha divisória fica elegante aqui
+    
+    # --- NOVIDADE: CHAMADA PARA A PLATAFORMA ---
+    st.markdown("### Nossa Plataforma")
+    st.write("Conheça nossa solução completa para gestão de biodiversidade.")
+    
+    # Criando um botão de destaque que abre o link
+    st.link_button("🌐 Plataforma Seleção Natural", "https://plataforma.selecaonatural.net/auth/sign-in/", use_container_width=True)
+    
+    st.write("---")
 
-        # --- SOBRE O DESENVOLVEDOR ---
-        st.markdown("### Sobre nós")
-        st.info("Este aplicativo foi desenvolvido pela **Seleção Natural**.")
+    # --- SOBRE O DESENVOLVEDOR ---
+    st.markdown("### Sobre nós")
+    st.info("Este aplicativo foi desenvolvido pela **Seleção Natural**.")
         
         # --- ÁREA RESTRITA (OPÇÃO B) ---
         with st.expander("🔐 Área Restrita"):
