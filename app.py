@@ -30,38 +30,32 @@ estilo_customizado = """
     .footer {
         position: fixed; left: 0; bottom: 0; width: 100%; background-color: #f8f9fa; color: #5f6368;
         text-align: center; padding: 10px; font-size: 12px; border-top: 1px solid #e0e0e0;
-        z-index: 100; display: flex; align-items: center; justify-content: center;
+        z-index: 100;
     }
     .main-content { margin-bottom: 70px; }
 </style>
 """
 st.markdown(estilo_customizado, unsafe_allow_html=True)
 
-with st.container():
-    st.markdown('<div class="main-content">', unsafe_allow_html=True)
+# Container principal para aplicar o estilo de margem inferior
+main_container = st.container()
 
-    # ==============================================================================
-    # 2. BARRA LATERAL E MEMÓRIA
-    # ==============================================================================
+# ==============================================================================
+# 2. BARRA LATERAL (SIDEBAR)
+# ==============================================================================
 with st.sidebar:
     # --- LOGOTIPO ---
     try:
-        # Link direto (Raw) para evitar problemas de carregamento
         url_logo = "https://raw.githubusercontent.com/jgiovanelli/app-verificador-especies/main/SN.png"
         st.image(url_logo, use_container_width=True)
     except Exception:
-        # Só executa isso se o link da imagem falhar
         st.markdown("### Seleção Natural")
 
-    # --- TUDO ABAIXO AGORA ESTÁ FORA DO EXCEPT (VAI APARECER SEMPRE) ---
-    
-    st.write("---") # Uma linha divisória fica elegante aqui
+    st.write("---")
     
     # --- NOVIDADE: CHAMADA PARA A PLATAFORMA ---
     st.markdown("### Nossa Plataforma")
     st.write("Conheça nossa solução completa para gestão de biodiversidade.")
-    
-    # Criando um botão de destaque que abre o link
     st.link_button("🌐 Plataforma Seleção Natural", "https://plataforma.selecaonatural.net/auth/sign-in/", use_container_width=True)
     
     st.write("---")
@@ -70,33 +64,36 @@ with st.sidebar:
     st.markdown("### Sobre nós")
     st.info("Este aplicativo foi desenvolvido pela **Seleção Natural**.")
         
-        # --- ÁREA RESTRITA (OPÇÃO B) ---
-        with st.expander("🔐 Área Restrita"):
-            senha_admin = st.text_input("Senha Admin", type="password", key="admin_pass")
-            if senha_admin == "selecao2026":
-                if os.path.exists("leads_capturados.csv"):
-                    with open("leads_capturados.csv", "rb") as f:
-                        st.download_button(
-                            label="📥 Baixar Backup de Leads",
-                            data=f,
-                            file_name="leads_backup.csv",
-                            mime="text/csv"
-                        )
-                else:
-                    st.warning("Sem backup local.")
+    # --- ÁREA RESTRITA ---
+    with st.expander("🔐 Área Restrita"):
+        senha_admin = st.text_input("Senha Admin", type="password", key="admin_pass")
+        if senha_admin == "selecao2026":
+            if os.path.exists("leads_capturados.csv"):
+                with open("leads_capturados.csv", "rb") as f:
+                    st.download_button(
+                        label="📥 Baixar Backup de Leads",
+                        data=f,
+                        file_name="leads_backup.csv",
+                        mime="text/csv"
+                    )
+            else:
+                st.warning("Sem backup local.")
 
-        st.write("---")
-        st.caption("Versão 1.0 | © 2026 Seleção Natural")
+    st.write("---")
+    st.caption("Versão 1.0 | © 2026 Seleção Natural")
 
-    # Memórias do aplicativo
-    if 'tabela_dados' not in st.session_state:
-        st.session_state['tabela_dados'] = None
-    if 'email_cadastrado_download' not in st.session_state:
-        st.session_state['email_cadastrado_download'] = False
+# ==============================================================================
+# 3. MEMÓRIA DO APLICATIVO (SESSION STATE)
+# ==============================================================================
+if 'tabela_dados' not in st.session_state:
+    st.session_state['tabela_dados'] = None
+if 'email_cadastrado_download' not in st.session_state:
+    st.session_state['email_cadastrado_download'] = False
 
-    # ==============================================================================
-    # 3. CORPO DO APLICATIVO
-    # ==============================================================================
+# ==============================================================================
+# 4. CORPO DO APLICATIVO
+# ==============================================================================
+with main_container:
     st.title("Verificador de Espécies - Fauna e Flora")
     st.markdown("Verificação do Grau de Ameaça de Extinção (MMA) com resolução taxonômica (GBIF).")
 
@@ -108,7 +105,8 @@ with st.sidebar:
             if texto_nomes.strip():
                 lista_nomes = [nome.strip() for nome in texto_nomes.split('\n') if nome.strip()]
                 st.session_state['tabela_dados'] = pd.DataFrame({"Espécie": lista_nomes})
-                st.session_state['email_cadastrado_download'] = False # Reseta o download ao carregar nova lista
+                st.session_state['email_cadastrado_download'] = False 
+                st.rerun()
             else:
                 st.warning("Cole algum nome antes de carregar.")
 
@@ -118,113 +116,127 @@ with st.sidebar:
             st.session_state['tabela_dados'] = pd.read_csv(arquivo_upload)
             st.session_state['email_cadastrado_download'] = False
 
+    # LÓGICA DE PROCESSAMENTO
     if st.session_state['tabela_dados'] is not None:
         st.write("---")
-        st.write("### Lista para Verificação:")
-        
         df = st.session_state['tabela_dados'].copy()
         nome_coluna_especie = df.columns[0]
+        
+        st.write("### Lista para Verificação:")
         st.dataframe(df, use_container_width=True)
         
-        # LÓGICA DE CONSULTA
         if st.button("Consultar Status e Sinônimos"):
             caminho_fauna = "fauna-ameacada-2021.csv"
             caminho_flora = "flora-ameacada-2021.csv"
             
             if not os.path.exists(caminho_fauna) or not os.path.exists(caminho_flora):
-                st.error(f"Certifique-se de que os arquivos '{caminho_fauna}' e '{caminho_flora}' estão na mesma pasta do aplicativo.")
+                st.error("Erro: Arquivos de referência (fauna/flora-ameacada-2021.csv) não encontrados.")
             else:
-                # 1. Carregar Fauna
-                try:
-                    df_fauna = pd.read_csv(caminho_fauna, sep=';', encoding='utf-8')
-                except UnicodeDecodeError:
-                    df_fauna = pd.read_csv(caminho_fauna, sep=';', encoding='latin1')
-                
-                # 2. Carregar Flora
-                try:
-                    df_flora = pd.read_csv(caminho_flora, sep=';', encoding='utf-8')
-                except UnicodeDecodeError:
-                    df_flora = pd.read_csv(caminho_flora, sep=';', encoding='latin1')
-                
-                # 3. Criar dicionários e juntá-los
-                df_fauna['Espécie ou Subespécie'] = df_fauna['Espécie ou Subespécie'].astype(str).str.strip()
-                dict_fauna = dict(zip(df_fauna['Espécie ou Subespécie'].str.lower(), df_fauna['Sugestão de Categoria 2021']))
+                # Carregamento com tratamento de encoding
+                def carregar_csv(caminho):
+                    try:
+                        return pd.read_csv(caminho, sep=';', encoding='utf-8')
+                    except:
+                        return pd.read_csv(caminho, sep=';', encoding='latin1')
 
-                # Tratamento da Flora: Separa as palavras pelo espaço e pega apenas as duas primeiras (Gênero e Espécie), ignorando o autor
+                df_fauna = carregar_csv(caminho_fauna)
+                df_flora = carregar_csv(caminho_flora)
+                
+                # Dicionários de busca
+                dict_fauna = dict(zip(df_fauna['Espécie ou Subespécie'].astype(str).str.strip().str.lower(), df_fauna['Sugestão de Categoria 2021']))
+                
                 df_flora['Espécie Limpa'] = df_flora['Espécie (FB 2020)'].astype(str).str.strip().apply(lambda x: ' '.join(x.split()[:2]))
                 dict_flora = dict(zip(df_flora['Espécie Limpa'].str.lower(), df_flora['Sugestão de Categoria 2021']))
                 
-                # Dicionário unificado (Fauna + Flora)
                 mma_dict = {**dict_fauna, **dict_flora}
                 
                 status_final = []
                 notas_taxon = []
-                texto_progresso = st.empty()
-                barra_progresso = st.progress(0)
-                total_especies = len(df)
+                progresso = st.progress(0)
+                status_texto = st.empty()
                 
                 for i, nome_original in enumerate(df[nome_coluna_especie]):
                     nome_limpo = str(nome_original).strip()
                     nome_lower = nome_limpo.lower()
-                    texto_progresso.text(f"Analisando: {nome_limpo}...")
+                    status_texto.text(f"Analisando ({i+1}/{len(df)}): {nome_limpo}")
                     
                     if nome_lower in mma_dict:
                         status_final.append(mma_dict[nome_lower])
                         notas_taxon.append("Correspondência exata")
                     else:
-                        url_gbif = "https://api.gbif.org/v1/species/match"
-                        encontrou_sinonimo = False
+                        # Busca no GBIF
                         try:
-                            resp = requests.get(url_gbif, params={"name": nome_limpo, "strict": False}, timeout=5)
-                            if resp.status_code == 200:
-                                dados_gbif = resp.json()
-                                if dados_gbif.get("matchType") != "NONE":
-                                    nome_aceite_gbif = dados_gbif.get("species", "")
-                                    if nome_aceite_gbif and nome_aceite_gbif.lower() != nome_lower:
-                                        if nome_aceite_gbif.lower() in mma_dict:
-                                            status_final.append(mma_dict[nome_aceite_gbif.lower()])
-                                            notas_taxon.append(f"Sinônimo. Nome aceito (GBIF): {nome_aceite_gbif}")
-                                            encontrou_sinonimo = True
-                        except Exception:
-                            pass 
-                        
-                        if not encontrou_sinonimo:
-                            status_final.append("Não Ameaçada / Não Encontrada")
-                            notas_taxon.append("-")
+                            resp = requests.get("https://api.gbif.org/v1/species/match", params={"name": nome_limpo}, timeout=5)
+                            dados = resp.json()
+                            nome_aceite = dados.get("species", "")
                             
-                        time.sleep(0.1)
+                            if nome_aceite and nome_aceite.lower() in mma_dict:
+                                status_final.append(mma_dict[nome_aceite.lower()])
+                                notas_taxon.append(f"Sinônimo. Nome aceito: {nome_aceite}")
+                            else:
+                                status_final.append("Não Ameaçada / Não Encontrada")
+                                notas_taxon.append("-")
+                        except:
+                            status_final.append("Erro na consulta")
+                            notas_taxon.append("Falha de conexão")
                     
-                    barra_progresso.progress((i + 1) / total_especies)
+                    progresso.progress((i + 1) / len(df))
                 
-                texto_progresso.empty()
-                barra_progresso.empty()
                 df["Status MMA (Portaria 148)"] = status_final
                 df["Notas Taxonômicas (GBIF)"] = notas_taxon
                 st.session_state['tabela_dados'] = df
-                st.success("Análise finalizada!")
+                st.success("Análise concluída!")
                 st.rerun()
 
-        # DASHBOARD E ÁREA DE DOWNLOAD COM CAPTURA DE LEADS
+        # ÁREA DE RESULTADOS E DOWNLOAD
         if "Status MMA (Portaria 148)" in df.columns:
             st.write("---")
             st.write("### 📊 Resumo da Análise")
             
-            col1, col2 = st.columns([1, 2])
-            with col1:
-                st.write("**Contagem de Status:**")
-                contagem = df["Status MMA (Portaria 148)"].value_counts()
-                st.dataframe(contagem)
-            with col2:
-                st.write("**Gráfico de Ameaças:**")
-                st.bar_chart(contagem)
+            c1, c2 = st.columns([1, 2])
+            contagem = df["Status MMA (Portaria 148)"].value_counts()
+            c1.dataframe(contagem)
+            c2.bar_chart(contagem)
             
             st.write("### 📥 Exportar Resultados")
             
-            # Se o usuário ainda não colocou o e-mail, mostra o formulário
             if not st.session_state['email_cadastrado_download']:
-                st.info("💡 **Para baixar a tabela completa (CSV), cadastre-se abaixo:**")
-                with st.form("form_captura_leads"):
-                    nome_lead = st.text_input("Seu Nome")
+                st.info("💡 Cadastre-se para baixar a planilha completa:")
+                with st.form("form_leads"):
+                    nome_l = st.text_input("Nome completo")
+                    email_l = st.text_input("E-mail corporativo")
+                    empresa_l = st.text_input("Empresa")
+                    btn_enviar = st.form_submit_button("Liberar Download")
+                    
+                    if btn_enviar:
+                        if nome_l and email_l:
+                            # Salva o lead em CSV local
+                            novo_lead = [datetime.now().strftime("%Y-%m-%d %H:%M:%S"), nome_l, email_l, empresa_l]
+                            file_exists = os.path.isfile("leads_capturados.csv")
+                            with open("leads_capturados.csv", "a", newline='', encoding='utf-8') as f:
+                                writer = csv.writer(f)
+                                if not file_exists:
+                                    writer.writerow(["Data", "Nome", "Email", "Empresa"])
+                                writer.writerow(novo_lead)
+                            
+                            st.session_state['email_cadastrado_download'] = True
+                            st.success("Agradecemos o contato! O download foi liberado.")
+                            st.rerun()
+                        else:
+                            st.warning("Por favor, preencha nome e e-mail.")
+            else:
+                csv_data = df.to_csv(index=False).encode('utf-8')
+                st.download_button(
+                    label="✅ Baixar Planilha de Resultados",
+                    data=csv_data,
+                    file_name=f"resultado_especies_{datetime.now().strftime('%d%m%Y')}.csv",
+                    mime="text/csv",
+                    use_container_width=True
+                )
    
-           
+
+
+   
+       
+             
               
