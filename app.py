@@ -46,8 +46,7 @@ main_container = st.container()
 with st.sidebar:
     # --- LOGOTIPO ---
     try:
-        url_logo = "https://raw.githubusercontent.com/jgiovanelli/app-verificador-especies/main/SN.png"
-        st.image(url_logo, use_container_width=True)
+        st.image("SN.png", use_container_width=True)
     except Exception:
         st.markdown("### Seleção Natural")
 
