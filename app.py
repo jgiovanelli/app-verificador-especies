@@ -43,12 +43,16 @@ main_container = st.container()
 # ==============================================================================
 # 2. BARRA LATERAL (SIDEBAR)
 # ==============================================================================
+import os
+
 with st.sidebar:
-    # --- LOGOTIPO ---
-    try:
+    # --- DIAGNÓSTICO DO LOGOTIPO ---
+    if os.path.exists("SN.png"):
         st.image("SN.png", use_container_width=True)
-    except Exception:
-        st.markdown("### Seleção Natural")
+    else:
+        # Se entrar aqui, o arquivo NÃO ESTÁ na pasta que o Streamlit pensa que está
+        st.error("Arquivo SN.png não encontrado na pasta raiz!")
+        st.write("Arquivos detectados:", os.listdir("."))
 
     st.write("---")
     
